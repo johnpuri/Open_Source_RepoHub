@@ -36,6 +36,7 @@
 | [🚀 ruflo](https://github.com/ruvnet/ruflo) | AI-powered workflow automation framework |
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
+| [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
 
 ---
 
