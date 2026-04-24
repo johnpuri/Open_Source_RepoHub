@@ -15,6 +15,7 @@
 ## 📌 Table of Contents
 
 - [🤖 AI & LLM Tools](#-ai--llm-tools)
+- [🕷️ AI Web Scrapers & Crawlers](#-ai-web-scrapers--crawlers)
 - [🦜 Personal AI Assistants](#-personal-ai-assistants)
 - [🌐 Public APIs & Resources](#-public-apis--resources)
 - [🌍 Diversity in Open Source](#-diversity-in-open-source)
@@ -40,6 +41,21 @@
 
 ---
 
+## 🕷️ AI Web Scrapers & Crawlers
+
+> Repos focused on data extraction, browser automation, and AI-powered web crawling.
+
+| Project | Description |
+|---|---|
+| [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
+| [🏃 Colly](https://github.com/gocolly/colly) | Elegant and fast web scraping framework for Golang |
+| [🎭 Stagehand](https://github.com/browserbase/stagehand) | AI-focused web browsing framework for Playwright/Puppeteer |
+| [🕷️ Crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
+| [🤖 Crawl4AI](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly web crawler & scraper for AI agents |
+| [🧠 GPT Crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create custom GPTs |
+
+---
+
 ## 🦜 Personal AI Assistants
 
 > Open-source projects inspired by Jarvis and AI personal assistant concepts.
@@ -62,6 +78,7 @@
 | [📦 public-apis](https://github.com/public-apis/public-apis) | Massive curated list of free public APIs |
 | [🔓 unsecuredapikeys.com](https://unsecuredapikeys.com/) | Directory of exposed/test API keys for research |
 | [🌐 publicapis.dev](https://publicapis.dev/) | Searchable public API directory with categorized listing |
+| [🦙 ollamafreeapi](https://github.com/mfoud444/ollamafreeapi) | Free public API providing access to Ollama models |
 
 ---
 
