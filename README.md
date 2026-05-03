@@ -38,6 +38,12 @@
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
+| [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create custom GPTs |
+| [🕸️ Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python web scraping library that uses LLMs to create pipelines |
+| [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
+| [🕸️ stagehand](https://github.com/browserbase/stagehand) | An AI web browsing framework focused on simplicity and extensibility |
+| [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
+| [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper |
 
 ---
 
