@@ -5,7 +5,7 @@
 > **A curated collection of open-source projects, tools, and resources for builders, developers, and AI enthusiasts.**
 
 [![GitHub Stars](https://img.shields.io/github/stars/johnpuri33/Open_Source_RepoHub?style=for-the-badge&color=FFD700&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
-[![Last Updated](https://img.shields.io/badge/Updated-April%202026-blue?style=for-the-badge&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
+[![Last Updated](https://img.shields.io/badge/Updated-May%202026-blue?style=for-the-badge&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1a1a2e)](LICENSE)
 
 </div>
@@ -44,6 +44,8 @@
 | [🕸️ stagehand](https://github.com/browserbase/stagehand) | An AI web browsing framework focused on simplicity and extensibility |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 | [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper |
+| [💻 jcode](https://github.com/1jehuang/jcode) | High-performance Rust coding agent harness with self-editing capabilities |
+| [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent framework with cross-session memory and autonomous skill creation |
 
 ---
 
@@ -118,6 +120,7 @@
 |---|---|
 | [📄 resume-tailoring-skill (amanattar)](https://github.com/amanattar/resume-tailoring-skill) | Claude skill for AI-powered resume customization |
 | [📄 resume-tailoring-skill (varunr89)](https://github.com/varunr89/resume-tailoring-skill) | Forked variant with additional workflow improvements |
+| [🎬 clipify](https://github.com/louisedesadeleer/clipify) | Claude skill to transform long-form videos into social-ready clips |
 
 ---
 
