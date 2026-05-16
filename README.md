@@ -38,6 +38,11 @@
 | [🦉 OWL](https://github.com/camel-ai/owl) | Optimized Workforce Learning — multi-agent collaboration by CAMEL-AI |
 | [🤖 Agency-agents](https://github.com/msitarzewski/agency-agents) | Framework for building agency-based AI agent systems |
 | [🚀 ruflo](https://github.com/ruvnet/ruflo) | AI-powered workflow automation framework |
+| [🌊 Claude Code Flow](https://github.com/INTGworld/claude-code-flow) | Orchestration platform for Claude Code to coordinate multiple AI agents |
+| [🦴 Caveman](https://github.com/juliusbrussee/caveman) | Claude Code skill for token optimization via ultra-concise communication |
+| [🗺️ Graphify](https://github.com/safishamsi/graphify) | AI skill that maps project folders into queryable knowledge graphs |
+| [🖇️ Paperclip](https://github.com/paperclipai/paperclip) | Orchestration platform for managing "zero-human" agent-led companies |
+| [⚡ Superpowers](https://github.com/obra/superpowers) | Composable agentic skills framework for formal engineering processes |
 | [🦙 LlamaIndex](https://github.com/run-llama/llama_index) | Leading data framework for building agentic RAG applications |
 | [🧠 RAG-Anything](https://github.com/HKUDS/RAG-Anything) | All-in-One multimodal RAG framework for complex retrieval |
 | [🦌 DeerFlow](https://github.com/bytedance/deer-flow) | Deep Exploration and Efficient Research Flow for long-horizon tasks |
@@ -68,6 +73,7 @@
 | [📡 Proxima](https://github.com/Zen4-bit/Proxima) | Multi-model MCP server and local AI gateway |
 | [🚦 9router](https://github.com/decolua/9router) | Local AI routing gateway for unified endpoint management |
 | [🔓 free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Collection of alternative tools for open-source Claude workflows |
+| [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
 | [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
 
 ---
@@ -85,6 +91,8 @@
 | [🎬 video-use](https://github.com/browser-use/video-use) | Conversation-driven video editing for coding agents |
 | [🎬 CineHD.xyz](https://github.com/marcusluer1/CineHD.xyz) | Resources and documentation for movie/TV streaming apps |
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
+| [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
+| [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
 
 ---
 
@@ -136,6 +144,7 @@
 | [🤖 jarvis (isair)](https://github.com/isair/jarvis) | Conversational assistant with task management |
 | [🤖 OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Full-featured open Jarvis-like assistant |
 | [🕶️ Friday — Tony Stark Demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo) | Tony Stark–inspired voice AI assistant demo |
+| [✈️ trvl](https://github.com/MikkoParkkola/trvl) | MCP server and CLI tool functioning as an AI travel agent |
 
 ---
 
