@@ -60,7 +60,10 @@
 | [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
 | [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
 | [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | Opinionated collection of 20+ production engineering skills for agents |
-| [📓 Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
+| [🧠 agentmemory](https://github.com/rohitg00/agentmemory) | Persistence layer and long-term memory management for AI agents |
+| [💰 Financial Services](https://github.com/anthropics/financial-services) | Modular skills and prompts for AI-driven financial analysis and services |
+| [🎓 Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) | Curated AI skills optimized for scientific writing and academic research |
+| [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
 
 ---
 
@@ -87,7 +90,9 @@
 | [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
 | [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official MCP server for searching and managing Notion workspace content |
 | [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
-| [📟 Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
+| [🖥️ DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Terminal-based interface for efficient interaction with DeepSeek LLMs |
+| [🚀 Hysteria](https://github.com/apernet/hysteria) | Feature-packed network tunnel optimized for harsh network environments |
+| [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 
 ---
 
@@ -108,6 +113,8 @@
 | [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
 | [🎨 Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server providing Figma layout and styling data to AI coding agents |
 | [🔊 Supertonic](https://github.com/supertone-inc/supertonic) | Lightning-fast, on-device text-to-speech system powered by ONNX |
+| [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
+| [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 
 ---
@@ -138,6 +145,7 @@
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
+| [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
 | [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
 
 ---
@@ -193,6 +201,8 @@
 | [📄 resume-tailoring-skill (amanattar)](https://github.com/amanattar/resume-tailoring-skill) | Claude skill for AI-powered resume customization |
 | [📄 resume-tailoring-skill (varunr89)](https://github.com/varunr89/resume-tailoring-skill) | Forked variant with additional workflow improvements |
 | [📝 Cheating Daddy Setup](https://www.notion.so/Set-up-Cheating-Daddy-32366d0bd4f0802ebb2ee4b6dbd88cb1) | Notion workspace setup guide *(private)* |
+| [💸 AiToEarn](https://github.com/yikart/AiToEarn) | Web3-integrated ecosystem for AI-driven monetization and contributions |
+| [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
 | [📈 QuantMuse](https://github.com/0xemmkty/QuantMuse) | Quantitative trading system with AI-powered analysis |
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
 
