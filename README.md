@@ -54,6 +54,13 @@
 | [🖥️ holaOS](https://github.com/holaboss-ai/holaOS) | Open agent computer for automating repetitive digital work-streams |
 | [🖼️ Z-Image](https://github.com/Tongyi-MAI/Z-Image) | Multimodal image generation and processing tool |
 | [🌐 metaai-api](https://github.com/mir-ashiq/metaai-api) | Unofficial API wrapper for Meta AI services |
+| [🧪 PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Open-source Deep Research agent for autonomous, multi-turn web research |
+| [🦞 Pokee OpenClaw Skill](https://github.com/Pokee-AI/pokee-deep-research-openclaw-skill) | Deep research integration for the OpenClaw framework |
+| [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 130+ ready-to-use skills for scientific research and engineering workflows |
+| [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
+| [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
+| [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | Opinionated collection of 20+ production engineering skills for agents |
+| [📓 Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
 
 ---
 
@@ -75,6 +82,10 @@
 | [🔓 free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Collection of alternative tools for open-source Claude workflows |
 | [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
 | [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
+| [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
+| [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official MCP server for searching and managing Notion workspace content |
+| [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
+| [📟 Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 
 ---
 
@@ -93,6 +104,9 @@
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
 | [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
+| [🎨 Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server providing Figma layout and styling data to AI coding agents |
+| [🔊 Supertonic](https://github.com/supertone-inc/supertonic) | Lightning-fast, on-device text-to-speech system powered by ONNX |
+| [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 
 ---
 
@@ -122,6 +136,7 @@
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
+| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
 
 ---
 
@@ -145,6 +160,7 @@
 | [🤖 OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Full-featured open Jarvis-like assistant |
 | [🕶️ Friday — Tony Stark Demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo) | Tony Stark–inspired voice AI assistant demo |
 | [✈️ trvl](https://github.com/MikkoParkkola/trvl) | MCP server and CLI tool functioning as an AI travel agent |
+| [👤 OpenHuman](https://github.com/tinyhumansai/openhuman) | Privacy-focused personal AI with local "Memory Tree" data ingestion |
 
 ---
 
