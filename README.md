@@ -76,6 +76,7 @@
 | [🏇 claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | Utility for enhancing and managing Claude Code workflows |
 | [💻 jcode](https://github.com/1jehuang/jcode) | High-performance Rust coding agent harness with self-editing |
 | [🔍 code-review-graph](https://github.com/tirth8205/code-review-graph) | Graph-based AI code review assistant |
+| [📜 spec-kit](https://github.com/github/spec-kit) | Toolkit from GitHub for authoring and validating specifications |
 | [🧩 n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | MCP server for designing and building n8n workflows with AI |
 | [📡 Proxima](https://github.com/Zen4-bit/Proxima) | Multi-model MCP server and local AI gateway |
 | [🚦 9router](https://github.com/decolua/9router) | Local AI routing gateway for unified endpoint management |
