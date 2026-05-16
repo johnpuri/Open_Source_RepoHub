@@ -63,6 +63,11 @@
 | [🧠 agentmemory](https://github.com/rohitg00/agentmemory) | Persistence layer and long-term memory management for AI agents |
 | [💰 Financial Services](https://github.com/anthropics/financial-services) | Modular skills and prompts for AI-driven financial analysis and services |
 | [🎓 Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) | Curated AI skills optimized for scientific writing and academic research |
+| [👐 OpenHands](https://github.com/OpenHands/OpenHands) | Open-source platform for AI software engineering agents (formerly OpenDevin) |
+| [🤝 OpenManus](https://github.com/FoundationAgents/OpenManus) | Open-source implementation of the Manus AI agent |
+| [🌐 Open WebUI](https://github.com/open-webui/open-webui) | Feature-rich WebUI for LLMs with full offline support |
+| [🪄 oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Multi-agent framework for building complex autonomous applications |
+| [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
 | [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
 
 ---
@@ -92,6 +97,11 @@
 | [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
 | [🖥️ DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Terminal-based interface for efficient interaction with DeepSeek LLMs |
 | [🚀 Hysteria](https://github.com/apernet/hysteria) | Feature-packed network tunnel optimized for harsh network environments |
+| [🔥 freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | Massive open-source curriculum and community for learning to code |
+| [🔓 OpenCode](https://github.com/anomalyco/opencode) | Open-source development platform for AI-powered coding tools |
+| [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
+| [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
+| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
 | [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 
 ---
@@ -115,6 +125,8 @@
 | [🔊 Supertonic](https://github.com/supertone-inc/supertonic) | Lightning-fast, on-device text-to-speech system powered by ONNX |
 | [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
+| [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
+| [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 | [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 
 ---
