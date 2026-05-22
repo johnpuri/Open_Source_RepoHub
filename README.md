@@ -57,6 +57,7 @@
 | [🧪 PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Open-source Deep Research agent for autonomous, multi-turn web research |
 | [🦞 Pokee OpenClaw Skill](https://github.com/Pokee-AI/pokee-deep-research-openclaw-skill) | Deep research integration for the OpenClaw framework |
 | [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 130+ ready-to-use skills for scientific research and engineering workflows |
+| [📈 TradingAgents](https://github.com/tauricresearch/tradingagents) | Multi-agent LLM framework for financial trading with analyst, trader, and risk manager agents |
 | [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
 | [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
 | [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | Opinionated collection of 20+ production engineering skills for agents |
