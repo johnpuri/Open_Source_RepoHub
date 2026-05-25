@@ -70,6 +70,7 @@
 | [🪄 oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Multi-agent framework for building complex autonomous applications |
 | [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
 | [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
+| [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 
 ---
 
