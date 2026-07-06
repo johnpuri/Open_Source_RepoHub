@@ -5,7 +5,7 @@
 > **A curated collection of open-source projects, tools, and resources for builders, developers, and AI enthusiasts.**
 
 [![GitHub Stars](https://img.shields.io/github/stars/johnpuri33/Open_Source_RepoHub?style=for-the-badge&color=FFD700&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
-[![Last Updated](https://img.shields.io/badge/Updated-May%202026-blue?style=for-the-badge&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
+[![Last Updated](https://img.shields.io/badge/Updated-July%202026-blue?style=for-the-badge&labelColor=1a1a2e)](https://github.com/johnpuri33/Open_Source_RepoHub)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1a1a2e)](LICENSE)
 
 </div>
@@ -71,7 +71,8 @@
 | [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
 | [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
-|| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
+||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
+||| [🐋 Orca](https://github.com/stablyai/orca) | ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
 
 ---
 
@@ -107,7 +108,10 @@
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
 || [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 || [🎮 Unity-MCP](https://github.com/CoplayDev/unity-mcp) | Bridge between AI assistants and Unity Editor — manage assets, control scenes, edit scripts, and automate tasks |
-|| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
+||| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
+|| [👁️ Supervision](https://github.com/roboflow/supervision) | Reusable computer vision tools — detect, track, count, segment without boilerplate |
+|| [🎤 Whisper](https://github.com/openai/whisper) | Robust speech recognition via large-scale weak supervision (by OpenAI) |
+|| [🚗 openpilot](https://github.com/commaai/openpilot) | Operating system for robotics — upgrades driver assistance on 300+ supported cars |
 
 ---
 
@@ -134,7 +138,9 @@
 | [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
-|| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
+||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
+|| [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
+|| [🎨 Astryx](https://github.com/facebook/astryx) | Meta's internal design system open-sourced — 150+ customizable components for agent-ready UIs |
 
 ---
 
@@ -151,9 +157,10 @@
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 || [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
-|| [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
+| [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
+|| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
 
----
+|---|
 
 ## 🕹️ Browser Automation
 
@@ -167,7 +174,8 @@
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
-| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
+|| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
+|| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
 
 ---
 
@@ -192,7 +200,11 @@
 | [🕶️ Friday — Tony Stark Demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo) | Tony Stark–inspired voice AI assistant demo |
 | [✈️ trvl](https://github.com/MikkoParkkola/trvl) | MCP server and CLI tool functioning as an AI travel agent |
 | [👤 OpenHuman](https://github.com/tinyhumansai/openhuman) | Privacy-focused personal AI with local "Memory Tree" data ingestion |
-|| [🤖 Meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting assistant with 4x faster live transcription, speaker diarization, and Ollama summarization -- 100% local processing |
+||| [🤖 Meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting assistant with 4x faster live transcription, speaker diarization, and Ollama summarization -- 100% local processing |
+||| [🦊 Airi](https://github.com/moeru-ai/airi) | Open-source Gemini/Grok/Dify AI companion for desktop — chat, voice, play games, self-hosted |
+||| [🤖 Skales](https://github.com/skalesapp/skales) | Your personal AI desktop agent — run models, search web, execute commands on your machine |
+||| [✈️ TREK](https://github.com/mauriceboe/TREK) | Self-hosted trip planner and travel assistant that handles your entire travel workflow |
+||| [💻 Claude Fable 5 Desktop](https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app) | Free native desktop client for Claude Fable 5 — runs locally, no subscriptions |
 
 ---
 
@@ -203,7 +215,8 @@
 | [📦 public-apis](https://github.com/public-apis/public-apis) | Massive curated list of free public APIs |
 | [🔓 unsecuredapikeys.com](https://unsecuredapikeys.com/) | Directory of exposed/test API keys for research |
 | [🌐 publicapis.dev](https://publicapis.dev/) | Searchable public API directory with categorized listing |
-| [🦙 ollamafreeapi](https://github.com/mfoud444/ollamafreeapi) | Free public API providing access to Ollama models |
+|| [🦙 ollamafreeapi](https://github.com/mfoud444/ollamafreeapi) | Free public API providing access to Ollama models |
+|| [💪 free-exercise-db](https://github.com/yuhonas/free-exercise-db) | Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a broad range of muscles and equipment |
 
 ---
 
