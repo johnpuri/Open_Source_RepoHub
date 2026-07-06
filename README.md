@@ -129,6 +129,7 @@
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
 | [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
+| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
 | [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 
 ---
