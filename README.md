@@ -32,7 +32,7 @@
 > Multi-agent orchestration, RAG frameworks, and autonomous research agents.
 
 | Project | Description |
-|---|---|
+------|
 | [🪿 goose](https://github.com/aaif-goose/goose) | Open-source AI agent framework by Block |
 | [🔭 AgentScope](https://github.com/agentscope-ai/agentscope) | Production-ready multi-agent framework with memory and tool support |
 | [🦉 OWL](https://github.com/camel-ai/owl) | Optimized Workforce Learning — multi-agent collaboration by CAMEL-AI |
@@ -70,7 +70,8 @@
 | [🪄 oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Multi-agent framework for building complex autonomous applications |
 | [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
 | [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
-| [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
+|| [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
+|| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
 
 ---
 
@@ -79,7 +80,7 @@
 > LLM inference, coding agents, and developer-focused AI tooling.
 
 | Project | Description |
-|---|---|
+------|
 | [🚀 llama.cpp](https://github.com/ggml-org/llama.cpp) | Efficient LLM inference in C/C++ for consumer hardware |
 | [🔋 airllm](https://github.com/lyogavin/airllm) | Run large LLMs on consumer hardware using memory-efficient inference |
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
@@ -103,8 +104,10 @@
 | [🔓 OpenCode](https://github.com/anomalyco/opencode) | Open-source development platform for AI-powered coding tools |
 | [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
-| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
-| [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
+|| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
+|| [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
+|| [🎮 Unity-MCP](https://github.com/CoplayDev/unity-mcp) | Bridge between AI assistants and Unity Editor — manage assets, control scenes, edit scripts, and automate tasks |
+|| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
 
 ---
 
@@ -113,7 +116,7 @@
 > UI/UX tools, design-to-code, and AI-powered visual asset generation.
 
 | Project | Description |
-|---|---|
+------|
 | [🎨 Open Design](https://github.com/nexu-io/open-design) | Local-first design workflow for creating prototypes with AI |
 | [🎨 Portfolio Website](https://github.com/MoncyDev/Portfolio-Website) | Clean and modern developer portfolio template |
 | [🎨 design-extract](https://github.com/Manavarya09/design-extract) | Tool for extracting design assets and data from UI mockups |
@@ -129,8 +132,9 @@
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
 | [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
-| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
-| [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
+|| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
+|| [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
+|| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
 
 ---
 
@@ -139,13 +143,15 @@
 > LLM-powered scrapers, crawlers, and data extraction frameworks.
 
 | Project | Description |
-|---|---|
+------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
 | [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | Adaptive scraping framework with anti-bot bypass |
 | [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper |
 | [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
-| [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
+|| [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
+|| [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
+|| [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
 
 ---
 
@@ -154,7 +160,7 @@
 > Tools for programmatic browser control and AI-driven web navigation.
 
 | Project | Description |
-|---|---|
+------|
 | [🎭 stagehand](https://github.com/browserbase/stagehand) | AI-focused web browsing framework for Playwright/Puppeteer |
 | [🕹️ browser-harness](https://github.com/browser-use/browser-harness) | Self-healing browser automation for LLM agents using CDP |
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
@@ -170,7 +176,7 @@
 > Observability tools for tracking token consumption, costs, and limits.
 
 | Project | Description |
-|---|---|
+------|
 | [🔥 codeburn](https://github.com/getagentseal/codeburn) | TUI dashboard for tracking AI token costs and usage |
 | [📊 claude-counter](https://github.com/she-llac/claude-counter) | Browser extension for tracking token usage on claude.ai |
 
@@ -179,20 +185,21 @@
 ## 🦜 Personal AI Assistants
 
 | Project | Description |
-|---|---|
+------|
 | [🤖 jarvis (vierisid)](https://github.com/vierisid/jarvis) | Personal AI assistant project |
 | [🤖 jarvis (isair)](https://github.com/isair/jarvis) | Conversational assistant with task management |
 | [🤖 OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Full-featured open Jarvis-like assistant |
 | [🕶️ Friday — Tony Stark Demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo) | Tony Stark–inspired voice AI assistant demo |
 | [✈️ trvl](https://github.com/MikkoParkkola/trvl) | MCP server and CLI tool functioning as an AI travel agent |
 | [👤 OpenHuman](https://github.com/tinyhumansai/openhuman) | Privacy-focused personal AI with local "Memory Tree" data ingestion |
+|| [🤖 Meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting assistant with 4x faster live transcription, speaker diarization, and Ollama summarization -- 100% local processing |
 
 ---
 
 ## 🌐 Public APIs & Resources
 
 | Resource | Description |
-|---|---|
+------|
 | [📦 public-apis](https://github.com/public-apis/public-apis) | Massive curated list of free public APIs |
 | [🔓 unsecuredapikeys.com](https://unsecuredapikeys.com/) | Directory of exposed/test API keys for research |
 | [🌐 publicapis.dev](https://publicapis.dev/) | Searchable public API directory with categorized listing |
@@ -203,7 +210,7 @@
 ## 🌍 Diversity in Open Source
 
 | Resource | Description |
-|---|---|
+------|
 | [👩‍💻 santifer (GitHub)](https://github.com/santifer) | Developer profile — diversity-focused open source contributor |
 | [🛠️ career-ops](https://github.com/santifer/career-ops) | Career operations tooling and resources |
 
@@ -212,7 +219,7 @@
 ## 💼 Portfolio & Career Tools
 
 | Project | Description |
-|---|---|
+------|
 | [📄 resume-tailoring-skill (amanattar)](https://github.com/amanattar/resume-tailoring-skill) | Claude skill for AI-powered resume customization |
 | [📄 resume-tailoring-skill (varunr89)](https://github.com/varunr89/resume-tailoring-skill) | Forked variant with additional workflow improvements |
 | [📝 Cheating Daddy Setup](https://www.notion.so/Set-up-Cheating-Daddy-32366d0bd4f0802ebb2ee4b6dbd88cb1) | Notion workspace setup guide *(private)* |
@@ -220,6 +227,7 @@
 | [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
 | [📈 QuantMuse](https://github.com/0xemmkty/QuantMuse) | Quantitative trading system with AI-powered analysis |
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
+|| [📈 Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Your personal AI-powered trading agent for automated market analysis and decision support |
 
 ---
 
