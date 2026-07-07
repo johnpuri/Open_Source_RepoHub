@@ -73,6 +73,45 @@
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 ||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
 ||| [🐋 Orca](https://github.com/stablyai/orca) | ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
+|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 |
+|| [🤖 claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
+|| [🤖 cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. ... |
+|| [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
+|| [🦔 ponytail](https://github.com/dietrichgebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+|| [🤖 understand-anything](https://github.com/egonex-ai/understand-anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
+|| [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. |
+|| [🔧 hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+|| [🧠 mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents |
+|| [🔧 taste-skill](https://github.com/leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  |
+|| [🔧 headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Libr... |
+|| [🔍 agent-reach](https://github.com/panniantong/agent-reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHon... |
+|| [🤖 system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 ... |
+|| [🤖 humanizer](https://github.com/blader/humanizer) | Claude Code skill that removes signs of AI-generated writing from text |
+|| [🔧 codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
+|| [🧠 cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessi... |
+|| [🔧 nature-skills](https://github.com/yuan1z0825/nature-skills) | 符合nature论文学术表达和科研绘图的Skill |
+|| [🤖 codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. |
+|| [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... |
+|| [🤖 claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable reference... |
+|| [🔧 guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
+|| [⛽ gastown](https://github.com/gastownhall/gastown) | Gas Town - multi-agent workspace manager |
+|| [🐑 herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. |
+|| [🤖 omniroute](https://github.com/diegosouzapw/omniroute) | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Clin... |
+|| [🔧 skillspector](https://github.com/nvidia/skillspector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+|| [🔧 skillopt](https://github.com/microsoft/skillopt) | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through traject... |
+|| [🤖 ai-berkshire](https://github.com/xbtlin/ai-berkshire) | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。\| AI-era Berkshire: a value investing r... |
+|| [🔧 everos](https://github.com/evermind-ai/everos) | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps... |
+|| [🤖 claude-obsidian](https://github.com/agricidaniel/claude-obsidian) | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it int... |
+|| [⭐ awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+|| [⚡ ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill \| 16:9 白底手绘 \| 少量红橙蓝批注 \| Codex Skill |
+|| [🤖 ai-job-search](https://github.com/madslorentzen/ai-job-search) | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job... |
+|| [🧠 engram](https://github.com/gentleman-programming/engram) | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI... |
+|| [🔧 open-interface](https://github.com/ambersahdev/open-interface) | Control Any Computer Using LLMs. |
+|| [🔧 t3mp3st](https://github.com/elder-plinius/t3mp3st) | autonomous red teaming platform; multi-agent offensive-security meta-harness |
+|| [🔧 skills](https://github.com/davidondrej/skills) | access to david ondrej's personal agent skills |
+|| [🤖 claude-design-system-prompt](https://github.com/trystan-sa/claude-design-system-prompt) | Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slo... |
+|| [⚡ cyberppt](https://github.com/crazyykhllc-bit/cyberppt) | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
+|| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
 
 ---
 
@@ -112,6 +151,40 @@
 || [👁️ Supervision](https://github.com/roboflow/supervision) | Reusable computer vision tools — detect, track, count, segment without boilerplate |
 || [🎤 Whisper](https://github.com/openai/whisper) | Robust speech recognition via large-scale weak supervision (by OpenAI) |
 || [🚗 openpilot](https://github.com/commaai/openpilot) | Operating system for robotics — upgrades driver assistance on 300+ supported cars |
+|| [🔨 build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+|| [🐧 linux](https://github.com/torvalds/linux) | Linux kernel source tree |
+|| [🔧 freedomain](https://github.com/digitalplatdev/freedomain) | DigitalPlat FreeDomain: Free Domain For Everyone |
+|| [🔧 hellogithub](https://github.com/521xueweihan/hellogithub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+|| [📝 markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. |
+|| [🟢 node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ |
+|| [🦀 rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
+|| [⭐ awesome-design-md](https://github.com/voltagent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding a... |
+|| [🧠 nanogpt](https://github.com/karpathy/nanogpt) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+|| [🔧 openspec](https://github.com/fission-ai/openspec) | Spec-driven development (SDD) for AI coding assistants. |
+|| [🔧 ai-for-beginners](https://github.com/microsoft/ai-for-beginners) | 12 Weeks, 24 Lessons, AI for All! |
+|| [🤖 awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champ... |
+|| [🔧 impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. |
+|| [🔧 gitnexus](https://github.com/abhigyanpatwari/gitnexus) | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that run... |
+|| [🔧 cs249r_book](https://github.com/harvard-edge/cs249r_book) | Machine Learning Systems |
+|| [🔧 free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. |
+|| [🔧 design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, struct... |
+|| [🔧 frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create beautiful slides on the web using a coding agent's frontend skills |
+|| [🔧 ds4](https://github.com/antirez/ds4) | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
+|| [🤖 codexbar](https://github.com/steipete/codexbar) | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+|| [🔧 freellmapi](https://github.com/tashfeenahmed/freellmapi) | OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint —... |
+|| [🔧 llm_wiki](https://github.com/nashsu/llm_wiki) | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge b... |
+|| [🔧 mapcn](https://github.com/anmolsaini16/mapcn) | Beautiful map components. 100% Free, Zero config, one command setup. |
+|| [🔧 lingbot-map](https://github.com/robbyant/lingbot-map) | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+|| [🤖 open-code-review](https://github.com/alibaba/open-code-review) | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines ... |
+|| [🔧 knowledge-catalog](https://github.com/googlecloudplatform/knowledge-catalog) | Google Cloud Knowledge Catalog Tools and Samples |
+|| [✅ qodo-cover](https://github.com/qodo-ai/qodo-cover) | Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 |
+|| [🔧 msdfgen](https://github.com/chlumsky/msdfgen) | Multi-channel signed distance field generator |
+|| [🔧 mediator](https://github.com/martinothamar/mediator) | A high performance implementation of Mediator pattern in .NET using source generators. |
+|| [🔧 rewrite](https://github.com/openrewrite/rewrite) | Automated mass refactoring of source code. |
+|| [🔧 python-ai](https://github.com/kzbkzb/python-ai) | 深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch |
+|| [🔧 swiftui-animations](https://github.com/shubham0812/swiftui-animations) | A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your o... |
+|| [🔧 fstar](https://github.com/fstarlang/fstar) | A Proof-oriented Programming Language |
+|| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
 
 ---
 
@@ -141,6 +214,17 @@
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
 || [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
 || [🎨 Astryx](https://github.com/facebook/astryx) | Meta's internal design system open-sourced — 150+ customizable components for agent-ready UIs |
+|| [🏗️ system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+|| [🎨 stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) | Stable Diffusion web UI |
+|| [🎨 comfyui](https://github.com/comfy-org/comfyui) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+|| [💰 moneyprinterturbo](https://github.com/harry0703/moneyprinterturbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+|| [🎨 penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+|| [🐧 upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
+|| [⚛️ react-bits](https://github.com/davidhdev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
+|| [⭐ awesome-nano-banana-images](https://github.com/picotrex/awesome-nano-banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-ima... |
+|| [🔧 unlimited-ocr](https://github.com/baidu/unlimited-ocr) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
+|| [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc... |
+|| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
 
 ---
 
@@ -157,8 +241,9 @@
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 || [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
-| [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
-|| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
+|| [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
+||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
+|| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
 
 |---|
 
@@ -187,6 +272,8 @@
 ------|
 | [🔥 codeburn](https://github.com/getagentseal/codeburn) | TUI dashboard for tracking AI token costs and usage |
 | [📊 claude-counter](https://github.com/she-llac/claude-counter) | Browser extension for tracking token usage on claude.ai |
+|| [🦀 rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+|| [🔧 pxpipe](https://github.com/teamchong/pxpipe) | cut Fable 5 token usage by rendering text context as images |
 
 ---
 
@@ -200,11 +287,13 @@
 | [🕶️ Friday — Tony Stark Demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo) | Tony Stark–inspired voice AI assistant demo |
 | [✈️ trvl](https://github.com/MikkoParkkola/trvl) | MCP server and CLI tool functioning as an AI travel agent |
 | [👤 OpenHuman](https://github.com/tinyhumansai/openhuman) | Privacy-focused personal AI with local "Memory Tree" data ingestion |
-||| [🤖 Meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting assistant with 4x faster live transcription, speaker diarization, and Ollama summarization -- 100% local processing |
-||| [🦊 Airi](https://github.com/moeru-ai/airi) | Open-source Gemini/Grok/Dify AI companion for desktop — chat, voice, play games, self-hosted |
-||| [🤖 Skales](https://github.com/skalesapp/skales) | Your personal AI desktop agent — run models, search web, execute commands on your machine |
-||| [✈️ TREK](https://github.com/mauriceboe/TREK) | Self-hosted trip planner and travel assistant that handles your entire travel workflow |
-||| [💻 Claude Fable 5 Desktop](https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app) | Free native desktop client for Claude Fable 5 — runs locally, no subscriptions |
+| [🤖 Meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting assistant with 4x faster live transcription, speaker diarization, and Ollama summarization -- 100% local processing |
+| [🦊 Airi](https://github.com/moeru-ai/airi) | Open-source Gemini/Grok/Dify AI companion for desktop — chat, voice, play games, self-hosted |
+| [🤖 Skales](https://github.com/skalesapp/skales) | Your personal AI desktop agent — run models, search web, execute commands on your machine |
+| [✈️ TREK](https://github.com/mauriceboe/TREK) | Self-hosted trip planner and travel assistant that handles your entire travel workflow |
+| [💻 Claude Fable 5 Desktop](https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app) | Free native desktop client for Claude Fable 5 — runs locally, no subscriptions |
+|| [🔧 odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | Self-hosted AI workspace.  |
+|| [🔧 thaw](https://github.com/stonerl/thaw) | Menu bar manager for macOS 26 |
 
 ---
 
@@ -217,6 +306,12 @@
 | [🌐 publicapis.dev](https://publicapis.dev/) | Searchable public API directory with categorized listing |
 || [🦙 ollamafreeapi](https://github.com/mfoud444/ollamafreeapi) | Free public API providing access to Ollama models |
 || [💪 free-exercise-db](https://github.com/yuhonas/free-exercise-db) | Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a broad range of muscles and equipment |
+|| [⭐ awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+|| [⭐ awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+|| [🔧 free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+|| [🤖 sub2api](https://github.com/wei-shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+|| [⭐ awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-l... |
+|| [⭐ awesome-engineering-articles](https://github.com/ashishps1/awesome-engineering-articles) | A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams ... |
 
 ---
 
@@ -241,8 +336,66 @@
 | [📈 QuantMuse](https://github.com/0xemmkty/QuantMuse) | Quantitative trading system with AI-powered analysis |
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
 || [📈 Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Your personal AI-powered trading agent for automated market analysis and decision support |
+|| [🤖 andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pi... |
+|| [🔧 daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source m... |
+|| [🔧 generals-mac-ios-ipad](https://github.com/ammaarreshi/generals-mac-ios-ipad) | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via G... |
+|| [🔧 simqn](https://github.com/qnlab-ustc/simqn) | A network-layer simulator for the quantum network investigation |
+
+## 🏠 Self-Hosted Services
+
+> Privacy-first, self-hosted alternatives to cloud services, media managers, and infrastructure.
+
+| Project | Description |
+------|
+|| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+|| [🔎 searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Use... |
+|| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
+|| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
+|| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
 
 ---
+
+## 🔧 Infrastructure & DevOps
+
+> Cloud infrastructure, containers, networking, proxy tools, and observability platforms.
+
+| Project | Description |
+------|
+|| [🐧 clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+|| [🐧 container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift,... |
+|| [🔧 edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 |
+|| [📊 signoz](https://github.com/signoz/signoz) | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single app... |
+|| [🔧 floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative |
+|| [🔧 zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database |
+|| [🔧 mineradio](https://github.com/xxhuberrr/mineradio) | 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。 |
+|| [🔧 coraza](https://github.com/corazawaf/coraza) | OWASP Coraza WAF is a golang modsecurity compatible web application firewall library |
+|| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
+
+---
+
+## 🛡️ Security & Pentesting
+
+> Offensive security, vulnerability scanning, reverse engineering, and AI-driven pentesting.
+
+| Project | Description |
+------|
+|| [🔍 ghidra](https://github.com/nationalsecurityagency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
+|| [🕵️ strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+|| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
+
+---
+
+## 🧠 ML Models & Training
+
+> Foundation models, training frameworks, and model-serving infrastructure.
+
+| Project | Description |
+------|
+|| [🤗 transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a... |
+|| [🤖 localai](https://github.com/mudler/localai) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU req... |
+
+---
+
 
 <div align="center">
 
