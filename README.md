@@ -111,7 +111,9 @@
 || [🔧 skills](https://github.com/davidondrej/skills) | access to david ondrej's personal agent skills |
 || [🤖 claude-design-system-prompt](https://github.com/trystan-sa/claude-design-system-prompt) | Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slo... |
 || [⚡ cyberppt](https://github.com/crazyykhllc-bit/cyberppt) | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
-|| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
+||| [🤖 Strix](https://github.com/usestrix/strix) | Autonomous AI security engineer — finds, triages, and helps fix vulnerabilities across your codebase | 
+||| [📊 Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 68 battle-tested product-management frameworks (opportunity-solution trees, PRDs) as agent skills for Claude Code / Cowork | 
+||| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
 
 ---
 
@@ -184,7 +186,9 @@
 || [🔧 python-ai](https://github.com/kzbkzb/python-ai) | 深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch |
 || [🔧 swiftui-animations](https://github.com/shubham0812/swiftui-animations) | A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your o... |
 || [🔧 fstar](https://github.com/fstarlang/fstar) | A Proof-oriented Programming Language |
-|| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
+||| [🧠 train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Build an LLM from scratch in PyTorch — full pipeline from tokenizer to pretraining | 
+||| [⚡ LMCache](https://github.com/LMCache/LMCache) | KV-cache layer for LLM inference — faster prefill, multi-turn caching, and disaggregated serving | 
+||| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
 
 ---
 
@@ -224,7 +228,9 @@
 || [⭐ awesome-nano-banana-images](https://github.com/picotrex/awesome-nano-banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-ima... |
 || [🔧 unlimited-ocr](https://github.com/baidu/unlimited-ocr) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
 || [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc... |
-|| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
+||| [🌍 scroll-world](https://github.com/oso95/scroll-world) | Agent skill that turns any brand into a scrollable, scroll-scrubbed 3D world landing page | 
+||| [🏗️ Archify](https://github.com/tt-a1i/archify) | Any-agent skill: generate beautiful architecture diagrams with dark/light themes and PNG/JPEG/WebP/SVG export | 
+||| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
 
 ---
 
@@ -243,7 +249,8 @@
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
 || [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
 ||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
-|| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
+||| [📄 MinerU](https://github.com/opendatalab/MinerU) | Transform PDFs and Office docs into LLM-ready markdown/JSON for agentic workflows | 
+||| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
 
 |---|
 
