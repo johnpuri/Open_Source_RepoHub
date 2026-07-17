@@ -188,6 +188,7 @@
 || [🔧 fstar](https://github.com/fstarlang/fstar) | A Proof-oriented Programming Language |
 ||| [🧠 train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Build an LLM from scratch in PyTorch — full pipeline from tokenizer to pretraining | 
 ||| [⚡ LMCache](https://github.com/LMCache/LMCache) | KV-cache layer for LLM inference — faster prefill, multi-turn caching, and disaggregated serving | 
+||| [📱 httpSMS](https://github.com/NdoleStudio/httpsms) | Turn your Android phone into an SMS gateway — send & receive SMS programmatically via a simple HTTP API. Free, self-hosted | 
 ||| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
 
 ---
