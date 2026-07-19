@@ -113,6 +113,7 @@
 || [⚡ cyberppt](https://github.com/crazyykhllc-bit/cyberppt) | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
 ||| [🤖 Strix](https://github.com/usestrix/strix) | Autonomous AI security engineer — finds, triages, and helps fix vulnerabilities across your codebase | 
 ||| [📊 Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 68 battle-tested product-management frameworks (opportunity-solution trees, PRDs) as agent skills for Claude Code / Cowork | 
+||| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | The ultimate agentic social media scheduling tool — plan, automate, and publish across platforms with AI | 
 ||| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
 
 ---
