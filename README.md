@@ -191,6 +191,7 @@
 ||| [⚡ LMCache](https://github.com/LMCache/LMCache) | KV-cache layer for LLM inference — faster prefill, multi-turn caching, and disaggregated serving | 
 ||| [📱 httpSMS](https://github.com/NdoleStudio/httpsms) | Turn your Android phone into an SMS gateway — send & receive SMS programmatically via a simple HTTP API. Free, self-hosted | 
 ||| [🔧 llmfit](https://github.com/AlexsJones/llmfit) | Scans your RAM/CPU/GPU and scores hundreds of models for fit, speed & quality — best quantization per hardware, one command | 
+||| [📺 Castor](https://github.com/stupside/castor) | Point it at any web page — finds the video, extracts the stream, transcodes, and casts to TV (Chromecast/DLNA). Burns subtitles | 
 ||| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
 
 ---
