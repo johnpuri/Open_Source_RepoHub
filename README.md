@@ -96,6 +96,7 @@
 || [🔧 guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
 || [⛽ gastown](https://github.com/gastownhall/gastown) | Gas Town - multi-agent workspace manager |
 || [🐑 herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. |
+|| [🤖 Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Alibaba agent framework with web-browsing (Page Agent), function calling, code interpreter, and autonomous tasks |
 || [🤖 omniroute](https://github.com/diegosouzapw/omniroute) | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Clin... |
 || [🔧 skillspector](https://github.com/nvidia/skillspector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 || [🔧 skillopt](https://github.com/microsoft/skillopt) | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through traject... |
