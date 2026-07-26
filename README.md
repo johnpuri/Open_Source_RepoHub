@@ -255,9 +255,12 @@
 || [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
 ||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
 ||| [📄 MinerU](https://github.com/opendatalab/MinerU) | Transform PDFs and Office docs into LLM-ready markdown/JSON for agentic workflows | 
-||| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
+|||| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
+||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
+||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
+||| [🛡️ curl-impersonate](https://github.com/lwthiker/curl-impersonate) | Mimic real browser TLS fingerprints to improve compatibility with anti-bot websites |
 
-|---|
+---|---
 
 ## 🕹️ Browser Automation
 
@@ -272,10 +275,12 @@
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
 || [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
-|| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
+||||| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
+||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
+|||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
+||| [🌐 Lightpanda Browser](https://github.com/lightpanda-io/browser) | Headless browser built from scratch in Zig, designed for AI and automation — non-Chromium, lightweight, 32k+ stars |
 
----
-
+|---|
 ## 📊 Token Usage & Cost Management
 
 > Observability tools for tracking token consumption, costs, and limits.
@@ -340,8 +345,9 @@
 
 | Project | Description |
 ------|
-| [📄 resume-tailoring-skill (amanattar)](https://github.com/amanattar/resume-tailoring-skill) | Claude skill for AI-powered resume customization |
-| [📄 resume-tailoring-skill (varunr89)](https://github.com/varunr89/resume-tailoring-skill) | Forked variant with additional workflow improvements |
+|| [📄 resume-tailoring-skill (amanattar)](https://github.com/amanattar/resume-tailoring-skill) | Claude skill for AI-powered resume customization |
+|| [📄 resume-tailoring-skill (varunr89)](https://github.com/varunr89/resume-tailoring-skill) | Forked variant with additional workflow improvements |
+|| [🤖 Resume AI](https://github.com/resume-llm/resume-ai) | Local privacy-first resume builder using LLMs + Markdown to generate ATS-ready DOCX — no cloud, no tracking |
 | [📝 Cheating Daddy Setup](https://www.notion.so/Set-up-Cheating-Daddy-32366d0bd4f0802ebb2ee4b6dbd88cb1) | Notion workspace setup guide *(private)* |
 | [💸 AiToEarn](https://github.com/yikart/AiToEarn) | Web3-integrated ecosystem for AI-driven monetization and contributions |
 | [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
@@ -357,15 +363,16 @@
 
 > Privacy-first, self-hosted alternatives to cloud services, media managers, and infrastructure.
 
-| Project | Description |
-------|
-|| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
-|| [🔎 searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Use... |
-|| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
-|| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
-|| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
+|| Project | Description |
+|------|
+||| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+||| [🔎 searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Use... |
+||| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
+||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
+||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
+||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
 
----
+|---|
 
 ## 🔧 Infrastructure & DevOps
 
