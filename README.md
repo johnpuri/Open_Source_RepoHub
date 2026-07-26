@@ -116,6 +116,10 @@
 ||| [📊 Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 68 battle-tested product-management frameworks (opportunity-solution trees, PRDs) as agent skills for Claude Code / Cowork | 
 ||| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | The ultimate agentic social media scheduling tool — plan, automate, and publish across platforms with AI | 
 ||| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
+||| [🤫 pluely](https://github.com/iamsrikanthnani/pluely) | ⭐2.3k — Open-source undetectable AI assistant for meetings & interviews. Tauri-based, 10MB, privacy-first, works with Zoom/Meet/Teams/Discord (TypeScript/Rust) |
+||| [🎙️ Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | ⭐2k — Free open-source AI meeting assistant & interview copilot. Real-time transcription, stealth mode, local RAG, runs locally (TypeScript) |
+||| [👁️ Cue](https://github.com/Blueturboguy07/cue) | ⭐806 — Open-source macOS AI copilot that floats over your screen, sees/hears meetings, hidden from screen shares. BYOK (JavaScript) |
+||| [🔓 OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⭐498 — Open-source Cluely alternative for technical interviews — invisible overlay, real-time AI help, DSA/OAs/CP (JavaScript) |
 
 ---
 
@@ -194,6 +198,7 @@
 ||| [🔧 llmfit](https://github.com/AlexsJones/llmfit) | Scans your RAM/CPU/GPU and scores hundreds of models for fit, speed & quality — best quantization per hardware, one command | 
 ||| [📺 Castor](https://github.com/stupside/castor) | Point it at any web page — finds the video, extracts the stream, transcodes, and casts to TV (Chromecast/DLNA). Burns subtitles | 
 ||| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
+||| [🧑‍💻 Open Interpreter](https://github.com/openinterpreter/openinterpreter) | ⭐67k — A coding agent for open models like Kimi K3. Install with one command and control your computer from the terminal (Rust) |
 
 ---
 
