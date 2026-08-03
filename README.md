@@ -119,7 +119,9 @@
 ||| [🤫 pluely](https://github.com/iamsrikanthnani/pluely) | ⭐2.3k — Open-source undetectable AI assistant for meetings & interviews. Tauri-based, 10MB, privacy-first, works with Zoom/Meet/Teams/Discord (TypeScript/Rust) |
 ||| [🎙️ Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | ⭐2k — Free open-source AI meeting assistant & interview copilot. Real-time transcription, stealth mode, local RAG, runs locally (TypeScript) |
 ||| [👁️ Cue](https://github.com/Blueturboguy07/cue) | ⭐806 — Open-source macOS AI copilot that floats over your screen, sees/hears meetings, hidden from screen shares. BYOK (JavaScript) |
-||| [🔓 OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⭐498 — Open-source Cluely alternative for technical interviews — invisible overlay, real-time AI help, DSA/OAs/CP (JavaScript) |
+|||| [🔓 OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⭐498 — Open-source Cluely alternative for technical interviews — invisible overlay, real-time AI help, DSA/OAs/CP (JavaScript) |
+|| [🦜 LangChain](https://github.com/langchain-ai/langchain) | ⭐143.3k — The agent engineering platform — build LLM apps, agents, and RAG systems with composable chains |
+|| [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
 
 ---
 
@@ -141,7 +143,8 @@
 | [📡 Proxima](https://github.com/Zen4-bit/Proxima) | Multi-model MCP server and local AI gateway |
 | [🚦 9router](https://github.com/decolua/9router) | Local AI routing gateway for unified endpoint management |
 | [🔓 free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Collection of alternative tools for open-source Claude workflows |
-| [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
+|| [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
+|| [💼 ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ⭐27.7k — AI job application framework built on Claude Code — evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it |
 | [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
 | [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
 | [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official MCP server for searching and managing Notion workspace content |
@@ -149,8 +152,9 @@
 | [🖥️ DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Terminal-based interface for efficient interaction with DeepSeek LLMs |
 | [🚀 Hysteria](https://github.com/apernet/hysteria) | Feature-packed network tunnel optimized for harsh network environments |
 | [🔥 freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | Massive open-source curriculum and community for learning to code |
-| [🔓 OpenCode](https://github.com/anomalyco/opencode) | Open-source development platform for AI-powered coding tools |
-| [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
+|| [🔓 OpenCode](https://github.com/anomalyco/opencode) | Open-source development platform for AI-powered coding tools |
+|| [🖥️ Pinchtab](https://github.com/pinchtab/pinchtab) | ⭐9.7k — Browser automation bridge for AI agents — single Go binary, HTTP API, stealth mode, no framework lock-in |
+|| [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
 || [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
@@ -199,6 +203,10 @@
 ||| [📺 Castor](https://github.com/stupside/castor) | Point it at any web page — finds the video, extracts the stream, transcodes, and casts to TV (Chromecast/DLNA). Burns subtitles | 
 ||| [🔧 openopc](https://github.com/hkuds/openopc) | OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown |
 ||| [🧑‍💻 Open Interpreter](https://github.com/openinterpreter/openinterpreter) | ⭐67k — A coding agent for open models like Kimi K3. Install with one command and control your computer from the terminal (Rust) |
+|||| [🚢 OpenShip](https://github.com/oblien/openship) | ⭐9.2k — Self-hosted deployment platform — deploy your code to your own server with one command |
+||||| [🤖 Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | ⭐11k — AI coding agent CLI by Moonshot AI — reads, edits, and runs code from your terminal with natural language |
+|| [🦙 Ollama](https://github.com/ollama/ollama) | ⭐177.7k — Run Llama, Mistral, Gemma, DeepSeek and more locally with one command — beginner-friendly, macOS/Windows/Linux |
+|| [📓 Jupyter](https://github.com/jupyter/notebook) | ⭐13.3k — Interactive notebook coding environment — the standard for AI/ML experiments and data science |
 
 ---
 
@@ -222,7 +230,8 @@
 | [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
-| [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
+|| [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
+|| [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
 || [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
@@ -237,7 +246,12 @@
 || [⚛️ react-bits](https://github.com/davidhdev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
 || [⭐ awesome-nano-banana-images](https://github.com/picotrex/awesome-nano-banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-ima... |
 || [🔧 unlimited-ocr](https://github.com/baidu/unlimited-ocr) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-|| [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc... |
+|| [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc...
+|||| [🔤 tiktoken](https://github.com/openai/tiktoken) | ⭐18.8k — OpenAI's fast BPE tokenizer for estimating and managing LLM token usage efficiently
+|||| [🪶 LLMLingua](https://github.com/microsoft/LLMLingua) | ⭐6.5k — Compress prompts and KV-cache by up to 20x while preserving task performance
+|||| [🔗 LiteLLM](https://github.com/BerriAI/litellm) | ⭐54.7k — AI Gateway calling 100+ LLM APIs in OpenAI format with cost tracking, load balancing, and guardrails
+|||| [📐 Outlines](https://github.com/dottxt-ai/outlines) | ⭐15.4k — Structured text generation from LLMs: JSON, regex, grammars, and more
+|||| [⚡ vLLM](https://github.com/vllm-project/vllm) | ⭐87.2k — High-throughput, memory-efficient LLM inference and serving engine |
 ||| [🌍 scroll-world](https://github.com/oso95/scroll-world) | Agent skill that turns any brand into a scrollable, scroll-scrubbed 3D world landing page | 
 ||| [🏗️ Archify](https://github.com/tt-a1i/archify) | Any-agent skill: generate beautiful architecture diagrams with dark/light themes and PNG/JPEG/WebP/SVG export | 
 ||| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
@@ -251,7 +265,7 @@
 | Project | Description |
 ------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
-| [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | Adaptive scraping framework with anti-bot bypass |
+|| [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐71.6k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
 | [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper |
 | [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
@@ -293,7 +307,8 @@
 | Project | Description |
 ------|
 | [🔥 codeburn](https://github.com/getagentseal/codeburn) | TUI dashboard for tracking AI token costs and usage |
-| [📊 claude-counter](https://github.com/she-llac/claude-counter) | Browser extension for tracking token usage on claude.ai |
+|| [📊 claude-counter](https://github.com/she-llac/claude-counter) | Browser extension for tracking token usage on claude.ai
+||| [🧠 GPTCache](https://github.com/zilliztech/GPTCache) | ⭐8.1k — Semantic cache for LLM responses, reducing API costs by serving cached results
 || [🦀 rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 || [🔧 pxpipe](https://github.com/teamchong/pxpipe) | cut Fable 5 token usage by rendering text context as images |
 
@@ -375,7 +390,8 @@
 ||| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
-||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
+|||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
+|| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 
 |---|
 
@@ -405,7 +421,8 @@
 ------|
 || [🔍 ghidra](https://github.com/nationalsecurityagency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 || [🕵️ strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-|| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
+||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
+||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
 
 ---
 
@@ -416,7 +433,11 @@
 | Project | Description |
 ------|
 || [🤗 transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a... |
-|| [🤖 localai](https://github.com/mudler/localai) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU req... |
+||| [🤖 localai](https://github.com/mudler/localai) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU req... |
+|| [🔥 PyTorch](https://github.com/pytorch/pytorch) | ⭐102.2k — Deep learning framework with dynamic computation graphs — the standard for AI research and development |
+|| [🧠 TensorFlow](https://github.com/tensorflow/tensorflow) | ⭐196.8k — Machine learning framework for building and training AI models at scale |
+|| [🧬 Keras](https://github.com/keras-team/keras) | ⭐64.2k — High-level deep learning framework (Python) — fast experimentation on top of JAX, TensorFlow, or PyTorch |
+|| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
 
 ---
 
