@@ -391,7 +391,13 @@
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
 |||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
-|| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
+||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
+||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
+||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
+||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
+||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
+||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
+||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 
 |---|
 
