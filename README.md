@@ -443,7 +443,8 @@
 || [🔥 PyTorch](https://github.com/pytorch/pytorch) | ⭐102.2k — Deep learning framework with dynamic computation graphs — the standard for AI research and development |
 || [🧠 TensorFlow](https://github.com/tensorflow/tensorflow) | ⭐196.8k — Machine learning framework for building and training AI models at scale |
 || [🧬 Keras](https://github.com/keras-team/keras) | ⭐64.2k — High-level deep learning framework (Python) — fast experimentation on top of JAX, TensorFlow, or PyTorch |
-|| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
+||| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
+||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 
 ---
 
