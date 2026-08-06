@@ -386,6 +386,7 @@
 
 || Project | Description |
 |------|
+||| [👥 KiroCrew](https://github.com/kirodotdev/KiroCrew) | ⭐1.8k — Persistent, self-improving AI dev workspace — runs locally/remotely on your hardware, remembers across sessions, keeps working unattended via desktop app, web dashboard, CLI, Slack/Discord (Apache-2.0) |
 ||| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 ||| [🔎 searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Use... |
 ||| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
