@@ -298,6 +298,7 @@
 ||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
 ||| [🌐 Lightpanda Browser](https://github.com/lightpanda-io/browser) | Headless browser built from scratch in Zig, designed for AI and automation — non-Chromium, lightweight, 32k+ stars |
+||| [🪪 FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) | ⭐28.1k — Most advanced free & open-source browser fingerprinting library — identify returning visitors without cookies/logins, even incognito (MIT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
