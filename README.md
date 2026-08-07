@@ -105,7 +105,7 @@
 || [🤖 claude-obsidian](https://github.com/agricidaniel/claude-obsidian) | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it int... |
 || [⭐ awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 || [⚡ ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill \| 16:9 白底手绘 \| 少量红橙蓝批注 \| Codex Skill |
-|| [🤖 ai-job-search](https://github.com/madslorentzen/ai-job-search) | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job... |
+|| [🤖 ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ⭐30.6k — AI-powered job application framework built on Claude Code. Evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it |
 || [🧠 engram](https://github.com/gentleman-programming/engram) | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI... |
 || [🔧 open-interface](https://github.com/ambersahdev/open-interface) | Control Any Computer Using LLMs. |
 || [🔧 t3mp3st](https://github.com/elder-plinius/t3mp3st) | autonomous red teaming platform; multi-agent offensive-security meta-harness |
@@ -145,8 +145,7 @@
 | [🚦 9router](https://github.com/decolua/9router) | Local AI routing gateway for unified endpoint management |
 | [🔓 free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Collection of alternative tools for open-source Claude workflows |
 || [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
-|| [💼 ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | ⭐27.7k — AI job application framework built on Claude Code — evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it |
-| [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
+|| [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
 | [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
 | [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official MCP server for searching and managing Notion workspace content |
 | [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
