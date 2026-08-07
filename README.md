@@ -132,6 +132,7 @@
 | Project | Description |
 ------|
 | [🚀 llama.cpp](https://github.com/ggml-org/llama.cpp) | Efficient LLM inference in C/C++ for consumer hardware |
+||| [🛠️ Grok Build](https://github.com/xai-org/grok-build) | ⭐24.3k — SpaceXAI's terminal-based AI coding agent ("Cursor killer") — full-screen TUI that reads your codebase, edits files, runs shell commands, searches the web, manages long-running tasks; interactive/headless/ACP (Apache-2.0) |
 | [🔋 airllm](https://github.com/lyogavin/airllm) | Run large LLMs on consumer hardware using memory-efficient inference |
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
 | [🏇 claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | Utility for enhancing and managing Claude Code workflows |
