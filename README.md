@@ -120,8 +120,10 @@
 ||| [🎙️ Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | ⭐2k — Free open-source AI meeting assistant & interview copilot. Real-time transcription, stealth mode, local RAG, runs locally (TypeScript) |
 ||| [👁️ Cue](https://github.com/Blueturboguy07/cue) | ⭐806 — Open-source macOS AI copilot that floats over your screen, sees/hears meetings, hidden from screen shares. BYOK (JavaScript) |
 |||| [🔓 OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⭐498 — Open-source Cluely alternative for technical interviews — invisible overlay, real-time AI help, DSA/OAs/CP (JavaScript) |
-|| [🦜 LangChain](https://github.com/langchain-ai/langchain) | ⭐143.3k — The agent engineering platform — build LLM apps, agents, and RAG systems with composable chains |
+|| [🐦 Buzz](https://github.com/block/buzz) | ⭐25.2k — Block's open-source agent workspace: humans and AI agents share one channel for conversations, workflows and code; model/agent-agnostic (Claude Code, Codex, goose), Apache-2.0 |
+||| [🦜 LangChain](https://github.com/langchain-ai/langchain) | ⭐143.3k — The agent engineering platform — build LLM apps, agents, and RAG systems with composable chains |
 || [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
+|| [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
 
 ---
 
@@ -417,7 +419,8 @@
 || [🔧 zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database |
 || [🔧 mineradio](https://github.com/xxhuberrr/mineradio) | 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。 |
 || [🔧 coraza](https://github.com/corazawaf/coraza) | OWASP Coraza WAF is a golang modsecurity compatible web application firewall library |
-|| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
+||| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
+|||| [🔐 authentik](https://github.com/goauthentik/authentik) | ⭐23.8k — Self-hosted identity provider: one account for all apps, SAML/OAuth2/LDAP, Okta alternative; free core + enterprise add-ons (MPL-2.0) |
 
 ---
 
