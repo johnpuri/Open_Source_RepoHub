@@ -97,6 +97,7 @@
 || [⛽ gastown](https://github.com/gastownhall/gastown) | Gas Town - multi-agent workspace manager |
 || [🐑 herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. |
 || [🤖 Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Alibaba agent framework with web-browsing (Page Agent), function calling, code interpreter, and autonomous tasks |
+|| [🤖 Qwen Code](https://github.com/QwenLM/qwen-code) | Alibaba terminal coding agent — Qwen3 Coder 480B, 256K ctx (to ~1M), free tier via DashScope/OpenRouter |
 || [🤖 omniroute](https://github.com/diegosouzapw/omniroute) | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Clin... |
 || [🔧 skillspector](https://github.com/nvidia/skillspector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 || [🔧 skillopt](https://github.com/microsoft/skillopt) | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through traject... |
