@@ -124,6 +124,7 @@
 ||| [🦜 LangChain](https://github.com/langchain-ai/langchain) | ⭐143.3k — The agent engineering platform — build LLM apps, agents, and RAG systems with composable chains |
 || [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
+|| [🧠 TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐18.6k — Team-level memory hub for AI agents: turns conversations/docs/code into 4 reusable assets (Chat Memory, Skill, LLM-Wiki, Code-Graph); ships as an OpenClaw plugin |
 
 ---
 
