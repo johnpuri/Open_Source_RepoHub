@@ -80,6 +80,7 @@
 || [🦔 ponytail](https://github.com/dietrichgebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 || [🤖 understand-anything](https://github.com/egonex-ai/understand-anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
 || [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. |
+| [🧭 Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Official LangChain deep research graph — planner/researcher/supervisor workflow with citations, MIT |
 || [🔧 hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 || [🧠 mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents |
 || [🔧 taste-skill](https://github.com/leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  |
