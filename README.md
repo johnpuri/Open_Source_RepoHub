@@ -423,7 +423,8 @@
 
 | Project | Description |
 ------|
-|| [🐧 clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+||| [🐧 clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+||| [🛠️ mise](https://github.com/jdx/mise) | ⭐14.2k — Universal dev environment tool: replaces `.tool-versions`, `.nvmrc`, `.python-version`, `direnv`, `asdf`; manages tools, env vars, tasks in one config (`mise.toml`); cross-platform, fast, shell-agnostic |
 || [🐧 container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift,... |
 || [🔧 edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 |
 || [📊 signoz](https://github.com/signoz/signoz) | SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single app... |
