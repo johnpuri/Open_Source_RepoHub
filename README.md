@@ -65,7 +65,7 @@
 | [💰 Financial Services](https://github.com/anthropics/financial-services) | Modular skills and prompts for AI-driven financial analysis and services |
 | [🎓 Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) | Curated AI skills optimized for scientific writing and academic research |
 | [👐 OpenHands](https://github.com/OpenHands/OpenHands) | Open-source platform for AI software engineering agents (formerly OpenDevin) |
-| [🤝 OpenManus](https://github.com/FoundationAgents/OpenManus) | Open-source implementation of the Manus AI agent |
+| [🤝 OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐57.9k — Open-source implementation of the Manus AI agent: describe what you want and it ships it |
 | [🌐 Open WebUI](https://github.com/open-webui/open-webui) | Feature-rich WebUI for LLMs with full offline support |
 | [🪄 oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Multi-agent framework for building complex autonomous applications |
 | [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
@@ -260,6 +260,8 @@
 ||| [🌍 scroll-world](https://github.com/oso95/scroll-world) | Agent skill that turns any brand into a scrollable, scroll-scrubbed 3D world landing page | 
 ||| [🏗️ Archify](https://github.com/tt-a1i/archify) | Any-agent skill: generate beautiful architecture diagrams with dark/light themes and PNG/JPEG/WebP/SVG export | 
 ||| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
+|| [✨ Motion Primitives](https://github.com/ibelick/motion-primitives) | ⭐5.9k — UI kit to make beautiful, animated interfaces, faster — drop-in animated components with zero animation code |
+|| [🎨 Real-time Colors](https://github.com/juxtopposed/realtimecolors) | ⭐926 — Real-time UI color-picking tool: test palettes and fonts on a live site before writing a single line of code |
 
 ---
 
