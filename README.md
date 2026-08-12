@@ -141,8 +141,9 @@
 | [🔋 airllm](https://github.com/lyogavin/airllm) | Run large LLMs on consumer hardware using memory-efficient inference |
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
 | [🏇 claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | Utility for enhancing and managing Claude Code workflows |
-| [💻 jcode](https://github.com/1jehuang/jcode) | High-performance Rust coding agent harness with self-editing |
-| [🔍 code-review-graph](https://github.com/tirth8205/code-review-graph) | Graph-based AI code review assistant |
+|| [💻 jcode](https://github.com/1jehuang/jcode) | High-performance Rust coding agent harness with self-editing |
+|| [🤖 OpenHands](https://github.com/All-Hands-AI/OpenHands) | Autonomous AI software developer — writes code, fixes bugs, runs commands, browses web; replaces Devin AI (75.8k★) |
+|| [🔍 code-review-graph](https://github.com/tirth8205/code-review-graph) | Graph-based AI code review assistant |
 | [� codegraph](https://github.com/colbymchenry/codegraph) | Code visualization and dependency graph analysis tool |
 | [�📜 spec-kit](https://github.com/github/spec-kit) | Toolkit from GitHub for authoring and validating specifications |
 | [🧩 n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | MCP server for designing and building n8n workflows with AI |
@@ -161,7 +162,7 @@
 || [🖥️ Pinchtab](https://github.com/pinchtab/pinchtab) | ⭐9.7k — Browser automation bridge for AI agents — single Go binary, HTTP API, stealth mode, no framework lock-in |
 || [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
-|| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution |
+|| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (56.4k★) |
 || [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 || [🎮 Unity-MCP](https://github.com/CoplayDev/unity-mcp) | Bridge between AI assistants and Unity Editor — manage assets, control scenes, edit scripts, and automate tasks |
 ||| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
@@ -273,8 +274,9 @@
 ------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
 || [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐71.6k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
-| [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper |
-| [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
+|| [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
+|| [🕸️ Maxun](https://github.com/getmaxun/maxun) | No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (15.7k★) |
+|| [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 || [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
@@ -300,8 +302,8 @@
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
-|| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation |
-||||| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
+||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (83.5k★) |
+|||||| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
 ||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
 ||| [🌐 Lightpanda Browser](https://github.com/lightpanda-io/browser) | Headless browser built from scratch in Zig, designed for AI and automation — non-Chromium, lightweight, 32k+ stars |
@@ -400,9 +402,14 @@
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
 |||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
-||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
-||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
-||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
+|||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
+|||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
+|||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (143.8k★) |
+|||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (140k★) |
+|||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (194k★) |
+|||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (102k★) |
+|||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (80k★) |
+|||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
 ||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
 ||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
