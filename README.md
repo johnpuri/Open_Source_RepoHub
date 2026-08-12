@@ -380,7 +380,8 @@
 || [🤖 Resume AI](https://github.com/resume-llm/resume-ai) | Local privacy-first resume builder using LLMs + Markdown to generate ATS-ready DOCX — no cloud, no tracking |
 | [📝 Cheating Daddy Setup](https://www.notion.so/Set-up-Cheating-Daddy-32366d0bd4f0802ebb2ee4b6dbd88cb1) | Notion workspace setup guide *(private)* |
 | [💸 AiToEarn](https://github.com/yikart/AiToEarn) | Web3-integrated ecosystem for AI-driven monetization and contributions |
-| [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
+|| [💹 AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | ⭐2.8k — Enterprise-grade autonomous AI hedge fund: swarm intelligence + specialized agents for end-to-end market analysis, risk management, execution; Solana now, Coinbase coming (PyPI: autohedge) |
+|| [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
 | [📈 QuantMuse](https://github.com/0xemmkty/QuantMuse) | Quantitative trading system with AI-powered analysis |
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
 || [📈 Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Your personal AI-powered trading agent for automated market analysis and decision support |
