@@ -225,9 +225,10 @@
 | [🎨 Open Design](https://github.com/nexu-io/open-design) | Local-first design workflow for creating prototypes with AI |
 | [🎨 Portfolio Website](https://github.com/MoncyDev/Portfolio-Website) | Clean and modern developer portfolio template |
 | [🎨 design-extract](https://github.com/Manavarya09/design-extract) | Tool for extracting design assets and data from UI mockups |
-| [🎬 clipify](https://github.com/louisedesadeleer/clipify) | Claude skill to transform long-form videos into social-ready clips |
-| [🎬 video-use](https://github.com/browser-use/video-use) | Conversation-driven video editing for coding agents |
-| [🎬 CineHD.xyz](https://github.com/marcusluer1/CineHD.xyz) | Resources and documentation for movie/TV streaming apps |
+|| [🎬 clipify](https://github.com/louisedesadeleer/clipify) | Claude skill to transform long-form videos into social-ready clips |
+|| [🎬 video-use](https://github.com/browser-use/video-use) | Conversation-driven video editing for coding agents |
+|| [🎬 DAPI](https://github.com/diffusionstudio/editor) | ⭐2.1k — AI-native video editing CLI: agents write TSX compositions, DAPI mounts into editor; FFmpeg for agents with generative AI + multimodal built-in (Diffusion Studio) |
+|| [🎬 CineHD.xyz](https://github.com/marcusluer1/CineHD.xyz) | Resources and documentation for movie/TV streaming apps |
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
 | [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
