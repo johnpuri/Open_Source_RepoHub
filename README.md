@@ -127,6 +127,7 @@
 || [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
 || [🧠 TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐18.6k — Team-level memory hub for AI agents: turns conversations/docs/code into 4 reusable assets (Chat Memory, Skill, LLM-Wiki, Code-Graph); ships as an OpenClaw plugin |
+| [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
 
 ---
 
