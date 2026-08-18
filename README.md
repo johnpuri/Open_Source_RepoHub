@@ -279,6 +279,7 @@
 || [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
 || [🕸️ Maxun](https://github.com/getmaxun/maxun) | No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (15.7k★) |
 || [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
+| [🧬 ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ⭐32.3k — Clone any website with one command using AI coding agents — AI-powered template (JS, 4.7k forks) |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 || [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
