@@ -406,7 +406,8 @@
 ||| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
-|||| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
+|||| [☁️ Cloudflare AI](https://github.com/cloudflare/ai) | ⭐1.1k — Ecosystem for AI on Cloudflare — Workers AI + AI Gateway + AI Search + Vectorize — Vercel/TanStack AI SDK providers, chat/image/embeddings/TTS/reranking, gateway caching/fallback |
+| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
 |||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (143.8k★) |
