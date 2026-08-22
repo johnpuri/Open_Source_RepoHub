@@ -276,7 +276,7 @@
 | Project | Description |
 ------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
-|| [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐71.6k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
+|| [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐75.8k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
 || [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
 || [🕸️ Maxun](https://github.com/getmaxun/maxun) | No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (15.7k★) |
 || [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
