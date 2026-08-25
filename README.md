@@ -266,6 +266,7 @@
 ||| [⭐ awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages... |
 || [✨ Motion Primitives](https://github.com/ibelick/motion-primitives) | ⭐5.9k — UI kit to make beautiful, animated interfaces, faster — drop-in animated components with zero animation code |
 || [🎨 Real-time Colors](https://github.com/juxtopposed/realtimecolors) | ⭐926 — Real-time UI color-picking tool: test palettes and fonts on a live site before writing a single line of code |
+| [✨ threeui](https://github.com/MengTo/threeui) | ⭐3.9k — Open-source ThreeUI Community catalog with live interactive components and complete Community source — 50 components, 111 routes, React + Three.js/WebGL |
 
 ---
 
