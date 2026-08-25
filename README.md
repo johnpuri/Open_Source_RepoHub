@@ -25,6 +25,54 @@
 - [🌍 Diversity in Open Source](#-diversity-in-open-source)
 - [💼 Portfolio & Career Tools](#-portfolio--career-tools)
 
+|| [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐194k — DeepSeek Harness: Everything is a Plugin. |
+|| [codex](https://github.com/openai/codex) | ⭐118k — Lightweight coding agent that runs in your terminal |
+|| [AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models) | ⭐4.4k — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows. |
+|| [dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | ⭐20.2k — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+|| [claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | ⭐1.6k — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
+|| [maka](https://github.com/apache/maka) | ⭐2.9k — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termina... |
+|| [pi](https://github.com/earendil-works/pi) | ⭐96.7k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+|| [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | ⭐876 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装 |
+|| [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐2.2k — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 |
+|| [unlazy](https://github.com/Leonxlnx/unlazy) | ⭐2.2k — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budg... |
+|| [hax](https://github.com/OleksandrChekhovskyi/hax) | ⭐633 — A minimalist, terminal-native coding agent written in C. |
+|| [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ⭐31.9k — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cur... |
+|| [ai-agent-book](https://github.com/bojieli/ai-agent-book) | ⭐42.1k — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+|| [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | ⭐25.5k — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+|| [claude-blog](https://github.com/AgriciDaniel/claude-blog) | ⭐1.8k — Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI ci... |
+|| [evals-skills](https://github.com/ai-evals-course/evals-skills) | ⭐435 — Skills that guide AI coding agents to help you build product-specific AI evals. |
+|| [open-connector](https://github.com/oomol-lab/open-connector) | ⭐5.2k — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
+|| [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ⭐12.3k — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+|| [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ⭐48.8k — Learn it. Build it. Ship it for others. |
+|| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | ⭐23.9k — A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+|| [ai-memory](https://github.com/akitaonrails/ai-memory) | ⭐4.6k — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+|| [oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐27.2k — ⌥ Coding agent with the IDE wired in |
+|| [skillsbench](https://github.com/benchflow-ai/skillsbench) | ⭐1.7k — SkillsBench evaluates how well skills work and how effective agents are at using them. |
+|| [ECC](https://github.com/affaan-m/ECC) | ⭐243k — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, C... |
+|| [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | ⭐1.5k — Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
+|| [trueforge](https://github.com/truefoundry/trueforge) | ⭐4.1k — The open-source agent harness - the runtime layer that turns an LLM into a working agent. |
+|| [claude-council](https://github.com/hex/claude-council) | ⭐662 — Claude Code plugin that asks several AI coding agents the same question and shows their answers side by side. Gemini, OpenAI, Grok, Perpl... |
+|| [Screendrop](https://github.com/fayazara/Screendrop) | ⭐1.3k — A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free. |
+|| [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ⭐4.7k — Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight... |
+|| [effective-html](https://github.com/plannotator/effective-html) | ⭐2.1k — Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
+|| [diagram-design](https://github.com/cathrynlavery/diagram-design) | ⭐26.7k — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+|| [img2threejs](https://github.com/img2threejs/img2threejs) | ⭐13.7k — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-... |
+|| [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) | ⭐4.4k — Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.  Animal 风格的 React 组件库 灵感来源于任... |
+|| [Pekingman](https://github.com/osama-fawad/Pekingman) | ⭐1.2k — A clean, responsive HTML template that presents a personal portfolio with smooth scrolling, a grid gallery, and a contact form. The desig... |
+|| [skills](https://github.com/emilkowalski/skills) | ⭐32.2k — Skills for Designers and Engineers. |
+|| [dembrandt](https://github.com/dembrandt/dembrandt) | ⭐3.2k — Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command. |
+|| [sony-vegas-pro-nexus](https://github.com/spikesocialmagnify/sony-vegas-pro-nexus) | ⭐406 — Sony Vegas Pro Nexus |
+|| [Financial-API](https://github.com/HiThink-Tech/Financial-API) | ⭐1.8k — 同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share finan... |
+|| [solomd](https://github.com/zhitongblog/solomd) | ⭐912 — A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your... |
+|| [waku](https://github.com/egoist/waku) | ⭐1.2k — ⚡ A native app for all your coding agents. |
+|| [proliferate](https://github.com/proliferate-ai/proliferate) | ⭐382 — The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable wo... |
+|| [gpuix](https://github.com/remorses/gpuix) | ⭐1.1k — Node.js & React bindings for Zed GPUI. |
+|| [codiff](https://github.com/nkzw-tech/codiff) | ⭐1.3k — a fast local diff viewer |
+|| [nodeterm](https://github.com/eneskirca/nodeterm) | ⭐1.2k — Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pa... |
+|| [plane](https://github.com/makeplane/plane) | ⭐58.2k — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do... |
+|| [hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) | ⭐1.4k — Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. |
+|| [scriptcat](https://github.com/scriptscat/scriptcat) | ⭐5.2k — ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
+|| [backlink_skills](https://github.com/flaqai/backlink_skills) | ⭐556 — Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic. |
 ---
 
 ## 🤖 AI Agents & Frameworks
@@ -422,6 +470,12 @@
 ||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
 ||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 
+|| [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
+|| [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
+|| [Sunrise](https://github.com/stanuwu/Sunrise) | ⭐901 — Destiny 2 Offline Exploration Mod |
+|| [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
+|| [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
+|| [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
 |---|
 
 ## 🔧 Infrastructure & DevOps
@@ -442,6 +496,9 @@
 ||| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
 |||| [🔐 authentik](https://github.com/goauthentik/authentik) | ⭐23.8k — Self-hosted identity provider: one account for all apps, SAML/OAuth2/LDAP, Okta alternative; free core + enterprise add-ons (MPL-2.0) |
 
+|| [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
+|| [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
+|| [best-cf-ips](https://github.com/LancelotRar/best-cf-ips) | ⭐635 — 为多个公开或开源Cloudflare优选IP项目进行聚合&去重&加国家区域标注&加旗帜 Unicode，每3小时更新 |
 ---
 
 ## 🛡️ Security & Pentesting
@@ -455,6 +512,13 @@
 ||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
 ||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
 
+|| [FreeToken](https://github.com/FlashML-org/FreeToken) | ⭐7k — A lightweight Python toolkit for creating, validating, and managing token-based authentication, supporting JWT, opaque tokens, and config... |
+|| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ⭐29.2k — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain boots... |
+|| [SearchPhone](https://github.com/HackUnderway/SearchPhone) | ⭐1.8k — Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, a... |
+|| [Safetycore-placeholder](https://github.com/daboynb/Safetycore-placeholder) | ⭐845 — Placeholder APK to permanently block Google SafetyCore installation and updates |
+|| [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ⭐18.2k — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTM... |
+|| [MailAccess](https://github.com/KatrielMoses/MailAccess) | ⭐677 — Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess |
+|| [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | ⭐2.2k — OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more. |
 ---
 
 ## 🧠 ML Models & Training
@@ -471,6 +535,13 @@
 ||| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 
+|| [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
+|| [arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | ⭐5.5k — Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
+|| [TurboOCR](https://github.com/aiptimizer/TurboOCR) | ⭐1k — TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC |
+|| [uniface](https://github.com/yakhyo/uniface) | ⭐1.5k — UniFace: A Unified Face Analysis Library for Python - Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes ... |
+|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐33k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+|| [coreai-models](https://github.com/apple/coreai-models) | ⭐2k — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
+|| [Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) | ⭐582 — 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等 |
 ---
 
 
