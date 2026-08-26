@@ -182,6 +182,7 @@
 | [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐65.1k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
 | [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐57.6k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
 || [🏢 Munder Difflin](https://github.com/chaitanyagiri/munder-difflin) | ⭐4.5k — Desktop office of AI clones — wraps Claude Code, Codex, Grok, Copilot, Qwen & more as avatars on a Pixi.js floor; your clone Michael routes work with hive-mind memory (Electron, from reel DcbJE6Tj4vY) |
+| [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 
 ---
 
@@ -400,6 +401,7 @@
 | [💻 Claude Fable 5 Desktop](https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app) | Free native desktop client for Claude Fable 5 — runs locally, no subscriptions |
 || [🔧 odysseus](https://github.com/odysseus-dev/odysseus) | ⭐86.3k — Self-hosted AI workspace — ChatGPT-like interface for local LLMs, self-hosted (Apache-2.0) |
 || [🔧 thaw](https://github.com/stonerl/thaw) | Menu bar manager for macOS 26 |
+| [💬 Lobe Chat](https://github.com/lobehub/lobe-chat) | ⭐82k — Modern AI chat framework — supports multi-model (OpenAI, Claude, Ollama), plugins, knowledge base, self-hosted |
 
 ---
 
@@ -548,6 +550,7 @@
 || [OpenViking](https://github.com/volcengine/OpenViking) | ⭐33k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
 || [coreai-models](https://github.com/apple/coreai-models) | ⭐2k — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
 || [Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) | ⭐582 — 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等 |
+| [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐74.8k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
 ---
 
 
