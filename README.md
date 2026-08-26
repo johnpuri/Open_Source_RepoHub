@@ -398,7 +398,7 @@
 | [🤖 Skales](https://github.com/skalesapp/skales) | Your personal AI desktop agent — run models, search web, execute commands on your machine |
 | [✈️ TREK](https://github.com/mauriceboe/TREK) | Self-hosted trip planner and travel assistant that handles your entire travel workflow |
 | [💻 Claude Fable 5 Desktop](https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app) | Free native desktop client for Claude Fable 5 — runs locally, no subscriptions |
-|| [🔧 odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | Self-hosted AI workspace.  |
+|| [🔧 odysseus](https://github.com/odysseus-dev/odysseus) | ⭐86.3k — Self-hosted AI workspace — ChatGPT-like interface for local LLMs, self-hosted (Apache-2.0) |
 || [🔧 thaw](https://github.com/stonerl/thaw) | Menu bar manager for macOS 26 |
 
 ---
