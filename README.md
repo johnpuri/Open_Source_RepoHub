@@ -320,6 +320,7 @@
 || [✨ Motion Primitives](https://github.com/ibelick/motion-primitives) | ⭐5.9k — UI kit to make beautiful, animated interfaces, faster — drop-in animated components with zero animation code |
 || [🎨 Real-time Colors](https://github.com/juxtopposed/realtimecolors) | ⭐926 — Real-time UI color-picking tool: test palettes and fonts on a live site before writing a single line of code |
 | [✨ threeui](https://github.com/MengTo/threeui) | ⭐3.9k — Open-source ThreeUI Community catalog with live interactive components and complete Community source — 50 components, 111 routes, React + Three.js/WebGL |
+|| [🎬 Donkey](https://github.com/DonkeyCut/Donkey) | ⭐186 — Open-source CapCut alternative — browser-based video editor with full timeline, effects, and AI assistant that generates clips, images, voiceovers & music from chat; no install, no watermark |
 
 ---
 
