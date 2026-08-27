@@ -360,6 +360,7 @@
 | Project | Description |
 ------|
 | [🎭 stagehand](https://github.com/browserbase/stagehand) | AI-focused web browsing framework for Playwright/Puppeteer |
+| [playwright-cli](https://github.com/microsoft/playwright-cli) | 12.8k stars - CLI for common Playwright actions - record/generate code, inspect selectors, take screenshots; lets Claude open websites and catch broken UI (from reel DcWQCQdN28T) |
 | [🕹️ browser-harness](https://github.com/browser-use/browser-harness) | Self-healing browser automation for LLM agents using CDP |
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
