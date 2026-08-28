@@ -171,7 +171,7 @@
 ||| [🎙️ Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | ⭐2k — Free open-source AI meeting assistant & interview copilot. Real-time transcription, stealth mode, local RAG, runs locally (TypeScript) |
 ||| [👁️ Cue](https://github.com/Blueturboguy07/cue) | ⭐806 — Open-source macOS AI copilot that floats over your screen, sees/hears meetings, hidden from screen shares. BYOK (JavaScript) |
 |||| [🔓 OpenCluely](https://github.com/TechyCSR/OpenCluely) | ⭐498 — Open-source Cluely alternative for technical interviews — invisible overlay, real-time AI help, DSA/OAs/CP (JavaScript) |
-|| [🐦 Buzz](https://github.com/block/buzz) | ⭐25.2k — Block's open-source agent workspace: humans and AI agents share one channel for conversations, workflows and code; model/agent-agnostic (Claude Code, Codex, goose), Apache-2.0 |
+|| [🐦 Buzz](https://github.com/block/buzz) | ⭐31.3k — Block's open-source agent workspace: humans and AI agents share one channel for conversations, workflows and code; model/agent-agnostic (Claude Code, Codex, goose), Apache-2.0 |
 ||| [🦜 LangChain](https://github.com/langchain-ai/langchain) | ⭐143.3k — The agent engineering platform — build LLM apps, agents, and RAG systems with composable chains |
 || [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
