@@ -186,6 +186,7 @@
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
+||| [🏖️ Cube Sandbox](https://github.com/TencentCloud/CubeSandbox) | ⭐11.9k — Tencent's instant sandbox for AI agents — microVMs via KVM+Rust VMM, 60ms startup, 5MB RAM, E2-B compatible, self-hosted |
 
 ---
 
@@ -296,6 +297,7 @@
 | [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
+||| [🎬 Recordly](https://github.com/webadderallorg/Recordly) | ⭐24.5k — Create polished demo videos without editing skills — cursor glide, zoom-on-click, gradient frames, cross-platform |
 || [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
 || [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
@@ -347,7 +349,8 @@
 ||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
 ||| [📄 MinerU](https://github.com/opendatalab/MinerU) | Transform PDFs and Office docs into LLM-ready markdown/JSON for agentic workflows | 
 |||| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
-||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
+|||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
+||| [🌊 Wigolo](https://github.com/KnockOutEZ/wigolo) | ⭐5.2k — Local-first web search, fetch, crawl, extract & deep-research for AI coding agents — no API keys, no per-search fees |
 ||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
 ||| [🛡️ curl-impersonate](https://github.com/lwthiker/curl-impersonate) | Mimic real browser TLS fingerprints to improve compatibility with anti-bot websites |
 
@@ -480,7 +483,9 @@
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
 ||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
 ||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
-||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
+|||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
+||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
+||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
 || [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
