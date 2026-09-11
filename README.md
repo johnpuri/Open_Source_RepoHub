@@ -486,6 +486,7 @@
 |||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
+||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
 || [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
