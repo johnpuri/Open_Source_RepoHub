@@ -90,6 +90,7 @@
 | [🦴 Caveman](https://github.com/juliusbrussee/caveman) | Claude Code skill for token optimization via ultra-concise communication |
 | [🗺️ Graphify](https://github.com/safishamsi/graphify) | AI skill that maps project folders into queryable knowledge graphs |
 | [🖇️ Paperclip](https://github.com/paperclipai/paperclip) | Orchestration platform for managing "zero-human" agent-led companies |
+| [🎬 ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ⭐1k — Agent skill giving your AI coder a local video editor: cut, join, captions via ffmpeg |
 | [⚡ Superpowers](https://github.com/obra/superpowers) | Composable agentic skills framework for formal engineering processes |
 | [🦙 LlamaIndex](https://github.com/run-llama/llama_index) | Leading data framework for building agentic RAG applications |
 | [🖥️ DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ⭐13.5k — Desktop app for DeepSeek Harness (DSH) — runs plugins locally as native app, no terminal, Win/macOS, 609 forks |
