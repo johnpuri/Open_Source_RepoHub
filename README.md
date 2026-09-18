@@ -171,7 +171,8 @@
 || [⚡ cyberppt](https://github.com/crazyykhllc-bit/cyberppt) | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
 ||| [🤖 Strix](https://github.com/usestrix/strix) | Autonomous AI security engineer — finds, triages, and helps fix vulnerabilities across your codebase | 
 ||| [📊 Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 68 battle-tested product-management frameworks (opportunity-solution trees, PRDs) as agent skills for Claude Code / Cowork | 
-||| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | The ultimate agentic social media scheduling tool — plan, automate, and publish across platforms with AI | 
+|| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | ⭐36.0k — The ultimate agentic social media scheduling and automation platform — AI-driven content generation, visual calendar, and multi-platform publishing across X, LinkedIn, Instagram, TikTok, YouTube, and Threads |
+|| [🌐 OmniSocials Agent Skills](https://github.com/OmniSocials/omnisocials-agent-skills) | ⭐26 — Multi-platform social media skills and CLI for AI agents (Claude Code, Cursor, Codex, Gemini CLI) to create, schedule, and publish posts across 11 platforms via OmniSocials API | 
 ||| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
 ||| [🤫 pluely](https://github.com/iamsrikanthnani/pluely) | ⭐2.3k — Open-source undetectable AI assistant for meetings & interviews. Tauri-based, 10MB, privacy-first, works with Zoom/Meet/Teams/Discord (TypeScript/Rust) |
 ||| [🎙️ Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | ⭐2k — Free open-source AI meeting assistant & interview copilot. Real-time transcription, stealth mode, local RAG, runs locally (TypeScript) |
@@ -509,6 +510,7 @@
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
+|| [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.7k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative) |
 |---|
 
 ## 🔧 Infrastructure & DevOps
