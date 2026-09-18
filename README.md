@@ -516,6 +516,7 @@
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
 || [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.7k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative) |
+|| [📄 Papermark](https://github.com/papermark/papermark) | ⭐9.2k — Open-source DocSend alternative and secure data rooms with built-in analytics and custom domains |
 |---|
 
 ## 🔧 Infrastructure & DevOps
