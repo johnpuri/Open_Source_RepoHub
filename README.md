@@ -197,6 +197,7 @@
 || [🔌 Composio](https://github.com/ComposioHQ/composio) | ⭐30.2k — Tooling and integration platform connecting AI agents to 1,000+ apps, auth, and sandboxed workbenches |
 || [🔍 Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | ⭐1.4k — Official MCP server integrating Brave Search API for real-time web, news, and AI summarization |
 || [💳 Stripe AI & MCP](https://github.com/stripe/ai) | ⭐1.8k — Official Stripe AI SDKs, remote MCP server, and agent tools for payments, billing, and invoices |
+|| [🎨 Higgsfield Skills](https://github.com/higgsfield-ai/skills) | ⭐1.0k — Official agent skills for Higgsfield AI video and image generation, Seedance models, and visual branding across Claude Code, Cursor, and Codex |
 
 ---
 
@@ -301,7 +302,8 @@
 || [🎬 CineHD.xyz](https://github.com/marcusluer1/CineHD.xyz) | Resources and documentation for movie/TV streaming apps |
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
-| [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
+|| [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | ⭐28.7k — Open-source alternative to Higgsfield AI and video platforms; self-hosted generation studio for image, video, and lip-sync with 600+ models |
+|| [🎬 OpenHiggsfield](https://github.com/wide-trace/open-higgsfield) | ⭐2.3k — Open-source alternative to Higgsfield AI; browser studio for image and video generation across 38 models with unified prompt composer and gallery |
 || [🎨 Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | ⭐15.9k — MCP server providing Figma layout and styling data to AI coding agents like Cursor and Claude Code |
 | [🔊 Supertonic](https://github.com/supertone-inc/supertonic) | Lightning-fast, on-device text-to-speech system powered by ONNX |
 | [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
