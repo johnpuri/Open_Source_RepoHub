@@ -586,6 +586,7 @@
 | [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐74.8k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
 | [GLM-5](https://github.com/zai-org/GLM-5) | 7k stars - Z.ai GLM-5.3 flagship 320B total / 18B active, top score on Terminal-Bench (from reel DcY0yX1R-9O) |
 || [🗣️ VoxCPM](https://github.com/OpenBMB/VoxCPM) | ⭐37.7k — Tokenizer-free multilingual TTS and creative voice cloning foundation model by OpenBMB |
+|| [🌐 SwarmLLM](https://github.com/Nehanth/swarmllm) | ⭐343 — Peer-to-peer browser LLM inference via WebGPU & WebRTC splitting models across local devices |
 ---
 
 
