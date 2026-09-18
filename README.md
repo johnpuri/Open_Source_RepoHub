@@ -127,7 +127,7 @@
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 ||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
 ||| [🐋 Orca](https://github.com/stablyai/orca) | ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
-|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 |
+|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐181.7k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
 || [🤖 claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
 || [🤖 cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. ... |
 || [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
@@ -136,7 +136,7 @@
 || [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. |
 | [🧭 Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Official LangChain deep research graph — planner/researcher/supervisor workflow with citations, MIT |
 || [🔧 hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-|| [🧠 mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents |
+|| [🧠 mem0](https://github.com/mem0ai/mem0) | ⭐65.5k — The memory layer for AI agents (OpenMemory) — persistent, self-improving memory across sessions with native MCP support |
 || [🔧 taste-skill](https://github.com/leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  |
 || [🔧 headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Libr... |
 || [🔍 agent-reach](https://github.com/panniantong/agent-reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHon... |
@@ -192,6 +192,10 @@
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
 ||| [🏖️ Cube Sandbox](https://github.com/TencentCloud/CubeSandbox) | ⭐11.9k — Tencent's instant sandbox for AI agents — microVMs via KVM+Rust VMM, 60ms startup, 5MB RAM, E2-B compatible, self-hosted |
+|| [⚡ E2B](https://github.com/e2b-dev/E2B) | ⭐13.9k — Secure open-source cloud sandbox for AI agents to run code, analyze data, and execute workloads |
+|| [🔌 Composio](https://github.com/ComposioHQ/composio) | ⭐30.2k — Tooling and integration platform connecting AI agents to 1,000+ apps, auth, and sandboxed workbenches |
+|| [🔍 Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | ⭐1.4k — Official MCP server integrating Brave Search API for real-time web, news, and AI summarization |
+|| [💳 Stripe AI & MCP](https://github.com/stripe/ai) | ⭐1.8k — Official Stripe AI SDKs, remote MCP server, and agent tools for payments, billing, and invoices |
 
 ---
 
@@ -218,7 +222,7 @@
 || [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
 || [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
 | [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
-| [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | Official MCP server for searching and managing Notion workspace content |
+|| [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | ⭐4.6k — Official MCP server for reading, writing, and searching Notion workspaces, pages, and databases |
 | [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
 | [🖥️ DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Terminal-based interface for efficient interaction with DeepSeek LLMs |
 | [🚀 Hysteria](https://github.com/apernet/hysteria) | Feature-packed network tunnel optimized for harsh network environments |
@@ -297,7 +301,7 @@
 | [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
 | [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
 | [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hosted generative AI studio for image, video, and lip-sync generation |
-| [🎨 Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server providing Figma layout and styling data to AI coding agents |
+|| [🎨 Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | ⭐15.9k — MCP server providing Figma layout and styling data to AI coding agents like Cursor and Claude Code |
 | [🔊 Supertonic](https://github.com/supertone-inc/supertonic) | Lightning-fast, on-device text-to-speech system powered by ONNX |
 | [🩺 react-doctor](https://github.com/millionco/react-doctor) | Performance analysis tool for identifying bottlenecks in React applications |
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
@@ -380,6 +384,7 @@
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
 ||| [🌐 Lightpanda Browser](https://github.com/lightpanda-io/browser) | Headless browser built from scratch in Zig, designed for AI and automation — non-Chromium, lightweight, 32k+ stars |
 ||| [🪪 FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) | ⭐28.1k — Most advanced free & open-source browser fingerprinting library — identify returning visitors without cookies/logins, even incognito (MIT) |
+|| [🎭 Playwright MCP](https://github.com/microsoft/playwright-mcp) | ⭐37.2k — Official Microsoft MCP server enabling AI agents to drive real browser automation, testing, and web interaction |
 
 |---|
 ## 📊 Token Usage & Cost Management
