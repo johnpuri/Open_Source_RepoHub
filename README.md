@@ -119,7 +119,8 @@
 | [💰 Financial Services](https://github.com/anthropics/financial-services) | Modular skills and prompts for AI-driven financial analysis and services |
 | [🎓 Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) | Curated AI skills optimized for scientific writing and academic research |
 | [👐 OpenHands](https://github.com/OpenHands/OpenHands) | Open-source platform for AI software engineering agents (formerly OpenDevin) |
-| [🤝 OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐57.9k — Open-source implementation of the Manus AI agent: describe what you want and it ships it |
+|| [🤝 OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐58.3k — Open-source implementation of Manus AI agent: general-purpose autonomous agent that plans, browses, and codes |
+|| [🤖 Manus](https://manus.im/) | Autonomous general-purpose AI agent platform that executes complex tasks across web, code, and APIs |
 | [🌐 Open WebUI](https://github.com/open-webui/open-webui) | Feature-rich WebUI for LLMs with full offline support |
 | [🪄 oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | Multi-agent framework for building complex autonomous applications |
 | [🏛️ MemPalace](https://github.com/MemPalace/mempalace) | Advanced hierarchical memory management for AI agent architectures |
@@ -337,6 +338,7 @@
 | [✨ threeui](https://github.com/MengTo/threeui) | ⭐3.9k — Open-source ThreeUI Community catalog with live interactive components and complete Community source — 50 components, 111 routes, React + Three.js/WebGL |
 || [🎬 Donkey](https://github.com/DonkeyCut/Donkey) | ⭐186 — Open-source CapCut alternative — browser-based video editor with full timeline, effects, and AI assistant that generates clips, images, voiceovers & music from chat; no install, no watermark |
 || [🍉 Watermelon Platform](https://github.com/WatermelonCorp/watermelon-platform) | ⭐525 — Open-source UI platform behind ui.watermelon.sh: animated components, blocks, dashboards, and templates built with React 19, Tailwind CSS 4, and Motion |
+|| [🌐 Godly](https://godly.website/) | Curated web design inspiration gallery showcasing astronomical web design, micro-interactions, and animations |
 
 ---
 
