@@ -111,7 +111,7 @@
 | [🧪 PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Open-source Deep Research agent for autonomous, multi-turn web research |
 | [🦞 Pokee OpenClaw Skill](https://github.com/Pokee-AI/pokee-deep-research-openclaw-skill) | Deep research integration for the OpenClaw framework |
 | [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 130+ ready-to-use skills for scientific research and engineering workflows |
-| [📈 TradingAgents](https://github.com/tauricresearch/tradingagents) | Multi-agent LLM framework for financial trading with analyst, trader, and risk manager agents |
+|| [📈 TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐107.4k — Multi-agent LLM framework for financial trading with analyst, trader, and risk manager agents |
 | [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
 | [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
 | [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | Opinionated collection of 20+ production engineering skills for agents |
@@ -134,7 +134,7 @@
 || [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
 || [🦔 ponytail](https://github.com/dietrichgebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 || [🤖 understand-anything](https://github.com/egonex-ai/understand-anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
-|| [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. |
+|| [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | ⭐96.0k — Production-grade engineering skills library for AI coding agents |
 | [🧭 Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Official LangChain deep research graph — planner/researcher/supervisor workflow with citations, MIT |
 || [🔧 hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 || [🧠 mem0](https://github.com/mem0ai/mem0) | ⭐65.5k — The memory layer for AI agents (OpenMemory) — persistent, self-improving memory across sessions with native MCP support |
@@ -199,6 +199,7 @@
 || [🔍 Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | ⭐1.4k — Official MCP server integrating Brave Search API for real-time web, news, and AI summarization |
 || [💳 Stripe AI & MCP](https://github.com/stripe/ai) | ⭐1.8k — Official Stripe AI SDKs, remote MCP server, and agent tools for payments, billing, and invoices |
 || [🎨 Higgsfield Skills](https://github.com/higgsfield-ai/skills) | ⭐1.0k — Official agent skills for Higgsfield AI video and image generation, Seedance models, and visual branding across Claude Code, Cursor, and Codex |
+|| [📈 FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ⭐31.7k — Open-source financial analysis, market analytics, and interactive trading terminal |
 
 ---
 
@@ -285,6 +286,7 @@
 ||||| [🤖 Kimi CLI](https://github.com/MoonshotAI/kimi-cli) | ⭐11k — AI coding agent CLI by Moonshot AI — reads, edits, and runs code from your terminal with natural language |
 || [🦙 Ollama](https://github.com/ollama/ollama) | ⭐177.7k — Run Llama, Mistral, Gemma, DeepSeek and more locally with one command — beginner-friendly, macOS/Windows/Linux |
 || [📓 Jupyter](https://github.com/jupyter/notebook) | ⭐13.3k — Interactive notebook coding environment — the standard for AI/ML experiments and data science |
+|| [💻 Continue](https://github.com/continuedev/continue) | ⭐35.9k — Leading open-source AI coding assistant and agent for VS Code and JetBrains |
 
 ---
 
@@ -321,7 +323,7 @@
 || [🏗️ system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
 || [🎨 stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) | Stable Diffusion web UI |
 || [🎨 comfyui](https://github.com/comfy-org/comfyui) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
-|| [💰 moneyprinterturbo](https://github.com/harry0703/moneyprinterturbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+|| [💰 MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ⭐124.5k — Automated AI short video generator — create HD videos from topic or keyword with LLM workflow |
 || [🎨 penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
 || [🐧 upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
 || [⚛️ react-bits](https://github.com/davidhdev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
@@ -342,6 +344,7 @@
 || [🎬 Donkey](https://github.com/DonkeyCut/Donkey) | ⭐186 — Open-source CapCut alternative — browser-based video editor with full timeline, effects, and AI assistant that generates clips, images, voiceovers & music from chat; no install, no watermark |
 || [🍉 Watermelon Platform](https://github.com/WatermelonCorp/watermelon-platform) | ⭐525 — Open-source UI platform behind ui.watermelon.sh: animated components, blocks, dashboards, and templates built with React 19, Tailwind CSS 4, and Motion |
 || [🌐 Godly](https://godly.website/) | Curated web design inspiration gallery showcasing astronomical web design, micro-interactions, and animations |
+|| [🎬 hyperframes](https://github.com/heygen-com/hyperframes) | ⭐51.1k — Programmatic HTML-to-video rendering engine from HeyGen built for AI agents |
 
 ---
 
@@ -425,6 +428,7 @@
 || [🔧 odysseus](https://github.com/odysseus-dev/odysseus) | ⭐86.3k — Self-hosted AI workspace — ChatGPT-like interface for local LLMs, self-hosted (Apache-2.0) |
 || [🔧 thaw](https://github.com/stonerl/thaw) | Menu bar manager for macOS 26 |
 | [💬 Lobe Chat](https://github.com/lobehub/lobe-chat) | ⭐82k — Modern AI chat framework — supports multi-model (OpenAI, Claude, Ollama), plugins, knowledge base, self-hosted |
+|| [💬 LibreChat](https://github.com/danny-avila/LibreChat) | ⭐44.3k — Enhanced ChatGPT clone supporting agents, MCP, multi-model switching, artifacts, secure auth, and full self-hosting |
 
 ---
 
@@ -443,6 +447,7 @@
 || [🤖 sub2api](https://github.com/wei-shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 || [⭐ awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-l... |
 || [⭐ awesome-engineering-articles](https://github.com/ashishps1/awesome-engineering-articles) | A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams ... |
+|| [🔌 Nango](https://github.com/NangoHQ/nango) | ⭐12.2k — Unified API integration and OAuth platform to build product integrations with AI |
 
 ---
 
@@ -487,7 +492,7 @@
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
 |||| [☁️ Cloudflare AI](https://github.com/cloudflare/ai) | ⭐1.1k — Ecosystem for AI on Cloudflare — Workers AI + AI Gateway + AI Search + Vectorize — Vercel/TanStack AI SDK providers, chat/image/embeddings/TTS/reranking, gateway caching/fallback |
-| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | Self-hosted email client with AI copilot, running entirely on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
+|| [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | ⭐7.8k — Autonomous AI email client running on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
 |||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (143.8k★) |
@@ -554,6 +559,7 @@
 || [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | ⭐18.2k — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTM... |
 || [MailAccess](https://github.com/KatrielMoses/MailAccess) | ⭐677 — Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess |
 || [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | ⭐2.2k — OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more. |
+|| [🕵️ flowsint](https://github.com/reconurge/flowsint) | ⭐8.8k — Modern visual graph-based OSINT investigation, reconnaissance, and intelligence analysis platform |
 ---
 
 ## 🧠 ML Models & Training
@@ -579,6 +585,7 @@
 || [Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) | ⭐582 — 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等 |
 | [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐74.8k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
 | [GLM-5](https://github.com/zai-org/GLM-5) | 7k stars - Z.ai GLM-5.3 flagship 320B total / 18B active, top score on Terminal-Bench (from reel DcY0yX1R-9O) |
+|| [🗣️ VoxCPM](https://github.com/OpenBMB/VoxCPM) | ⭐37.7k — Tokenizer-free multilingual TTS and creative voice cloning foundation model by OpenBMB |
 ---
 
 
