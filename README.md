@@ -81,6 +81,8 @@
 
 | Project | Description |
 ------|
+| [🔌 awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐95k — Curated list of Model Context Protocol (MCP) servers and tools for AI coding agents |
+| [🤖 awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ⭐139k — Curated collection of 100+ LLM, RAG, and AI agent applications with code and tutorials |
 | [🪿 goose](https://github.com/aaif-goose/goose) | Open-source AI agent framework by Block |
 | [🔭 AgentScope](https://github.com/agentscope-ai/agentscope) | Production-ready multi-agent framework with memory and tool support |
 | [🦉 OWL](https://github.com/camel-ai/owl) | Optimized Workforce Learning — multi-agent collaboration by CAMEL-AI |
@@ -209,6 +211,8 @@
 
 | Project | Description |
 ------|
+| [🛠️ Serena](https://github.com/oraios/serena) | ⭐29.6k — MCP coding agent toolkit for semantic codebase retrieval and symbol-level editing (Claude Code, Codex, Antigravity) |
+| [📚 Context7](https://github.com/upstash/context7) | ⭐62.2k — MCP server providing up-to-date documentation directly into AI agent context to eliminate hallucinated APIs |
 | [🚀 llama.cpp](https://github.com/ggml-org/llama.cpp) | Efficient LLM inference in C/C++ for consumer hardware |
 ||| [🛠️ Grok Build](https://github.com/xai-org/grok-build) | ⭐24.3k — SpaceXAI's terminal-based AI coding agent ("Cursor killer") — full-screen TUI that reads your codebase, edits files, runs shell commands, searches the web, manages long-running tasks; interactive/headless/ACP (Apache-2.0) |
 | [🔋 airllm](https://github.com/lyogavin/airllm) | Run large LLMs on consumer hardware using memory-efficient inference |
@@ -296,6 +300,7 @@
 
 | Project | Description |
 ------|
+| [🎬 Maestro](https://github.com/Blizaine/Maestro) | ⭐569 — Local AI video, image, and music studio. Director Mode plans scenes, shots, and visuals end-to-end from a prompt or track (via Pinokio) |
 | [🎨 Open Design](https://github.com/nexu-io/open-design) | Local-first design workflow for creating prototypes with AI |
 | [🎨 Portfolio Website](https://github.com/MoncyDev/Portfolio-Website) | Clean and modern developer portfolio template |
 | [🎨 design-extract](https://github.com/Manavarya09/design-extract) | Tool for extracting design assets and data from UI mockups |
