@@ -202,6 +202,8 @@
 || [💳 Stripe AI & MCP](https://github.com/stripe/ai) | ⭐1.8k — Official Stripe AI SDKs, remote MCP server, and agent tools for payments, billing, and invoices |
 || [🎨 Higgsfield Skills](https://github.com/higgsfield-ai/skills) | ⭐1.0k — Official agent skills for Higgsfield AI video and image generation, Seedance models, and visual branding across Claude Code, Cursor, and Codex |
 || [📈 FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ⭐31.7k — Open-source financial analysis, market analytics, and interactive trading terminal |
+|| [📱 ARTEMIS](https://github.com/google/artemis) | ⭐8.3k — Google's open-source Android automation agent that turns natural-language instructions into phone workflows with MCP integration for Antigravity, Codex, and Claude Code (Apache-2.0, from reel Ddg3yiFRtMg) |
+|| [🍕 Pizza Bot](https://github.com/pizza-bot-app/pizza-bot) | ⭐342 — Local-first desktop inbox for long-running background AI agents built with DeepAgents & LangGraph (Apache-2.0, from reel Ddg3yiFRtMg) |
 
 ---
 
@@ -587,13 +589,14 @@
 || [arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | ⭐5.5k — Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
 || [TurboOCR](https://github.com/aiptimizer/TurboOCR) | ⭐1k — TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC |
 || [uniface](https://github.com/yakhyo/uniface) | ⭐1.5k — UniFace: A Unified Face Analysis Library for Python - Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes ... |
-|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐33k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐38.2k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills (from reel Ddg3yiFRtMg). |
 || [coreai-models](https://github.com/apple/coreai-models) | ⭐2k — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
 || [Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) | ⭐582 — 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等 |
-| [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐74.8k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
-| [GLM-5](https://github.com/zai-org/GLM-5) | 7k stars - Z.ai GLM-5.3 flagship 320B total / 18B active, top score on Terminal-Bench (from reel DcY0yX1R-9O) |
+| [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐76.5k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
+| [GLM-5](https://github.com/zai-org/GLM-5) | ⭐7.2k — Z.ai GLM-5.3 flagship 320B total / 18B active, top score on Terminal-Bench (from reel DcY0yX1R-9O) |
 || [🗣️ VoxCPM](https://github.com/OpenBMB/VoxCPM) | ⭐37.7k — Tokenizer-free multilingual TTS and creative voice cloning foundation model by OpenBMB |
 || [🌐 SwarmLLM](https://github.com/Nehanth/swarmllm) | ⭐343 — Peer-to-peer browser LLM inference via WebGPU & WebRTC splitting models across local devices |
+|| [🌲 Bonsai 2](https://github.com/PrismML-Eng/Bonsai-demo) | ⭐2.8k — PrismML's 27B-parameter ternary compressed reasoning model with 262k context and local GGUF/MLX inference (Apache-2.0, from reel Ddg3yiFRtMg) |
 ---
 
 
