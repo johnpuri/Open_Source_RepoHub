@@ -402,6 +402,7 @@
 ||| [🪪 FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) | ⭐28.1k — Most advanced free & open-source browser fingerprinting library — identify returning visitors without cookies/logins, even incognito (MIT) |
 || [🎭 Playwright MCP](https://github.com/microsoft/playwright-mcp) | ⭐37.2k — Official Microsoft MCP server enabling AI agents to drive real browser automation, testing, and web interaction |
 | [⚡ jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐11.1k — Browser agent with dynamic, indexed action space driven by TypeSafe Jev; sub-second decisions without screenshots or coordinate clicks (from reel DdgnSJECUE3) |
+| [🧠 laya](https://github.com/NandhaKishorM/laya) | ⭐5.0k — Open-source local System 1 decision model (421M params, ~1GB RAM, 86.5 decisions/sec, P50 ~9ms, Apache-2.0) — typed agent decisions in one forward pass, no network (from reel Ddh509zOSrT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
