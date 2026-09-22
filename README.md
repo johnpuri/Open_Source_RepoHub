@@ -100,6 +100,7 @@
 | [⚡ Superpowers](https://github.com/obra/superpowers) | Composable agentic skills framework for formal engineering processes |
 | [🦙 LlamaIndex](https://github.com/run-llama/llama_index) | Leading data framework for building agentic RAG applications |
 | [🖥️ DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ⭐13.5k — Desktop app for DeepSeek Harness (DSH) — runs plugins locally as native app, no terminal, Win/macOS, 609 forks |
+| [🧩 FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | ⭐4.3k — Apodex agent framework (from reel DdjRMHHhhUx): native CLI TUI, ReAct + Agent Team modes, up to 150 parallel agents for deep research, Apache-2.0 |
 | [🧠 RAG-Anything](https://github.com/HKUDS/RAG-Anything) | All-in-One multimodal RAG framework for complex retrieval |
 | [🦌 DeerFlow](https://github.com/bytedance/deer-flow) | Deep Exploration and Efficient Research Flow for long-horizon tasks |
 | [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with cross-session memory and skill creation |
