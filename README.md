@@ -242,6 +242,7 @@
 || [🖥️ Pinchtab](https://github.com/pinchtab/pinchtab) | ⭐9.7k — Browser automation bridge for AI agents — single Go binary, HTTP API, stealth mode, no framework lock-in |
 || [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
+|| [📤 AlterSend](https://github.com/denislupookov/altersend) | ⭐1.8k — P2P file transfer between devices, E2E encrypted (Noise protocol), no accounts/cloud/size limits, browser receive (Apache-2.0) |
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (56.4k★) |
 || [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 || [🎮 Unity-MCP](https://github.com/CoplayDev/unity-mcp) | Bridge between AI assistants and Unity Editor — manage assets, control scenes, edit scripts, and automate tasks |
