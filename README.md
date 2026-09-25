@@ -379,6 +379,7 @@
 |||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
 ||| [🌊 Wigolo](https://github.com/KnockOutEZ/wigolo) | ⭐5.2k — Local-first web search, fetch, crawl, extract & deep-research for AI coding agents — no API keys, no per-search fees |
 ||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
+||| [📧 Reacher](https://github.com/reacherhq/check-if-email-exists) | ⭐10k — Verify email existence without sending mail — MX/SMTP reachability, catch-all, disposable, syntax checks; Rust + HTTP backend (via IG reel Ddrmm4pRt7c) |
 ||| [🛡️ curl-impersonate](https://github.com/lwthiker/curl-impersonate) | Mimic real browser TLS fingerprints to improve compatibility with anti-bot websites |
 
 ---|---
