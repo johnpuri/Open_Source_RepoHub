@@ -577,6 +577,7 @@
 || [MailAccess](https://github.com/KatrielMoses/MailAccess) | ⭐677 — Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess |
 || [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | ⭐2.2k — OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more. |
 || [🕵️ flowsint](https://github.com/reconurge/flowsint) | ⭐8.8k — Modern visual graph-based OSINT investigation, reconnaissance, and intelligence analysis platform |
+| [🛡️ security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⭐22k — Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (MIT, from bestapps.ai post Ddtin7OjDg_) |
 ---
 
 ## 🧠 ML Models & Training
