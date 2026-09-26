@@ -205,6 +205,8 @@
 || [📈 FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ⭐31.7k — Open-source financial analysis, market analytics, and interactive trading terminal |
 || [📱 ARTEMIS](https://github.com/google/artemis) | ⭐8.3k — Google's open-source Android automation agent that turns natural-language instructions into phone workflows with MCP integration for Antigravity, Codex, and Claude Code (Apache-2.0, from reel Ddg3yiFRtMg) |
 || [🍕 Pizza Bot](https://github.com/pizza-bot-app/pizza-bot) | ⭐342 — Local-first desktop inbox for long-running background AI agents built with DeepAgents & LangGraph (Apache-2.0, from reel Ddg3yiFRtMg) |
+| [📚 tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐1.3k — Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
+| [▶️ youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | ⭐962 — YouTube transcript API skills for AI agents: transcripts, search, workflow automation (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 
 ---
 
