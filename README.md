@@ -32,6 +32,7 @@
 || [claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | ⭐1.6k — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
 || [maka](https://github.com/apache/maka) | ⭐2.9k — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termina... |
 || [pi](https://github.com/earendil-works/pi) | ⭐96.7k — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+|| [openmuse](https://github.com/CopilotKit/openmuse) | ⭐2.3k — Personal agent with a browser, terminal, files, and work that keeps going, built with CopilotKit |
 || [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | ⭐876 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装 |
 || [dsh-market](https://github.com/dsh-market/dsh-market) | ⭐2.2k — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 |
 || [unlazy](https://github.com/Leonxlnx/unlazy) | ⭐2.2k — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budg... |
