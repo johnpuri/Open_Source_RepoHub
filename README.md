@@ -112,6 +112,7 @@
 | [🖥️ holaOS](https://github.com/holaboss-ai/holaOS) | Open agent computer for automating repetitive digital work-streams |
 | [🖼️ Z-Image](https://github.com/Tongyi-MAI/Z-Image) | Multimodal image generation and processing tool |
 | [🌐 metaai-api](https://github.com/mir-ashiq/metaai-api) | Unofficial API wrapper for Meta AI services |
+| [🦙 meta-ai-api](https://github.com/Strvm/meta-ai-api) | MetaAI reverse-engineered API — Llama 3 70B & 405B access (409★, no license stated) |
 | [🧪 PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Open-source Deep Research agent for autonomous, multi-turn web research |
 | [🦞 Pokee OpenClaw Skill](https://github.com/Pokee-AI/pokee-deep-research-openclaw-skill) | Deep research integration for the OpenClaw framework |
 | [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 130+ ready-to-use skills for scientific research and engineering workflows |
