@@ -506,6 +506,8 @@
 |------|
 ||| [👥 KiroCrew](https://github.com/kirodotdev/KiroCrew) | ⭐1.8k — Persistent, self-improving AI dev workspace — runs locally/remotely on your hardware, remembers across sessions, keeps working unattended via desktop app, web dashboard, CLI, Slack/Discord (Apache-2.0) |
 ||| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+||| [⚡ open-compute](https://github.com/elliothux/open-compute) | ⭐1.2k — Self-hosted Cloudflare Workers-compatible platform (KV, D1, R2, Durable Objects, Queues) in one binary — Workers on your own server (Apache-2.0) |
+||| [💾 9drive](https://github.com/zenhosta/9drive) | ⭐2.1k — Storage gateway pooling multiple Google Drive accounts into one virtual dashboard (Apache-2.0) |
 ||| [🔎 searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Use... |
 ||| [🎮 romm](https://github.com/rommapp/romm) | A beautiful, powerful, self-hosted rom manager and player. |
 ||| [🔧 lan-mouse](https://github.com/feschber/lan-mouse) | mouse & keyboard sharing via LAN |
@@ -527,6 +529,7 @@
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
+||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
 || [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
@@ -570,6 +573,7 @@
 ------|
 || [🔍 ghidra](https://github.com/nationalsecurityagency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 || [🕵️ strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+|| [📱 MVT](https://github.com/mvt-project/mvt) | ⭐14.9k — Amnesty's Mobile Verification Toolkit — forensic triage for Android/iOS compromise (Pegasus-era tooling) |
 ||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
 ||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
 
