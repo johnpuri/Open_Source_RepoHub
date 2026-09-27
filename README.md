@@ -155,6 +155,7 @@
 || [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... |
 || [🤖 claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable reference... |
 || [🔧 guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
+|| [📊 ppt-master](https://github.com/hugohe3/ppt-master) | ⭐56.6k — AI turns documents or topics into real native PowerPoint decks with native shapes |
 || [⛽ gastown](https://github.com/gastownhall/gastown) | Gas Town - multi-agent workspace manager |
 || [🐑 herdr](https://github.com/ogulcancelik/herdr) | agent multiplexer that lives in your terminal. |
 || [🤖 Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Alibaba agent framework with web-browsing (Page Agent), function calling, code interpreter, and autonomous tasks |
@@ -368,6 +369,7 @@
 | Project | Description |
 ------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
+| [🔍 changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest self-hosted tool for website change detection and monitoring (34.5k★, Apache-2.0) |
 || [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐75.8k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
 || [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
 || [🕸️ Maxun](https://github.com/getmaxun/maxun) | No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (15.7k★) |
