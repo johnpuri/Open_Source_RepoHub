@@ -210,6 +210,7 @@
 || [🍕 Pizza Bot](https://github.com/pizza-bot-app/pizza-bot) | ⭐342 — Local-first desktop inbox for long-running background AI agents built with DeepAgents & LangGraph (Apache-2.0, from reel Ddg3yiFRtMg) |
 | [📚 tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐1.3k — Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 | [▶️ youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | ⭐962 — YouTube transcript API skills for AI agents: transcripts, search, workflow automation (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
+| [🏫 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ⭐39.4k — Open Multi-Agent Interactive Classroom — type a topic, get an immersive AI classroom with teacher-style agents (from @lindsay.ai reel Dd1XUPNDlgO) |
 
 ---
 
@@ -621,6 +622,7 @@
 || [🗣️ VoxCPM](https://github.com/OpenBMB/VoxCPM) | ⭐37.7k — Tokenizer-free multilingual TTS and creative voice cloning foundation model by OpenBMB |
 || [🌐 SwarmLLM](https://github.com/Nehanth/swarmllm) | ⭐343 — Peer-to-peer browser LLM inference via WebGPU & WebRTC splitting models across local devices |
 || [🌲 Bonsai 2](https://github.com/PrismML-Eng/Bonsai-demo) | ⭐2.8k — PrismML's 27B-parameter ternary compressed reasoning model with 262k context and local GGUF/MLX inference (Apache-2.0, from reel Ddg3yiFRtMg) |
+|| [🧠 MiniMind](https://github.com/jingyaogong/minimind) | ⭐62.8k — Train a 64M-parameter LLM from scratch in 2h — lightweight learn-how-LLMs-are-built project (from @lindsay.ai reel Dd1XUPNDlgO) |
 ---
 
 
