@@ -540,6 +540,13 @@
 || [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.7k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative) |
 || [📄 Papermark](https://github.com/papermark/papermark) | ⭐9.2k — Open-source DocSend alternative and secure data rooms with built-in analytics and custom domains |
 || [📁 FileSync](https://github.com/polius/FileSync) | ⭐1.7k — P2P file transfer in the browser — send files device-to-device in real-time, no size limits, no cloud middleman (MIT) |
+|| [🔥 Appwrite](https://github.com/appwrite/appwrite) | ⭐57.5k — Self-hosted backend platform — auth, databases, storage, functions; open-source Firebase alternative (from @rananjayrajai 20-repos carousel) |
+|| [🚀 Strapi](https://github.com/strapi/strapi) | ⭐73.2k — Leading open-source headless CMS — content + APIs, 100% JavaScript/TypeScript (from @rananjayrajai 20-repos carousel) |
+|| [🛒 Medusa](https://github.com/medusajs/medusa) | ⭐36.5k — Modular commerce backend for online stores (from @rananjayrajai 20-repos carousel) |
+|| [🔔 Novu](https://github.com/novuhq/novu) | ⭐40k — Notification workflows for inbox, email, SMS, push (moved novahq → novuhq; from @rananjayrajai 20-repos carousel) |
+|| [💬 Mattermost](https://github.com/mattermost/mattermost) | ⭐39.2k — Self-hostable team messaging (open-source Slack alternative; from @rananjayrajai 20-repos carousel) |
+|| [📝 Outline](https://github.com/outline/outline) | ⭐40.7k — Collaborative team knowledge base, realtime (open-source Notion/Confluence alternative; from @rananjayrajai 20-repos carousel) |
+|| [🧱 ToolJet](https://github.com/ToolJet/ToolJet) | ⭐41k — Visual builder for internal apps (from @rananjayrajai 20-repos carousel) |
 |---|
 
 ## 🔧 Infrastructure & DevOps
