@@ -211,6 +211,7 @@
 | [📚 tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐1.3k — Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 | [▶️ youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | ⭐962 — YouTube transcript API skills for AI agents: transcripts, search, workflow automation (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 | [🏫 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ⭐39.4k — Open Multi-Agent Interactive Classroom — type a topic, get an immersive AI classroom with teacher-style agents (from @lindsay.ai reel Dd1XUPNDlgO) |
+| [🧠 Company Brain](https://github.com/supermemoryai/company-brain) | ⭐741 — AI teammate in Slack that remembers everything the team says, answers, opens issues, reads PRs — runs on your Cloudflare account (from reel Dd1F7meCvdk) |
 
 ---
 
@@ -255,6 +256,8 @@
 ||| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
 || [👁️ Supervision](https://github.com/roboflow/supervision) | Reusable computer vision tools — detect, track, count, segment without boilerplate |
 || [🎤 Whisper](https://github.com/openai/whisper) | Robust speech recognition via large-scale weak supervision (by OpenAI) |
+|| [🎙️ VoiceStudio](https://github.com/debpalash/VoiceStudio) | ⭐42.8k — Fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, transcription, audiobooks in 646 languages, Claude MCP (from reel Dd1F7meCvdk) |
+|| [🎵 YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | ⭐272 — Local AI song generator with editable sheet music — full songs with vocals on a 6GB NVIDIA card, Windows installer (from reel Dd1F7meCvdk) |
 || [🚗 openpilot](https://github.com/commaai/openpilot) | Operating system for robotics — upgrades driver assistance on 300+ supported cars |
 || [🔨 build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 || [🐧 linux](https://github.com/torvalds/linux) | Linux kernel source tree |
@@ -301,6 +304,7 @@
 || [🦙 Ollama](https://github.com/ollama/ollama) | ⭐177.7k — Run Llama, Mistral, Gemma, DeepSeek and more locally with one command — beginner-friendly, macOS/Windows/Linux |
 || [📓 Jupyter](https://github.com/jupyter/notebook) | ⭐13.3k — Interactive notebook coding environment — the standard for AI/ML experiments and data science |
 || [💻 Continue](https://github.com/continuedev/continue) | ⭐35.9k — Leading open-source AI coding assistant and agent for VS Code and JetBrains |
+|| [⚡ ZCode](https://github.com/zai-org/ZCode) | ⭐7k — Z.ai's coding agent harness — desktop app, browser UI, terminal agent in one repo, Claude Code-style workflow (from reel Dd1F7meCvdk) |
 
 ---
 
@@ -623,6 +627,7 @@
 || [🌐 SwarmLLM](https://github.com/Nehanth/swarmllm) | ⭐343 — Peer-to-peer browser LLM inference via WebGPU & WebRTC splitting models across local devices |
 || [🌲 Bonsai 2](https://github.com/PrismML-Eng/Bonsai-demo) | ⭐2.8k — PrismML's 27B-parameter ternary compressed reasoning model with 262k context and local GGUF/MLX inference (Apache-2.0, from reel Ddg3yiFRtMg) |
 || [🧠 MiniMind](https://github.com/jingyaogong/minimind) | ⭐62.8k — Train a 64M-parameter LLM from scratch in 2h — lightweight learn-how-LLMs-are-built project (from @lindsay.ai reel Dd1XUPNDlgO) |
+|| [⚡ Laya MLX](https://github.com/mizorewww/laya-mlx) | ⭐6.6k — Open-weight decision model for Apple Silicon — routes requests like refunds to billing in ~13ms, one pip install, no cloud (from reel Dd1F7meCvdk) |
 ---
 
 
