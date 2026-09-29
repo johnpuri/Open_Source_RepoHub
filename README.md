@@ -107,6 +107,7 @@
 | [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with cross-session memory and skill creation |
 | [🚢 rowboat](https://github.com/rowboatlabs/rowboat) | Local-first AI coworker that builds a personal knowledge graph |
 | [🧠 claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory plugin for Claude Code sessions |
+| [🔭 Hindsight](https://github.com/vectorize-io/hindsight) | ⭐41.2k — Agent memory that learns and lasts between sessions, with a Jev reranker (from @lumen_arcade post Ddt16ilkRGB) |
 | [🌐 hyperspace-agi](https://github.com/hyperspaceai/agi) | Fully distributed, peer-to-peer AGI system |
 | [🦞 PicoClaw](https://github.com/sipeed/picoclaw) | Ultra-lightweight AI agent for minimal hardware with MCP support |
 | [🖥️ holaOS](https://github.com/holaboss-ai/holaOS) | Open agent computer for automating repetitive digital work-streams |
@@ -248,6 +249,8 @@
 || [🔓 OpenCode](https://github.com/anomalyco/opencode) | Open-source development platform for AI-powered coding tools |
 || [🖥️ Pinchtab](https://github.com/pinchtab/pinchtab) | ⭐9.7k — Browser automation bridge for AI agents — single Go binary, HTTP API, stealth mode, no framework lock-in |
 || [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
+|| [📱 Argent](https://github.com/software-mansion/argent) | ⭐2.9k — Agentic toolkit letting Claude control iPhone/Android apps via the accessibility layer — tap, type, swipe, record flows (from @lumen_arcade post Ddt16ilkRGB) |
+|| [📣 marketingskills](https://github.com/coreyhaines31/marketingskills) | ⭐51.8k — 50 marketing skills for AI agents: landing page audits, cold email, welcome sequences, CRO, SEO (from @lumen_arcade post Ddt16ilkRGB) |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
 || [📤 AlterSend](https://github.com/denislupookov/altersend) | ⭐1.8k — P2P file transfer between devices, E2E encrypted (Noise protocol), no accounts/cloud/size limits, browser receive (Apache-2.0) |
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (56.4k★) |
