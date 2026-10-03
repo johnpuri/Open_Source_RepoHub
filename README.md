@@ -308,6 +308,13 @@
 || [📓 Jupyter](https://github.com/jupyter/notebook) | ⭐13.3k — Interactive notebook coding environment — the standard for AI/ML experiments and data science |
 || [💻 Continue](https://github.com/continuedev/continue) | ⭐35.9k — Leading open-source AI coding assistant and agent for VS Code and JetBrains |
 || [⚡ ZCode](https://github.com/zai-org/ZCode) | ⭐7k — Z.ai's coding agent harness — desktop app, browser UI, terminal agent in one repo, Claude Code-style workflow (from reel Dd1F7meCvdk) |
+|| [🦘 Roo Code](https://github.com/RooCodeInc/Roo-Code) | ⭐24.3k — Dev team of AI agents in your editor (moved from RooCodeInc/Roo; from carousel DeCkVcSCbrH) |
+|| [🤝 Aider](https://github.com/Aider-AI/aider) | ⭐49.4k — AI pair programming in your terminal (from carousel DeCkVcSCbrH) |
+|| [🪿 Goose](https://github.com/block/goose) | ⭐54.9k — Open-source extensible AI agent beyond code suggestions (from carousel DeCkVcSCbrH) |
+|| [🧪 SWE-agent](https://github.com/SWE-agent/SWE-agent) | ⭐20.5k — Takes a GitHub issue and auto-fixes it with your LM (from carousel DeCkVcSCbrH) |
+|| [🗺️ Plandex](https://github.com/plandex-ai/plandex) | ⭐15.7k — AI coding agent for large projects and real-world tasks (from carousel DeCkVcSCbrH) |
+|| [✈️ GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | ⭐33.7k — The first real AI developer (from carousel DeCkVcSCbrH) |
+|| [📑 Tabby](https://github.com/TabbyML/tabby) | ⭐33.9k — Self-hosted AI coding assistant (from carousel DeCkVcSCbrH) |
 
 ---
 
