@@ -358,7 +358,8 @@
 || [⚛️ react-bits](https://github.com/davidhdev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
 || [⭐ awesome-nano-banana-images](https://github.com/picotrex/awesome-nano-banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-ima... |
 || [🔧 unlimited-ocr](https://github.com/baidu/unlimited-ocr) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
-|| [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc...
+|| [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc... |
+|| [🎥 FreeVideo](https://github.com/FlashML-org/FreeVideo) | ⭐904 — Make videos on the computer you already own — MiniMax H3 in 8GB VRAM/16GB RAM, ComfyUI node, image/clip/audio references (from reel DeFMkiNFJ3L) |
 |||| [🔤 tiktoken](https://github.com/openai/tiktoken) | ⭐18.8k — OpenAI's fast BPE tokenizer for estimating and managing LLM token usage efficiently
 |||| [🪶 LLMLingua](https://github.com/microsoft/LLMLingua) | ⭐6.5k — Compress prompts and KV-cache by up to 20x while preserving task performance
 |||| [🔗 LiteLLM](https://github.com/BerriAI/litellm) | ⭐54.7k — AI Gateway calling 100+ LLM APIs in OpenAI format with cost tracking, load balancing, and guardrails
