@@ -108,6 +108,9 @@
 | [🚢 rowboat](https://github.com/rowboatlabs/rowboat) | Local-first AI coworker that builds a personal knowledge graph |
 | [🧠 claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory plugin for Claude Code sessions |
 | [🔭 Hindsight](https://github.com/vectorize-io/hindsight) | ⭐41.2k — Agent memory that learns and lasts between sessions, with a Jev reranker (from @lumen_arcade post Ddt16ilkRGB) |
+| [🔍 iFixAi](https://github.com/ifixai-ai/iFixAi) | ⭐21.2k — Independent auditing for AI agents, run by human or the agent itself (from carousel DeGDWLNDm86) |
+| [🪟 Magpie](https://github.com/yetone/magpie) | ⭐5.1k — Every agent's model, one place — Codex on DeepSeek, Claude Code on Kimi, from the menu bar (from carousel DeGDWLNDm86) |
+| [📑 PageIndex](https://github.com/VectifyAI/PageIndex) | ⭐38.7k — Vectorless reasoning-based RAG, tree indexes over long docs with page citations (from carousel DeGDWLNDm86) |
 | [🌐 hyperspace-agi](https://github.com/hyperspaceai/agi) | Fully distributed, peer-to-peer AGI system |
 | [🦞 PicoClaw](https://github.com/sipeed/picoclaw) | Ultra-lightweight AI agent for minimal hardware with MCP support |
 | [🖥️ holaOS](https://github.com/holaboss-ai/holaOS) | Open agent computer for automating repetitive digital work-streams |
@@ -190,7 +193,7 @@
 || [🕸️ LangGraph](https://github.com/langchain-ai/langgraph) | ⭐38.8k — Build resilient, stateful multi-agent workflows as graphs with checkpointing and human-in-the-loop |
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
 || [🧠 TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐18.6k — Team-level memory hub for AI agents: turns conversations/docs/code into 4 reusable assets (Chat Memory, Skill, LLM-Wiki, Code-Graph); ships as an OpenClaw plugin |
-| [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
+| [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k→11.3k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
 | [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐14.7k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
 | [⌨️ cline](https://github.com/cline/cline) | ⭐66.8k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
 | [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐65.1k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
@@ -360,6 +363,7 @@
 || [🔧 unlimited-ocr](https://github.com/baidu/unlimited-ocr) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. |
 || [🎬 toonflow-app](https://github.com/hbai-ltd/toonflow-app) | Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-sourc... |
 || [🎥 FreeVideo](https://github.com/FlashML-org/FreeVideo) | ⭐904 — Make videos on the computer you already own — MiniMax H3 in 8GB VRAM/16GB RAM, ComfyUI node, image/clip/audio references (from reel DeFMkiNFJ3L) |
+|| [🎞️ fframes](https://github.com/dmtrKovalenko/fframes) | ⭐2.1k — Programmatic video rendering framework that's actually fast, Rust+SVG on GPU (from carousel DeGDWLNDm86) |
 |||| [🔤 tiktoken](https://github.com/openai/tiktoken) | ⭐18.8k — OpenAI's fast BPE tokenizer for estimating and managing LLM token usage efficiently
 |||| [🪶 LLMLingua](https://github.com/microsoft/LLMLingua) | ⭐6.5k — Compress prompts and KV-cache by up to 20x while preserving task performance
 |||| [🔗 LiteLLM](https://github.com/BerriAI/litellm) | ⭐54.7k — AI Gateway calling 100+ LLM APIs in OpenAI format with cost tracking, load balancing, and guardrails
