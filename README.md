@@ -136,7 +136,7 @@
 | [ Anything to NotebookLM](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | AI skill to convert diverse content to NotebookLM with paywall bypass |
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 ||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
-||| [🐋 Orca](https://github.com/stablyai/orca) | ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
+||| [🐋 Orca](https://github.com/stablyai/orca) | ⭐87.4k — ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
 || [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐181.7k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
 || [🤖 claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
 || [🤖 cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. ... |
@@ -335,7 +335,7 @@
 || [🎬 video-use](https://github.com/browser-use/video-use) | Conversation-driven video editing for coding agents |
 || [🎬 DAPI](https://github.com/diffusionstudio/editor) | ⭐2.1k — AI-native video editing CLI: agents write TSX compositions, DAPI mounts into editor; FFmpeg for agents with generative AI + multimodal built-in (Diffusion Studio) |
 || [🎬 CineHD.xyz](https://github.com/marcusluer1/CineHD.xyz) | Resources and documentation for movie/TV streaming apps |
-| [🎨 multica](https://github.com/multica-ai/multica) | Multi-modal AI creation platform |
+| [🎨 multica](https://github.com/multica-ai/multica) | ⭐52.1k — Multi-modal AI creation platform; humans + AI agents working as one team (Apache-2.0 + additional conditions) |
 | [🎨 UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | AI skill providing design intelligence and UI/UX guidelines |
 || [🖼️ Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) | ⭐28.7k — Open-source alternative to Higgsfield AI and video platforms; self-hosted generation studio for image, video, and lip-sync with 600+ models |
 || [🎬 OpenHiggsfield](https://github.com/wide-trace/open-higgsfield) | ⭐2.3k — Open-source alternative to Higgsfield AI; browser studio for image and video generation across 38 models with unified prompt composer and gallery |
@@ -567,6 +567,7 @@
 || [💬 Mattermost](https://github.com/mattermost/mattermost) | ⭐39.2k — Self-hostable team messaging (open-source Slack alternative; from @rananjayrajai 20-repos carousel) |
 || [📝 Outline](https://github.com/outline/outline) | ⭐40.7k — Collaborative team knowledge base, realtime (open-source Notion/Confluence alternative; from @rananjayrajai 20-repos carousel) |
 || [🧱 ToolJet](https://github.com/ToolJet/ToolJet) | ⭐41k — Visual builder for internal apps (from @rananjayrajai 20-repos carousel) |
+|| [🚚 Fleetbase](https://github.com/fleetbase/fleetbase) | ⭐4.2k — Modular logistics & supply-chain operating system (LSOS) — orders, fleets, dispatch, inventory, storefront; AGPL-3.0 (from reel/p Dd7ykrhDr9b) |
 |---|
 
 ## 🔧 Infrastructure & DevOps
@@ -590,6 +591,8 @@
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
 || [best-cf-ips](https://github.com/LancelotRar/best-cf-ips) | ⭐635 — 为多个公开或开源Cloudflare优选IP项目进行聚合&去重&加国家区域标注&加旗帜 Unicode，每3小时更新 |
+|| [🔄 Dagu](https://github.com/dagucloud/dagu) | ⭐4.3k — Self-hostable workflow orchestrator (DAG engine, web UI, no DB required) for teams whose main work isn't orchestration; GPL-3.0 (from reel/p Dd7ykrhDr9b) |
+|| [🐸 Pullfrog](https://github.com/pullfrog/pullfrog) | ⭐1.3k — Model-agnostic BYOK GitHub bot that runs in GitHub Actions — PR review/fix automation, no vendor lock-in; MIT (from reel/p Dd7ykrhDr9b) |
 ---
 
 ## 🛡️ Security & Pentesting
@@ -643,6 +646,7 @@
 || [🌲 Bonsai 2](https://github.com/PrismML-Eng/Bonsai-demo) | ⭐2.8k — PrismML's 27B-parameter ternary compressed reasoning model with 262k context and local GGUF/MLX inference (Apache-2.0, from reel Ddg3yiFRtMg) |
 || [🧠 MiniMind](https://github.com/jingyaogong/minimind) | ⭐62.8k — Train a 64M-parameter LLM from scratch in 2h — lightweight learn-how-LLMs-are-built project (from @lindsay.ai reel Dd1XUPNDlgO) |
 || [⚡ Laya MLX](https://github.com/mizorewww/laya-mlx) | ⭐6.6k — Open-weight decision model for Apple Silicon — routes requests like refunds to billing in ~13ms, one pip install, no cloud (from reel Dd1F7meCvdk) |
+|| [🔬 LangWatch](https://github.com/langwatch/langwatch) | ⭐4.9k — Open-source LLM agent observability & evals — trace, test, and evaluate agents; Apache-2.0 (from reel/p Dd7ykrhDr9b) |
 ---
 
 
