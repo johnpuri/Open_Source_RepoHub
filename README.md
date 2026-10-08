@@ -428,6 +428,7 @@
 ||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
 ||| [🌐 Lightpanda Browser](https://github.com/lightpanda-io/browser) | Headless browser built from scratch in Zig, designed for AI and automation — non-Chromium, lightweight, 32k+ stars |
+|||| [⚡ API Anything](https://github.com/goodnight000/api-anything) | ⭐36 — Teach your agent a website once, then call it as an API over MCP/CLI/TS instead of driving a browser; learns from the site's own XHR, self-heals when the site changes, tier-1 = plain HTTP no browser; MIT (from reel DeON0MOB5oi) |
 ||| [🪪 FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) | ⭐28.1k — Most advanced free & open-source browser fingerprinting library — identify returning visitors without cookies/logins, even incognito (MIT) |
 || [🎭 Playwright MCP](https://github.com/microsoft/playwright-mcp) | ⭐37.2k — Official Microsoft MCP server enabling AI agents to drive real browser automation, testing, and web interaction |
 | [⚡ jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐11.1k — Browser agent with dynamic, indexed action space driven by TypeSafe Jev; sub-second decisions without screenshots or coordinate clicks (from reel DdgnSJECUE3) |
