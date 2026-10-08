@@ -88,6 +88,7 @@
 | [🔭 AgentScope](https://github.com/agentscope-ai/agentscope) | Production-ready multi-agent framework with memory and tool support |
 | [🦉 OWL](https://github.com/camel-ai/owl) | Optimized Workforce Learning — multi-agent collaboration by CAMEL-AI |
 | [🤖 Agency-agents](https://github.com/msitarzewski/agency-agents) | ⭐158.2k — Framework for building agency-based AI agent systems with 280+ specialist AI agent personas across 22 departments (engineering, design, marketing, sales, finance, security…) (from reels DdKN83sCY7G, DeMGDaxEj3t) |
+|| [🖥️ OpenHarness](https://github.com/autonomous-ai/openharness) | ⭐1.2k — One native (non-Electron, Dart) command-center window for all your coding agents on all your machines: Claude Code, Codex, Cursor, OpenCode, Devin, Amp, Copilot + 7 more, side by side; link machines with a password (no SSH keys/Tailscale/port forwarding), end-to-end encrypted relay, keyboard-first, agents keep running when the app closes; MIT (from reel DePGHMiki4X) |
 | [🚀 ruflo](https://github.com/ruvnet/ruflo) | AI-powered workflow automation framework |
 | [🌊 Claude Code Flow](https://github.com/INTGworld/claude-code-flow) | Orchestration platform for Claude Code to coordinate multiple AI agents |
 | [🦴 Caveman](https://github.com/juliusbrussee/caveman) | Claude Code skill for token optimization via ultra-concise communication |
