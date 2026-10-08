@@ -378,7 +378,12 @@
 || [🎬 Donkey](https://github.com/DonkeyCut/Donkey) | ⭐186 — Open-source CapCut alternative — browser-based video editor with full timeline, effects, and AI assistant that generates clips, images, voiceovers & music from chat; no install, no watermark |
 || [🍉 Watermelon Platform](https://github.com/WatermelonCorp/watermelon-platform) | ⭐525 — Open-source UI platform behind ui.watermelon.sh: animated components, blocks, dashboards, and templates built with React 19, Tailwind CSS 4, and Motion |
 || [🌐 Godly](https://godly.website/) | Curated web design inspiration gallery showcasing astronomical web design, micro-interactions, and animations |
-|| [🎬 hyperframes](https://github.com/heygen-com/hyperframes) | ⭐51.1k — Programmatic HTML-to-video rendering engine from HeyGen built for AI agents |
+||| [🎬 hyperframes](https://github.com/heygen-com/hyperframes) | ⭐51.1k — Programmatic HTML-to-video rendering engine from HeyGen built for AI agents |
+||| [🌐 Webstudio](https://github.com/webstudio-is/webstudio) | ⭐9k — Professional visual website builder for agents and humans — automate the build with agents, review/adjust every detail in the visual editor, publish to Webstudio Cloud or export and self-host; connects headless CMSs; AGPL-3.0 (from post Dd2tZCCDofx) |
+||| [🧩 Plasmic](https://github.com/plasmicapp/plasmic) | ⭐7.1k — Visual builder for your existing tech stack: drag-and-drop editing plus CMS workflows that integrate with your own codebase; MIT (from post Dd2tZCCDofx) |
+||| [✂️ OpenChatCut](https://github.com/0xsline/OpenChatCut) | ⭐2.2k — Local-first conversational AI video editor: describe the cut and an agent adds captions, music and transitions, then refine picture and sound on an editable multitrack timeline (from post Dd2tZCCDofx) |
+||| [📸 Snapzy](https://github.com/duongductrong/Snapzy) | ⭐3.3k — Native macOS screenshots and screen recording app: capture, annotate media, edit video, export clips or GIFs; BSD-3-Clause (from post Dd2tZCCDofx) |
+||| [🎙️ OpenWhispr](https://github.com/OpenWhispr/openwhispr) | ⭐9.2k — Open-source voice-to-text desktop assistant on macOS, Windows and Linux: speech-to-text, meeting notes, AI chat and audio upload with local or cloud models; private by design; MIT (from post Dd2tZCCDofx) |
 
 ---
 
@@ -392,7 +397,7 @@
 | [🔍 changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest self-hosted tool for website change detection and monitoring (34.5k★, Apache-2.0) |
 || [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐75.8k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
 || [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
-|| [🕸️ Maxun](https://github.com/getmaxun/maxun) | No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (15.7k★) |
+||| [🕸️ Maxun](https://github.com/getmaxun/maxun) | ⭐17.7k — No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (AGPL-3.0) (from post Dd2tZCCDofx) |
 || [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
 | [🧬 ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ⭐32.3k — Clone any website with one command using AI coding agents — AI-powered template (JS, 4.7k forks) |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
@@ -558,7 +563,8 @@
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
-|| [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.7k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative) |
+|| [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.8k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative); MIT |
+|| [📣 Shoutrrr](https://github.com/coollabsio/shoutrrr) | ⭐416 — Open-source social scheduler alternative to Buffer, Typefully and Hootsuite: draft once, publish to X, LinkedIn, Instagram and four more networks with live per-network character count and auto-threading; self-host or managed cloud; Apache-2.0 (from post Dd2tZCCDofx) |
 || [📄 Papermark](https://github.com/papermark/papermark) | ⭐9.2k — Open-source DocSend alternative and secure data rooms with built-in analytics and custom domains |
 || [📁 FileSync](https://github.com/polius/FileSync) | ⭐1.7k — P2P file transfer in the browser — send files device-to-device in real-time, no size limits, no cloud middleman (MIT) |
 || [🔥 Appwrite](https://github.com/appwrite/appwrite) | ⭐57.5k — Self-hosted backend platform — auth, databases, storage, functions; open-source Firebase alternative (from @rananjayrajai 20-repos carousel) |
