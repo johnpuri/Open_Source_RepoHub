@@ -56,7 +56,7 @@
 || [Screendrop](https://github.com/fayazara/Screendrop) | ⭐1.3k — A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free. |
 || [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ⭐4.7k — Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight... |
 || [effective-html](https://github.com/plannotator/effective-html) | ⭐2.1k — Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams. |
-|| [diagram-design](https://github.com/cathrynlavery/diagram-design) | ⭐26.7k — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+|| [diagram-design](https://github.com/cathrynlavery/diagram-design) | ⭐45.7k — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 || [img2threejs](https://github.com/img2threejs/img2threejs) | ⭐13.7k — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-... |
 || [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) | ⭐4.4k — Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.  Animal 风格的 React 组件库 灵感来源于任... |
 || [Pekingman](https://github.com/osama-fawad/Pekingman) | ⭐1.2k — A clean, responsive HTML template that presents a personal portfolio with smooth scrolling, a grid gallery, and a contact form. The desig... |
@@ -119,7 +119,7 @@
 | [🦙 meta-ai-api](https://github.com/Strvm/meta-ai-api) | MetaAI reverse-engineered API — Llama 3 70B & 405B access (409★, no license stated) |
 | [🧪 PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) | Open-source Deep Research agent for autonomous, multi-turn web research |
 | [🦞 Pokee OpenClaw Skill](https://github.com/Pokee-AI/pokee-deep-research-openclaw-skill) | Deep research integration for the OpenClaw framework |
-| [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 130+ ready-to-use skills for scientific research and engineering workflows |
+| [🧬 Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐48k — 177 ready-to-use validated skills plus 100+ scientific databases for biology, chemistry, medicine, and drug discovery; works with Cursor, Claude Code, Codex, Pi, Antigravity and the open Agent Skills standard |
 || [📈 TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐107.4k — Multi-agent LLM framework for financial trading with analyst, trader, and risk manager agents |
 | [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
 | [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
@@ -156,7 +156,7 @@
 || [🧠 cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessi... |
 || [🔧 nature-skills](https://github.com/yuan1z0825/nature-skills) | 符合nature论文学术表达和科研绘图的Skill |
 || [🤖 codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. |
-|| [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... |
+|| [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | ⭐33.9k — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... (from post DdoRKQUAdeM) |
 || [🤖 claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable reference... |
 || [🔧 guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
 || [📊 ppt-master](https://github.com/hugohe3/ppt-master) | ⭐56.6k — AI turns documents or topics into real native PowerPoint decks with native shapes |
@@ -423,7 +423,7 @@
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
-||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (83.5k★) |
+||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (117.5k★) |
 |||||| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
 ||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
@@ -637,7 +637,9 @@
 || [arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | ⭐5.5k — Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
 || [TurboOCR](https://github.com/aiptimizer/TurboOCR) | ⭐1k — TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC |
 || [uniface](https://github.com/yakhyo/uniface) | ⭐1.5k — UniFace: A Unified Face Analysis Library for Python - Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes ... |
-|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐38.2k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills (from reel Ddg3yiFRtMg). |
+|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐39.4k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills (from reel Ddg3yiFRtMg, post DdoRKQUAdeM). |
+|| [🧠 Agent-Memory](https://github.com/Threesided-Studios/Agent-Memory) | ⭐6 — Persistent memory for AI coding agents built on the iii engine; no more re-explaining. Works with Claude Code, Cursor, Gemini CLI, Codex CLI, Hermes, OpenClaw, Pi, OpenCode and any MCP client; Apache-2.0 (from post DdoRKQUAdeM) |
+|| [🛠️ awesome-harness-engineering](https://github.com/yenanjing/awesome-harness-engineering) | ⭐12 — Auto-updating curated index of 708 harness-engineering repos across 9 categories: tools, patterns, evals, memory, MCP, permissions (from post DdoRKQUAdeM) |
 || [coreai-models](https://github.com/apple/coreai-models) | ⭐2k — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
 || [Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial) | ⭐582 — 体系化的机器人教学文档，涵盖数学基础、C++进阶、规划控制、SLAM等 |
 | [🔥 Unsloth](https://github.com/unslothai/unsloth) | ⭐76.5k — Finetune and run LLMs 2x faster with 70% less VRAM — supports Llama, Qwen, Mistral, Gemma and more |
