@@ -577,7 +577,8 @@
 || [📝 Outline](https://github.com/outline/outline) | ⭐40.7k — Collaborative team knowledge base, realtime (open-source Notion/Confluence alternative; from @rananjayrajai 20-repos carousel) |
 || [🧱 ToolJet](https://github.com/ToolJet/ToolJet) | ⭐41k — Visual builder for internal apps (from @rananjayrajai 20-repos carousel) |
 || [🚚 Fleetbase](https://github.com/fleetbase/fleetbase) | ⭐4.2k — Modular logistics & supply-chain operating system (LSOS) — orders, fleets, dispatch, inventory, storefront; AGPL-3.0 (from reel/p Dd7ykrhDr9b) |
-|---|
+|| [📻 Meshtastic](https://github.com/meshtastic/firmware) | ⭐8.4k — Off-grid mesh communicator — encrypted text/GPS over LoRa radios with no cell or WiFi, self-hosted; replaces paid satellite messengers (from post DeCpzfAjQeJ) |
+||---|
 
 ## 🔧 Infrastructure & DevOps
 
