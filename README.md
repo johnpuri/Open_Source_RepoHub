@@ -497,6 +497,9 @@
 || [⭐ awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-l... |
 || [⭐ awesome-engineering-articles](https://github.com/ashishps1/awesome-engineering-articles) | A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams ... |
 || [🔌 Nango](https://github.com/NangoHQ/nango) | ⭐12.2k — Unified API integration and OAuth platform to build product integrations with AI |
+|| [📚 SoBrief](https://sobrief.com/) | Book summaries and audiobook recaps — read/listen to key ideas in minutes (proprietary website, from artificialzone post DeT7Qt2DVWW) |
+|| [📝 Privnote](https://privnote.com/) | Send self-destructing encrypted notes that vanish after being read (proprietary website, from artificialzone post DeT7Qt2DVWW) |
+|| [📺 TV.Garden](https://tv.garden/) | Watch live TV channels from around the world, free in the browser (proprietary website, from artificialzone post DeT7Qt2DVWW) |
 
 ---
 
