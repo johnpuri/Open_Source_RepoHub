@@ -217,6 +217,7 @@
 | [▶️ youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | ⭐962 — YouTube transcript API skills for AI agents: transcripts, search, workflow automation (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 | [🏫 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ⭐39.4k — Open Multi-Agent Interactive Classroom — type a topic, get an immersive AI classroom with teacher-style agents (from @lindsay.ai reel Dd1XUPNDlgO) |
 | [🧠 Company Brain](https://github.com/supermemoryai/company-brain) | ⭐741 — AI teammate in Slack that remembers everything the team says, answers, opens issues, reads PRs — runs on your Cloudflare account (from reel Dd1F7meCvdk) |
+|| [👥 OpenDots](https://github.com/CopilotKit/OpenDots) | ⭐4.9k — Always-on AI coworkers with their own computer — browse, write, take calls, answer in Slack (MIT, open-source OpenAI Dots; from post DeWwPtmDvqV) |
 
 ---
 
@@ -319,6 +320,7 @@
 || [🗺️ Plandex](https://github.com/plandex-ai/plandex) | ⭐15.7k — AI coding agent for large projects and real-world tasks (from carousel DeCkVcSCbrH) |
 || [✈️ GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | ⭐33.7k — The first real AI developer (from carousel DeCkVcSCbrH) |
 || [📑 Tabby](https://github.com/TabbyML/tabby) | ⭐33.9k — Self-hosted AI coding assistant (from carousel DeCkVcSCbrH) |
+|| [🔩 chisel](https://github.com/HikmetBisen/chisel) | Text-to-CAD — describe a part in one sentence, Claude writes CADQuery and the OpenCascade kernel verifies it; printable/CNC/sheet-metal files (MIT, from post DeWwPtmDvqV) |
 
 ---
 
@@ -578,6 +580,7 @@
 || [🧱 ToolJet](https://github.com/ToolJet/ToolJet) | ⭐41k — Visual builder for internal apps (from @rananjayrajai 20-repos carousel) |
 || [🚚 Fleetbase](https://github.com/fleetbase/fleetbase) | ⭐4.2k — Modular logistics & supply-chain operating system (LSOS) — orders, fleets, dispatch, inventory, storefront; AGPL-3.0 (from reel/p Dd7ykrhDr9b) |
 || [📻 Meshtastic](https://github.com/meshtastic/firmware) | ⭐8.4k — Off-grid mesh communicator — encrypted text/GPS over LoRa radios with no cell or WiFi, self-hosted; replaces paid satellite messengers (from post DeCpzfAjQeJ) |
+|| [💸 Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance) | ⭐2.4k — Local-first AI finance advisor — net worth, positions, fund holdings with chat over your own numbers, data stays on your computer (MIT, Monarch Money killer; from post DeWwPtmDvqV) |
 ||---|
 
 ## 🔧 Infrastructure & DevOps
