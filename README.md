@@ -219,6 +219,7 @@
 | [🧠 Company Brain](https://github.com/supermemoryai/company-brain) | ⭐741 — AI teammate in Slack that remembers everything the team says, answers, opens issues, reads PRs — runs on your Cloudflare account (from reel Dd1F7meCvdk) |
 || [👥 OpenDots](https://github.com/CopilotKit/OpenDots) | ⭐4.9k — Always-on AI coworkers with their own computer — browse, write, take calls, answer in Slack (MIT, open-source OpenAI Dots; from post DeWwPtmDvqV) |
 || [🔀 OpenGrok](https://github.com/onlyterp/opengrok) | ⭐481 — Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, update-proof health checker (MIT; from github_dev reel DecByRbyA4f) |
+|| [💼 LinkedIn Agent Skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐2.1k — Eleven free Claude skills that run a whole LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, plus `/li-human` humanizer that strips AI patterns and zero-width hidden characters (MIT; from reel DeWmkUKBpBO) |
 
 ---
 
