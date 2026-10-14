@@ -585,6 +585,7 @@
 || [📻 Meshtastic](https://github.com/meshtastic/firmware) | ⭐8.4k — Off-grid mesh communicator — encrypted text/GPS over LoRa radios with no cell or WiFi, self-hosted; replaces paid satellite messengers (from post DeCpzfAjQeJ) |
 || [💸 Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance) | ⭐2.4k — Local-first AI finance advisor — net worth, positions, fund holdings with chat over your own numbers, data stays on your computer (MIT, Monarch Money killer; from post DeWwPtmDvqV) |
 || [⬇️ cobalt](https://github.com/imputnet/cobalt) | ⭐44.9k — Save what you love — video/audio downloader supporting hundreds of sites, no ads or tracking, self-hostable (AGPL-3.0; from artificialzone post DeT7Qt2DVWW) |
+|| [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W) |
 ||---|
 
 ## 🔧 Infrastructure & DevOps
