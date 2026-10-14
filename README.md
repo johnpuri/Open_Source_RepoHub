@@ -218,6 +218,7 @@
 | [🏫 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | ⭐39.4k — Open Multi-Agent Interactive Classroom — type a topic, get an immersive AI classroom with teacher-style agents (from @lindsay.ai reel Dd1XUPNDlgO) |
 | [🧠 Company Brain](https://github.com/supermemoryai/company-brain) | ⭐741 — AI teammate in Slack that remembers everything the team says, answers, opens issues, reads PRs — runs on your Cloudflare account (from reel Dd1F7meCvdk) |
 || [👥 OpenDots](https://github.com/CopilotKit/OpenDots) | ⭐4.9k — Always-on AI coworkers with their own computer — browse, write, take calls, answer in Slack (MIT, open-source OpenAI Dots; from post DeWwPtmDvqV) |
+|| [🔀 OpenGrok](https://github.com/onlyterp/opengrok) | ⭐481 — Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, update-proof health checker (MIT; from github_dev reel DecByRbyA4f) |
 
 ---
 
