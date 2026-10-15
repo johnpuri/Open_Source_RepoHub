@@ -220,6 +220,8 @@
 || [👥 OpenDots](https://github.com/CopilotKit/OpenDots) | ⭐4.9k — Always-on AI coworkers with their own computer — browse, write, take calls, answer in Slack (MIT, open-source OpenAI Dots; from post DeWwPtmDvqV) |
 || [🔀 OpenGrok](https://github.com/onlyterp/opengrok) | ⭐481 — Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, update-proof health checker (MIT; from github_dev reel DecByRbyA4f) |
 || [💼 LinkedIn Agent Skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐2.1k — Eleven free Claude skills that run a whole LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, plus `/li-human` humanizer that strips AI patterns and zero-width hidden characters (MIT; from reel DeWmkUKBpBO) |
+|| [🔍 REA](https://github.com/morluto/rea) | ⭐265.8k — Reverse engineer anything with agents, from app behavior down to native binaries (from syntaix.ai post DehfepDkqmj) |
+|| [🛠️ skills](https://github.com/mattpocock/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
 
 ---
 
@@ -323,6 +325,7 @@
 || [✈️ GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | ⭐33.7k — The first real AI developer (from carousel DeCkVcSCbrH) |
 || [📑 Tabby](https://github.com/TabbyML/tabby) | ⭐33.9k — Self-hosted AI coding assistant (from carousel DeCkVcSCbrH) |
 || [🔩 chisel](https://github.com/HikmetBisen/chisel) | Text-to-CAD — describe a part in one sentence, Claude writes CADQuery and the OpenCascade kernel verifies it; printable/CNC/sheet-metal files (MIT, from post DeWwPtmDvqV) |
+|| [🎓 ECC](https://github.com/hayden-ECC) | ⭐280.2k — Agent harness performance optimization system: skills, instincts, memory, security (billed as complete CS curriculum in syntaix.ai post DehfepDkqmj; live description differs) |
 
 ---
 
@@ -502,6 +505,7 @@
 || [📚 SoBrief](https://sobrief.com/) | Book summaries and audiobook recaps — read/listen to key ideas in minutes (proprietary website, from artificialzone post DeT7Qt2DVWW) |
 || [📝 Privnote](https://privnote.com/) | Send self-destructing encrypted notes that vanish after being read (proprietary website, from artificialzone post DeT7Qt2DVWW) |
 || [📺 TV.Garden](https://tv.garden/) | Watch live TV channels from around the world, free in the browser (proprietary website, from artificialzone post DeT7Qt2DVWW) |
+|| [🛰️ gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | ⭐56.8k — Spy satellite simulator in the browser with real live data: 3D globe, live planes/ships, city cameras (from syntaix.ai post DehfepDkqmj) |
 
 ---
 
