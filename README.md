@@ -108,7 +108,7 @@
 | [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with cross-session memory and skill creation |
 | [🚢 rowboat](https://github.com/rowboatlabs/rowboat) | Local-first AI coworker that builds a personal knowledge graph |
 | [🧠 claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory plugin for Claude Code sessions |
-| [🔭 Hindsight](https://github.com/vectorize-io/hindsight) | ⭐41.2k — Agent memory that learns and lasts between sessions, with a Jev reranker (from @lumen_arcade post Ddt16ilkRGB) |
+| [🔭 Hindsight](https://github.com/vectorize-io/hindsight) | ⭐50.5k — Agent memory that learns and lasts between sessions, with a Jev reranker (from @lumen_arcade post Ddt16ilkRGB; also juliusbrus reel DeMiU-fpv6M shared-memory guide) |
 | [🔍 iFixAi](https://github.com/ifixai-ai/iFixAi) | ⭐21.2k — Independent auditing for AI agents, run by human or the agent itself (from carousel DeGDWLNDm86) |
 | [🪟 Magpie](https://github.com/yetone/magpie) | ⭐5.1k — Every agent's model, one place — Codex on DeepSeek, Claude Code on Kimi, from the menu bar (from carousel DeGDWLNDm86) |
 | [📑 PageIndex](https://github.com/VectifyAI/PageIndex) | ⭐38.7k — Vectorless reasoning-based RAG, tree indexes over long docs with page citations (from carousel DeGDWLNDm86) |
