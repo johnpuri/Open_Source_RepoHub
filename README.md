@@ -221,7 +221,8 @@
 || [🔀 OpenGrok](https://github.com/onlyterp/opengrok) | ⭐481 — Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, update-proof health checker (MIT; from github_dev reel DecByRbyA4f) |
 || [💼 LinkedIn Agent Skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐2.1k — Eleven free Claude skills that run a whole LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, plus `/li-human` humanizer that strips AI patterns and zero-width hidden characters (MIT; from reel DeWmkUKBpBO) |
 || [🔍 REA](https://github.com/morluto/rea) | ⭐265.8k — Reverse engineer anything with agents, from app behavior down to native binaries (from syntaix.ai post DehfepDkqmj) |
-|| [🛠️ skills](https://github.com/mattpocock/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
+|| [🛠️ skills](https://github.com/VictorMccormick/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
+|| [💻 OpenClaude](https://github.com/sutrambe/openclaude) | ⭐33.9k — Claude Code-style agentic workflow on any model, including local ones — runs anywhere, uses anything (from lindsay.ai reel DejR-hTDDA8) |
 
 ---
 
@@ -593,6 +594,7 @@
 || [⬇️ cobalt](https://github.com/imputnet/cobalt) | ⭐44.9k — Save what you love — video/audio downloader supporting hundreds of sites, no ads or tracking, self-hostable (AGPL-3.0; from artificialzone post DeT7Qt2DVWW) |
 || [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W) |
 || [📈 Harvey](https://github.com/ethanplusai/harvey) | ⭐358 — Autonomous AI sales agent on your Claude Code/Codex subscription (no API bill) — finds prospects, writes personalized cold email, handles replies, books meetings; human approval gate (MIT, from theromanknox reel DeZiMG0uQQ7) |
+|| [▶️ Invidious](https://github.com/NWY-jkk/invidious) | ⭐25.5k — Alternative privacy-first front-end to YouTube, self-hostable (from lindsay.ai reel DejR-hTDDA8) |
 ||---|
 
 ## 🔧 Infrastructure & DevOps
@@ -658,6 +660,7 @@
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
+|| [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
 || [arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | ⭐5.5k — Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
 || [TurboOCR](https://github.com/aiptimizer/TurboOCR) | ⭐1k — TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC |
 || [uniface](https://github.com/yakhyo/uniface) | ⭐1.5k — UniFace: A Unified Face Analysis Library for Python - Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes ... |
