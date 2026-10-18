@@ -26,6 +26,7 @@
 - [💼 Portfolio & Career Tools](#-portfolio--career-tools)
 
 || [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐194k — DeepSeek Harness: Everything is a Plugin. |
+|| [🤖 DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | ⭐2.5k — Bot plugin for DeepSeek Harness: create bots by talking, Chief main bot, group chats, per-bot memory (Apache-2.0; from gittrend.io reel DelFvATjIvb) |
 || [codex](https://github.com/openai/codex) | ⭐118k — Lightweight coding agent that runs in your terminal |
 || [AgnesAI-Models](https://github.com/AgnesAI-Labs/AgnesAI-Models) | ⭐4.4k — Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows. |
 || [dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | ⭐20.2k — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
