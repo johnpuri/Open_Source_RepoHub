@@ -569,6 +569,7 @@
 |||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
+|| [📧 Cloud Mail](https://github.com/maillab/cloud-mail) | ⭐14.8k — Self-hosted Gmail-style email on your own domain — free Cloudflare Workers hosting, unlimited mailboxes, attachments, admin panel (MIT; from reel Deqnm-XgY6z) |
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
 ||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
 
@@ -577,6 +578,7 @@
 || [Sunrise](https://github.com/stanuwu/Sunrise) | ⭐901 — Destiny 2 Offline Exploration Mod |
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
+|| [📺 CleanYourTV](https://github.com/Gathin23/cleanyourtv) | ⭐4.4k — Debloat any Android/Google TV over Wi-Fi (no root, reversible one-script restore) and swap the ad-filled home screen for an Apple TV-style launcher; AI-assisted via PROMPT.md (from @citysignal reel DerXFfpFOKs; formerly tv-vibehack) |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
 || [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.8k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative); MIT |
 || [📣 Shoutrrr](https://github.com/coollabsio/shoutrrr) | ⭐416 — Open-source social scheduler alternative to Buffer, Typefully and Hootsuite: draft once, publish to X, LinkedIn, Instagram and four more networks with live per-network character count and auto-threading; self-host or managed cloud; Apache-2.0 (from post Dd2tZCCDofx) |
