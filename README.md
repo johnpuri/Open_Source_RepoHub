@@ -402,6 +402,10 @@
 ||| [🎙️ NarratoAI](https://github.com/linyqh/NarratoAI) | ⭐11.5k — AI script-to-video: one-click narration and editing with AI voices, visuals and subtitles for YouTube/Reels/Shorts (MIT; from @syntaix.ai carousel DerBr2vCehg — slide credited a wrong owner) |
 ||| [🖼️ backgroundremover](https://github.com/nadermx/backgroundremover) | ⭐8.1k — One-click AI background removal for images and video, sharp cutouts with no editing skills needed (MIT; from @syntaix.ai carousel DerBr2vCehg) |
 ||| [👄 LatentSync](https://github.com/bytedance/LatentSync) | ⭐6.2k — ByteDance open-source lip-sync model: realistic facial animation from any audio, any voice or language (Apache-2.0; from @syntaix.ai carousel DerBr2vCehg) |
+||| [🧊 react-three-fiber](https://github.com/pmndrs/react-three-fiber) | ⭐33.1k — React renderer for Three.js: build 3D scenes declaratively with reusable components (from reel Det5xG1iNIN) |
+||| [🫧 liquid-glass-react](https://github.com/rdev/liquid-glass-react) | ⭐6.4k — Apple's Liquid Glass effect for React — frosted specular UI components (from reel Det5xG1iNIN) |
+||| [🌈 shadergradient](https://github.com/ruucm/shadergradient) | ⭐2.9k — Beautiful moving mesh/shader gradients for Framer, Figma and React, customizable at shadergradient.co (from reel Det5xG1iNIN) |
+||| [💧 liquid-logo](https://github.com/paper-design/liquid-logo) | ⭐1.3k — Turn your logo into flowing liquid metal with Paper Shaders (from reel Det5xG1iNIN) |
 ||| [🎬 FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) | ⭐3.5k — AI video editing agent: describe edits in everyday language, auto-removes filler words and repeated sentences, cuts and rearranges footage (Apache-2.0; from @syntaix.ai carousel DerBr2vCehg) |
 
 ---
