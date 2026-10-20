@@ -53,6 +53,7 @@
 || [ECC](https://github.com/affaan-m/ECC) | ⭐243k — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, C... |
 || [codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) | ⭐1.5k — Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits. |
 || [trueforge](https://github.com/truefoundry/trueforge) | ⭐4.1k — The open-source agent harness - the runtime layer that turns an LLM into a working agent. |
+||| [🧰 harness2](https://github.com/google-research/harness2) | ⭐15.2k — Google Research recursive agent-harness system: keeps the model frozen and builds all logic around it (prompts, middleware, plugins); auto-improves via propose/probe/compose, +11.5 pts on WorkBuddy-Bench (Python, Apache-2.0; from @citysignal reel DepnbyJsLYK) |
 || [claude-council](https://github.com/hex/claude-council) | ⭐662 — Claude Code plugin that asks several AI coding agents the same question and shows their answers side by side. Gemini, OpenAI, Grok, Perpl... |
 || [Screendrop](https://github.com/fayazara/Screendrop) | ⭐1.3k — A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free. |
 || [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | ⭐4.7k — Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight... |
