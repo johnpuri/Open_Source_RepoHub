@@ -369,7 +369,7 @@
 ||| [🎬 Recordly](https://github.com/webadderallorg/Recordly) | ⭐24.5k — Create polished demo videos without editing skills — cursor glide, zoom-on-click, gradient frames, cross-platform |
 || [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
-|| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source agentic video production system — 12 pipelines, 52 tools, 500+ agent skills |
+|| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | ⭐70.3k — Open-source agentic video production system: 12 pipelines, 100+ tools, 700+ agent skills turning an AI coding assistant into a full video studio — researcher, writer, designer, voice, sound, editor (from @lumen_arcade reel DeuGsJtBTCC) |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
 || [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
