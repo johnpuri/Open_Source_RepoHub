@@ -612,6 +612,7 @@
 || [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W) |
 || [📈 Harvey](https://github.com/ethanplusai/harvey) | ⭐1.1k — Autonomous AI sales agent on your Claude Code/Codex subscription (no API bill) — finds prospects, writes personalized cold email, handles replies, books meetings; human approval gate (MIT, from theromanknox reel DeZiMG0uQQ7; demoed in badarmunir_official reel Deh38mWhGal) |
 || [▶️ Invidious](https://github.com/NWY-jkk/invidious) | ⭐25.5k — Alternative privacy-first front-end to YouTube, self-hostable (from lindsay.ai reel DejR-hTDDA8) |
+|| [💳 YouPI-PG](https://github.com/youpi-pg/YouPI-PG) | ⭐1.9k — Self-hosted UPI + COD payment gateway with zero per-transaction fees: drop-in script + pay button, bank SMS/email observers auto-verify payments (from reel Del85_MSK8M; formerly under zenux) |
 ||---|
 
 ## 🔧 Infrastructure & DevOps
