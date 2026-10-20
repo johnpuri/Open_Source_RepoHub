@@ -200,6 +200,11 @@
 | [⌨️ cline](https://github.com/cline/cline) | ⭐66.8k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
 | [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐65.1k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
 | [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐57.6k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
+|| [🧠 Letta](https://github.com/letta-ai/letta) | ⭐25.2k — Stateful agents framework with persistent long-term memory across sessions (formerly MemGPT; Apache-2.0; from @citysignal carousel DeeksLymAvI) |
+|| [🤖 AutoGen](https://github.com/microsoft/autogen) | ⭐61.5k — Microsoft Research multi-agent conversation framework: researcher/engineer/critic agents coordinate to solve problems (from @citysignal carousel DeeksLymAvI) |
+|| [⚡ Agno](https://github.com/agno-agi/agno) | ⭐42.8k — Lightweight multi-modal agent framework with memory, tools, structured outputs, reasoning; 10x faster than LangChain, zero heavy deps (formerly Phidata; MPL-2.0; from @citysignal carousel DeeksLymAvI) |
+|| [🛡️ Pydantic AI](https://github.com/pydantic/pydantic-ai) | ⭐20.8k — Type-safe agent framework: structured outputs and schema-guaranteed tool calls, no malformed JSON (MIT; from @citysignal carousel DeeksLymAvI) |
+|| [☀️ Suna](https://github.com/kortix-ai/suna) | ⭐20.3k — Complete open-source generalist AI employee: browser, files, APIs, memory, scheduling in one docker-compose deploy (Apache-2.0; from @citysignal carousel DeeksLymAvI) |
 || [🏢 Munder Difflin](https://github.com/chaitanyagiri/munder-difflin) | ⭐4.5k — Desktop office of AI clones — wraps Claude Code, Codex, Grok, Copilot, Qwen & more as avatars on a Pixi.js floor; your clone Michael routes work with hive-mind memory (Electron, from reel DcbJE6Tj4vY) |
 | [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
