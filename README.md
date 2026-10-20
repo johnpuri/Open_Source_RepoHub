@@ -425,6 +425,7 @@
 | [🧬 ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ⭐32.3k — Clone any website with one command using AI coding agents — AI-powered template (JS, 4.7k forks) |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
 || [🕸️ colly](https://github.com/gocolly/colly) | Fast and elegant Scraper and Crawler Framework for Golang |
+|| [🔌 reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) | ⭐1.5k — Agent that turns any website into a typed API client (Python/JS/TS/Go/Java/C#/PHP/Ruby/C/PowerShell): browser captures traffic to HAR, LLM writes the client — no more DevTools + hand-copied headers (reverseapi.dev; from reel DeuPC8oPU8v) |
 || [🗺️ Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper) | Google Maps scraper & lead generation tool extracting 50+ data points including business emails, phone numbers, and social profiles |
 || [🔐 CUPP](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) for security research and password analysis |
 ||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
