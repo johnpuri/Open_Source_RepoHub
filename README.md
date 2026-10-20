@@ -205,11 +205,13 @@
 || [⚡ Agno](https://github.com/agno-agi/agno) | ⭐42.8k — Lightweight multi-modal agent framework with memory, tools, structured outputs, reasoning; 10x faster than LangChain, zero heavy deps (formerly Phidata; MPL-2.0; from @citysignal carousel DeeksLymAvI) |
 || [🛡️ Pydantic AI](https://github.com/pydantic/pydantic-ai) | ⭐20.8k — Type-safe agent framework: structured outputs and schema-guaranteed tool calls, no malformed JSON (MIT; from @citysignal carousel DeeksLymAvI) |
 || [☀️ Suna](https://github.com/kortix-ai/suna) | ⭐20.3k — Complete open-source generalist AI employee: browser, files, APIs, memory, scheduling in one docker-compose deploy (Apache-2.0; from @citysignal carousel DeeksLymAvI) |
+|| [💻 OpenWorker](https://github.com/andrewyng/openworker) | ⭐18.6k — Andrew Ng's open-source AI coworker for the desktop: plans tasks, works automatically, ships security-vetted finished work (docs, code review, inbox triage); BYOK or local Ollama, NVIDIA OpenShell sandbox (from techwith.ram carousel DejgPniCYB-) |
 || [🏢 Munder Difflin](https://github.com/chaitanyagiri/munder-difflin) | ⭐4.5k — Desktop office of AI clones — wraps Claude Code, Codex, Grok, Copilot, Qwen & more as avatars on a Pixi.js floor; your clone Michael routes work with hive-mind memory (Electron, from reel DcbJE6Tj4vY) |
 | [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
+|| [🗺️ Trail-Code](https://github.com/trailhq/Trail-Code) | ⭐10.5k — Self-learning context layer for coding agents (Claude Code, Cursor, Codex): code map of every function + team learnings from conversations (from techwith.ram carousel DejgPniCYB-) |
 ||| [🏖️ Cube Sandbox](https://github.com/TencentCloud/CubeSandbox) | ⭐11.9k — Tencent's instant sandbox for AI agents — microVMs via KVM+Rust VMM, 60ms startup, 5MB RAM, E2-B compatible, self-hosted |
 || [⚡ E2B](https://github.com/e2b-dev/E2B) | ⭐13.9k — Secure open-source cloud sandbox for AI agents to run code, analyze data, and execute workloads |
 || [🔌 Composio](https://github.com/ComposioHQ/composio) | ⭐30.2k — Tooling and integration platform connecting AI agents to 1,000+ apps, auth, and sandboxed workbenches |
@@ -240,6 +242,7 @@
 ------|
 | [🛠️ Serena](https://github.com/oraios/serena) | ⭐29.6k — MCP coding agent toolkit for semantic codebase retrieval and symbol-level editing (Claude Code, Codex, Antigravity) |
 | [📚 Context7](https://github.com/upstash/context7) | ⭐62.2k — MCP server providing up-to-date documentation directly into AI agent context to eliminate hallucinated APIs |
+|| [🔥 Hono](https://github.com/honojs/hono) | ⭐32.6k — Small, ultrafast web framework on Web Standards: one codebase runs on Cloudflare Workers, Deno, Bun, Vercel, Lambda, Node (MIT; from techwith.ram carousel DejgPniCYB-) |
 | [🚀 llama.cpp](https://github.com/ggml-org/llama.cpp) | Efficient LLM inference in C/C++ for consumer hardware |
 ||| [🛠️ Grok Build](https://github.com/xai-org/grok-build) | ⭐24.3k — SpaceXAI's terminal-based AI coding agent ("Cursor killer") — full-screen TUI that reads your codebase, edits files, runs shell commands, searches the web, manages long-running tasks; interactive/headless/ACP (Apache-2.0) |
 | [🔋 airllm](https://github.com/lyogavin/airllm) | Run large LLMs on consumer hardware using memory-efficient inference |
@@ -436,6 +439,7 @@
 ||| [👁️ voidaccess](https://github.com/KatrielMoses/voidaccess) | Self-hosted dark web OSINT platform for automated threat intelligence from query to report |
 ||| [📄 MinerU](https://github.com/opendatalab/MinerU) | Transform PDFs and Office docs into LLM-ready markdown/JSON for agentic workflows | 
 |||| [📄 paddleocr](https://github.com/paddlepaddle/paddleocr) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between documents and LLMs. |
+|||| [📕 anydoc](https://github.com/firecrawl/anydoc) | ⭐23.0k — Firecrawl's fast Rust library converting Word/PPT/Excel/PDF/CSV/EPUB to clean GitHub-Flavored Markdown in milliseconds; Node/Python/browser-WASM bindings, ships as an agent skill (MIT; from techwith.ram carousel DejgPniCYB-) |
 |||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
 ||| [🌊 Wigolo](https://github.com/KnockOutEZ/wigolo) | ⭐5.2k — Local-first web search, fetch, crawl, extract & deep-research for AI coding agents — no API keys, no per-search fees |
 ||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
@@ -580,6 +584,7 @@
 |||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (140k★) |
 |||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (194k★) |
 |||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (102k★) |
+||||| [🗄️ PocketBase](https://github.com/pocketbase/pocketbase) | ⭐61.5k — Open-source realtime backend in a single Go executable: SQLite DB, auth, file storage, admin dashboard, REST API (from techwith.ram carousel DejgPniCYB-) |
 |||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (80k★) |
 |||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
@@ -654,6 +659,7 @@
 ------|
 || [🔍 ghidra](https://github.com/nationalsecurityagency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 || [🕵️ strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+|| [🐞 Open-Kritt](https://github.com/kritt-ai/open-kritt) | ⭐2.3k — Self-hosted AI vulnerability research: orchestrates agents to map entrypoints, trace flows and find real exploitable bugs; dedupes/ranks findings, custom rules (AGPL-3.0; from techwith.ram carousel DejgPniCYB-) |
 || [📱 MVT](https://github.com/mvt-project/mvt) | ⭐14.9k — Amnesty's Mobile Verification Toolkit — forensic triage for Android/iOS compromise (Pegasus-era tooling) |
 ||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
 ||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
