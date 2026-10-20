@@ -209,6 +209,7 @@
 || [🏢 Munder Difflin](https://github.com/chaitanyagiri/munder-difflin) | ⭐4.5k — Desktop office of AI clones — wraps Claude Code, Codex, Grok, Copilot, Qwen & more as avatars on a Pixi.js floor; your clone Michael routes work with hive-mind memory (Electron, from reel DcbJE6Tj4vY) |
 | [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
+|| [🐭 OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐5.3k — Open-source Grok Bot alternative: team of AI bots in a chat app on your own machine — own API keys/subs, scheduled tasks, computer use, Gmail/GitHub/Slack integrations (Apache-2.0) |
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
 || [🗺️ Trail-Code](https://github.com/trailhq/Trail-Code) | ⭐10.5k — Self-learning context layer for coding agents (Claude Code, Cursor, Codex): code map of every function + team learnings from conversations (from techwith.ram carousel DejgPniCYB-) |
