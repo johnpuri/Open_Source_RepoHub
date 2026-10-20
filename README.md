@@ -258,8 +258,10 @@
 | [🚦 9router](https://github.com/decolua/9router) | Local AI routing gateway for unified endpoint management |
 | [🔓 free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Collection of alternative tools for open-source Claude workflows |
 || [📦 Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | Comprehensive configuration framework and skill system for AI coding agents |
+|| [🎮 universal-modder](https://github.com/rehan-remade/universal-modder) | ⭐8.5k — Point any AI coding agent at PC games you own: skills, tools and knowledge base to build/test mods (Doom-in-Skyrim in ~1hr); MIT, Discord community (from @lumen_arcade carousel DeexTgFif7T) |
 || [📚 gstack](https://github.com/garrytan/gstack) | Garry Tan's curated stack of developer tools and AI services |
 | [🐙 GitHub MCP Server](https://github.com/github/github-mcp-server) | Official MCP bridge for interacting with GitHub repositories and APIs |
+|| [🔌 mcptoon](https://github.com/activeing123/mcptoon) | ⭐355 — One zero-dependency 342KB CLI for every MCP server and agent skill: token-optimized for coding agents (from gittrend.io reel Demkg_Xgmmz) |
 || [📓 Notion MCP Server](https://github.com/makenotion/notion-mcp-server) | ⭐4.6k — Official MCP server for reading, writing, and searching Notion workspaces, pages, and databases |
 | [🍞 Bun](https://github.com/oven-sh/bun) | Fast all-in-one JavaScript/TypeScript runtime, package manager, and bundler |
 | [🖥️ DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Terminal-based interface for efficient interaction with DeepSeek LLMs |
@@ -687,6 +689,7 @@
 || [🧠 TensorFlow](https://github.com/tensorflow/tensorflow) | ⭐196.8k — Machine learning framework for building and training AI models at scale |
 || [🧬 Keras](https://github.com/keras-team/keras) | ⭐64.2k — High-level deep learning framework (Python) — fast experimentation on top of JAX, TensorFlow, or PyTorch |
 ||| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
+|| [🐟 MiroFish](https://github.com/666ghj/MiroFish) | ⭐80.8k — Simple universal swarm-intelligence optimization engine: fish-school algorithms for prediction/optimization problems, from logistics routing to medical diagnosis (from @lumen_arcade carousel DeexTgFif7T) |
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
