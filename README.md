@@ -221,7 +221,7 @@
 || [💳 Stripe AI & MCP](https://github.com/stripe/ai) | ⭐1.8k — Official Stripe AI SDKs, remote MCP server, and agent tools for payments, billing, and invoices |
 || [🎨 Higgsfield Skills](https://github.com/higgsfield-ai/skills) | ⭐1.0k — Official agent skills for Higgsfield AI video and image generation, Seedance models, and visual branding across Claude Code, Cursor, and Codex |
 || [📈 FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ⭐31.7k — Open-source financial analysis, market analytics, and interactive trading terminal |
-|| [📱 ARTEMIS](https://github.com/google/artemis) | ⭐8.3k — Google's open-source Android automation agent that turns natural-language instructions into phone workflows with MCP integration for Antigravity, Codex, and Claude Code (Apache-2.0, from reel Ddg3yiFRtMg) |
+|| [📱 ARTEMIS](https://github.com/google/artemis) | ⭐13.5k — Google's open-source Android automation agent that turns natural-language instructions into phone workflows with MCP integration for Antigravity, Codex, and Claude Code (Apache-2.0, from reels Ddg3yiFRtMg + DehEdBbgQFZ — #1 AndroidWorld 99.1%, self-reported) |
 || [🍕 Pizza Bot](https://github.com/pizza-bot-app/pizza-bot) | ⭐342 — Local-first desktop inbox for long-running background AI agents built with DeepAgents & LangGraph (Apache-2.0, from reel Ddg3yiFRtMg) |
 | [📚 tutor-skills](https://github.com/bevibing/tutor-skills) | ⭐1.3k — Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
 | [▶️ youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | ⭐962 — YouTube transcript API skills for AI agents: transcripts, search, workflow automation (MIT, from syntaix.ai carousel DdwWsGUiaY3) |
