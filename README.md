@@ -251,7 +251,7 @@
 | [💻 claude-code](https://github.com/yasasbanukaofficial/claude-code) | Claude-powered coding utilities and experiments |
 | [🏇 claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | Utility for enhancing and managing Claude Code workflows |
 || [💻 jcode](https://github.com/1jehuang/jcode) | High-performance Rust coding agent harness with self-editing |
-|| [🤖 OpenHands](https://github.com/All-Hands-AI/OpenHands) | Autonomous AI software developer — writes code, fixes bugs, runs commands, browses web; replaces Devin AI (75.8k★) |
+|| [🤖 OpenHands](https://github.com/All-Hands-AI/OpenHands) | Autonomous AI software developer — writes code, fixes bugs, runs commands, browses web; replaces Devin AI (91.5k★) |
 || [🔍 code-review-graph](https://github.com/tirth8205/code-review-graph) | Graph-based AI code review assistant |
 | [� codegraph](https://github.com/colbymchenry/codegraph) | Code visualization and dependency graph analysis tool |
 | [�📜 spec-kit](https://github.com/github/spec-kit) | Toolkit from GitHub for authoring and validating specifications |
@@ -276,7 +276,7 @@
 || [📣 marketingskills](https://github.com/coreyhaines31/marketingskills) | ⭐51.8k — 50 marketing skills for AI agents: landing page audits, cold email, welcome sequences, CRO, SEO (from @lumen_arcade post Ddt16ilkRGB) |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
 || [📤 AlterSend](https://github.com/denislupookov/altersend) | ⭐1.8k — P2P file transfer between devices, E2E encrypted (Noise protocol), no accounts/cloud/size limits, browser receive (Apache-2.0) |
-|| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (56.4k★) |
+|| [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (63.3k★) |
 || [� Telegraf](https://github.com/influxdata/telegraf) | Plugin-driven server agent for collecting and processing metrics and logs |
 || [🎮 Unity-MCP](https://github.com/CoplayDev/unity-mcp) | Bridge between AI assistants and Unity Editor — manage assets, control scenes, edit scripts, and automate tasks |
 ||| [📖 OpenWiki](https://github.com/langchain-ai/openwiki) | CLI that writes and maintains agent documentation for your codebase |
@@ -431,8 +431,8 @@
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
 | [🔍 changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest self-hosted tool for website change detection and monitoring (34.5k★, Apache-2.0) |
 || [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐75.8k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
-|| [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (67.8k★) |
-||| [🕸️ Maxun](https://github.com/getmaxun/maxun) | ⭐17.7k — No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (AGPL-3.0) (from post Dd2tZCCDofx) |
+|| [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (86.0k★) |
+||| [🕸️ Maxun](https://github.com/getmaxun/maxun) | ⭐18.0k — No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (AGPL-3.0) (from post Dd2tZCCDofx) |
 || [🕸️ gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files for custom GPTs |
 | [🧬 ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | ⭐32.3k — Clone any website with one command using AI coding agents — AI-powered template (JS, 4.7k forks) |
 | [🕸️ crawlee](https://github.com/apify/crawlee) | Web scraping and browser automation library for Node.js |
@@ -465,7 +465,7 @@
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
-||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (117.5k★) |
+||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (118.8k★) |
 |||||| [📄 Page Agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent — control any webpage with natural language, no extensions needed |
 ||| [📱 scrcpy](https://github.com/Genymobile/scrcpy) | Control any Android phone from your laptop — access app-only data that doesn't exist on websites |
 |||| [📱 AutoSocial Studio](https://github.com/Katzca/AutoSocial) | Local multi-account automation dashboard for TikTok, Instagram & YouTube — Playwright-powered uploads, queues, scheduling, and FFmpeg video uniquification |
@@ -584,12 +584,12 @@
 || [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | ⭐7.8k — Autonomous AI email client running on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
-|||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (143.8k★) |
-|||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (140k★) |
-|||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (194k★) |
-|||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (102k★) |
+|||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (159.2k★) |
+|||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (156.4k★) |
+|||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (155.9k★) |
+|||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (112.9k★) |
 ||||| [🗄️ PocketBase](https://github.com/pocketbase/pocketbase) | ⭐61.5k — Open-source realtime backend in a single Go executable: SQLite DB, auth, file storage, admin dashboard, REST API (from techwith.ram carousel DejgPniCYB-) |
-|||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (80k★) |
+|||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (94.7k★) |
 |||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
 ||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
