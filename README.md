@@ -463,6 +463,7 @@
 | [🕹️ browser-harness](https://github.com/browser-use/browser-harness) | Self-healing browser automation for LLM agents using CDP |
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
+|| [🖥️ cua](https://github.com/trycua/cua) | ⭐30.9k — Open-source computer-use 2.0: drivers, cross-OS sandboxes (macOS/Windows/Linux VMs + Cua Spaces cloud computers), benchmarks for training/eval; gives agents their own computer (from reel De0cO32AAzq) |
 | [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
 ||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (118.8k★) |
