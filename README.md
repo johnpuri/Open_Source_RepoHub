@@ -202,6 +202,8 @@
 | [⌨️ cline](https://github.com/cline/cline) | ⭐66.8k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
 | [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐65.1k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
 | [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐57.6k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
+| [🤖 AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐187.8k — Pioneering autonomous AI agent: give it a goal, it plans and executes (GitHub #40 all-time, Oct 2026) |
+| [🦀 claw-code](https://github.com/ultraworkers/claw-code) | ⭐195k — Agent-managed project built in Rust (GitHub #35 all-time, Oct 2026) |
 || [🧠 Letta](https://github.com/letta-ai/letta) | ⭐25.2k — Stateful agents framework with persistent long-term memory across sessions (formerly MemGPT; Apache-2.0; from @citysignal carousel DeeksLymAvI) |
 || [🤖 AutoGen](https://github.com/microsoft/autogen) | ⭐61.5k — Microsoft Research multi-agent conversation framework: researcher/engineer/critic agents coordinate to solve problems (from @citysignal carousel DeeksLymAvI) |
 || [⚡ Agno](https://github.com/agno-agi/agno) | ⭐42.8k — Lightweight multi-modal agent framework with memory, tools, structured outputs, reasoning; 10x faster than LangChain, zero heavy deps (formerly Phidata; MPL-2.0; from @citysignal carousel DeeksLymAvI) |
@@ -279,6 +281,7 @@
 || [💼 knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | ⭐33.2k — Open-source plugins for knowledge workers to use in Claude Cowork (GitHub trending monthly #9, Oct 2026) |
 || [🪟 context-mode](https://github.com/mksglu/context-mode) | ⭐32.4k — Context-window optimization for AI coding agents: sandboxes tool output (98% reduction), persists sessions (GitHub trending monthly #5, Oct 2026) |
 || [🖱️ plugins](https://github.com/cursor/plugins) | ⭐14.2k — Cursor plugin specification and official plugins (GitHub trending monthly #10, Oct 2026) |
+|| [💬 prompts.chat](https://github.com/f/prompts.chat) | ⭐174.7k — Share, discover and collect ChatGPT prompts (GitHub #51 all-time, Oct 2026) |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
 || [📤 AlterSend](https://github.com/denislupookov/altersend) | ⭐1.8k — P2P file transfer between devices, E2E encrypted (Noise protocol), no accounts/cloud/size limits, browser receive (Apache-2.0) |
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (63.3k★) |
@@ -380,6 +383,8 @@
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
 || [⚛️ React](https://github.com/facebook/react) | ⭐251.9k — The library for web and native user interfaces (GitHub #22 all-time, Oct 2026) |
 || [💚 Vue](https://github.com/vuejs/vue) | ⭐212.6k — Vue 2 repo (for Vue 3 see vuejs/core) (GitHub #26 all-time, Oct 2026) |
+|| [💙 Flutter](https://github.com/flutter/flutter) | ⭐180.4k — Build beautiful native-compiled apps for mobile, web, desktop from one codebase (GitHub #47 all-time, Oct 2026) |
+|| [🅱️ Bootstrap](https://github.com/twbs/bootstrap) | ⭐175k — The classic HTML/CSS/JS framework for responsive sites (GitHub #50 all-time, Oct 2026) |
 || [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
 || [🎨 Astryx](https://github.com/facebook/astryx) | Meta's internal design system open-sourced — 150+ customizable components for agent-ready UIs |
 || [🏗️ system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
@@ -389,6 +394,11 @@
 || [📝 project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐288.1k — Curated list of project-based tutorials (GitHub #16 all-time, Oct 2026) |
 || [🎓 OSSU computer-science](https://github.com/ossu/computer-science) | ⭐210.4k — Path to a free self-taught CS education (GitHub #27 all-time, Oct 2026) |
 || [🧠 TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐225.5k — All algorithms implemented in Python (GitHub #23 all-time, Oct 2026) |
+|| [📜 javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ⭐196.7k — Algorithms and data structures in JS with explanations (GitHub #32 all-time, Oct 2026) |
+|| [📖 You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | ⭐184.8k — Deep book series on the JavaScript language (GitHub #44 all-time, Oct 2026) |
+|| [🐍 Python-100-Days](https://github.com/jackfrued/Python-100-Days) | ⭐187.5k — Python from beginner to master in 100 days (GitHub #41 all-time, Oct 2026) |
+|| [📚 CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐186.3k — Interview essentials: OS, networks, algorithms, system design (GitHub #42 all-time, Oct 2026) |
+|| [☕ JavaGuide](https://github.com/Snailclimb/JavaGuide) | ⭐159.3k — Java + backend interview guide: CS basics, DB, distributed, high concurrency (GitHub #57 all-time, Oct 2026) |
 || [🎨 stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) | Stable Diffusion web UI |
 || [🎨 comfyui](https://github.com/comfy-org/comfyui) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 || [💰 MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ⭐124.5k — Automated AI short video generator — create HD videos from topic or keyword with LLM workflow |
@@ -543,6 +553,12 @@
 || [⭐ awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 || [⭐ awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
 || [🐍 awesome-python](https://github.com/vinta/awesome-python) | ⭐330.5k — The definitive "I want to do X in Python, which tool?" list (GitHub #12 all-time, Oct 2026) |
+|| [🐹 awesome-go](https://github.com/avelino/awesome-go) | ⭐190.5k — Curated list of Go frameworks, libraries and software (GitHub #38 all-time, Oct 2026) |
+|| [⌨️ the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐162.6k — Master the command line in one page (GitHub #55 all-time, Oct 2026) |
+|| [🙈 gitignore](https://github.com/github/gitignore) | ⭐176.1k — GitHub's official collection of .gitignore templates (GitHub #49 all-time, Oct 2026) |
+|| [✨ oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) | ⭐190.2k — Delightful community-driven framework for managing zsh config (GitHub #39 all-time, Oct 2026) |
+|| [💻 VS Code](https://github.com/microsoft/vscode) | ⭐194.3k — Visual Studio Code source (GitHub #36 all-time, Oct 2026) |
+|| [🔑 Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐196.3k — Open-source Windows/Office activation scripts (HWID, Ohook, TSforge) (GitHub #33 all-time, Oct 2026) |
 || [📖 the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐253.5k — Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, CLI/web tools (GitHub #21 all-time, Oct 2026) |
 || [🕘 996.ICU](https://github.com/996icu/996.ICU) | ⭐277.2k — Protest repo against 996 work culture (GitHub #17 all-time, Oct 2026) |
 || [🔧 free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
