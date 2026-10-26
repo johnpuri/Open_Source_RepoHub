@@ -523,6 +523,7 @@
 | [📦 public-apis](https://github.com/public-apis/public-apis) | Massive curated list of free public APIs |
 | [🔓 unsecuredapikeys.com](https://unsecuredapikeys.com/) | Directory of exposed/test API keys for research |
 | [🌐 publicapis.dev](https://publicapis.dev/) | Searchable public API directory with categorized listing |
+|| [🔑 ApiVault](https://github.com/exa-studio/ApiVault) | ⭐751 — Gateway to a world of public APIs: tons of useful free APIs in one directory (apivault.dev; from Facebook reel) |
 || [🦙 ollamafreeapi](https://github.com/mfoud444/ollamafreeapi) | Free public API providing access to Ollama models |
 || [💪 free-exercise-db](https://github.com/yuhonas/free-exercise-db) | Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a broad range of muscles and equipment |
 || [⭐ awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
