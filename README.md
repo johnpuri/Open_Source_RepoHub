@@ -230,7 +230,7 @@
 || [👥 OpenDots](https://github.com/CopilotKit/OpenDots) | ⭐4.9k — Always-on AI coworkers with their own computer — browse, write, take calls, answer in Slack (MIT, open-source OpenAI Dots; from post DeWwPtmDvqV) |
 || [🔀 OpenGrok](https://github.com/onlyterp/opengrok) | ⭐481 — Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, update-proof health checker (MIT; from github_dev reel DecByRbyA4f) |
 || [💼 LinkedIn Agent Skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | ⭐2.1k — Eleven free Claude skills that run a whole LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, plus `/li-human` humanizer that strips AI patterns and zero-width hidden characters (MIT; from reel DeWmkUKBpBO) |
-|| [🔍 REA](https://github.com/morluto/rea) | ⭐265.8k — Reverse engineer anything with agents, from app behavior down to native binaries (from syntaix.ai post DehfepDkqmj) |
+|| [🔍 REA](https://github.com/morluto/rea) | ⭐390.4k — Reverse engineer anything with agents, from app behavior down to native binaries (from syntaix.ai post DehfepDkqmj + typeshokk carousel De4tylLE-ky) |
 || [🛠️ skills](https://github.com/VictorMccormick/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
 || [💻 OpenClaude](https://github.com/sutrambe/openclaude) | ⭐33.9k — Claude Code-style agentic workflow on any model, including local ones — runs anywhere, uses anything (from lindsay.ai reel DejR-hTDDA8) |
 
