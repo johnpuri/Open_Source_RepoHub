@@ -108,6 +108,7 @@
 | [🧠 RAG-Anything](https://github.com/HKUDS/RAG-Anything) | All-in-One multimodal RAG framework for complex retrieval |
 | [🦌 DeerFlow](https://github.com/bytedance/deer-flow) | Deep Exploration and Efficient Research Flow for long-horizon tasks |
 | [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with cross-session memory and skill creation |
+| [🦞 OpenClaw](https://github.com/openclaw/openclaw) | ⭐393.1k — The AI that really does things. Any OS, any platform (GitHub #6 all-time, Oct 2026) |
 | [🚢 rowboat](https://github.com/rowboatlabs/rowboat) | Local-first AI coworker that builds a personal knowledge graph |
 | [🧠 claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory plugin for Claude Code sessions |
 | [🔭 Hindsight](https://github.com/vectorize-io/hindsight) | ⭐50.5k — Agent memory that learns and lasts between sessions, with a Jev reranker (from @lumen_arcade post Ddt16ilkRGB; also juliusbrus reel DeMiU-fpv6M shared-memory guide) |
@@ -373,12 +374,21 @@
 ||| [🎬 Recordly](https://github.com/webadderallorg/Recordly) | ⭐24.5k — Create polished demo videos without editing skills — cursor glide, zoom-on-click, gradient frames, cross-platform |
 || [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
+|| [📥 yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐202.5k — Feature-rich command-line audio/video downloader (GitHub #30 all-time, Oct 2026) |
 || [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | ⭐70.3k — Open-source agentic video production system: 12 pipelines, 100+ tools, 700+ agent skills turning an AI coding assistant into a full video studio — researcher, writer, designer, voice, sound, editor (from @lumen_arcade reel DeuGsJtBTCC) |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
+|| [⚛️ React](https://github.com/facebook/react) | ⭐251.9k — The library for web and native user interfaces (GitHub #22 all-time, Oct 2026) |
+|| [💚 Vue](https://github.com/vuejs/vue) | ⭐212.6k — Vue 2 repo (for Vue 3 see vuejs/core) (GitHub #26 all-time, Oct 2026) |
 || [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
 || [🎨 Astryx](https://github.com/facebook/astryx) | Meta's internal design system open-sourced — 150+ customizable components for agent-ready UIs |
 || [🏗️ system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+|| [📚 free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐400.2k — Freely available programming books (GitHub #5 all-time, Oct 2026) |
+|| [🗺️ developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ⭐370.5k — Interactive roadmaps, guides and educational content for developers (GitHub #9 all-time, Oct 2026) |
+|| [🎓 coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐363.4k — Complete computer science study plan to become a software engineer (GitHub #10 all-time, Oct 2026) |
+|| [📝 project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐288.1k — Curated list of project-based tutorials (GitHub #16 all-time, Oct 2026) |
+|| [🎓 OSSU computer-science](https://github.com/ossu/computer-science) | ⭐210.4k — Path to a free self-taught CS education (GitHub #27 all-time, Oct 2026) |
+|| [🧠 TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐225.5k — All algorithms implemented in Python (GitHub #23 all-time, Oct 2026) |
 || [🎨 stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) | Stable Diffusion web UI |
 || [🎨 comfyui](https://github.com/comfy-org/comfyui) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 || [💰 MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ⭐124.5k — Automated AI short video generator — create HD videos from topic or keyword with LLM workflow |
@@ -532,6 +542,9 @@
 || [💪 free-exercise-db](https://github.com/yuhonas/free-exercise-db) | Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a broad range of muscles and equipment |
 || [⭐ awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 || [⭐ awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+|| [🐍 awesome-python](https://github.com/vinta/awesome-python) | ⭐330.5k — The definitive "I want to do X in Python, which tool?" list (GitHub #12 all-time, Oct 2026) |
+|| [📖 the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐253.5k — Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, CLI/web tools (GitHub #21 all-time, Oct 2026) |
+|| [🕘 996.ICU](https://github.com/996icu/996.ICU) | ⭐277.2k — Protest repo against 996 work culture (GitHub #17 all-time, Oct 2026) |
 || [🔧 free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 || [🤖 sub2api](https://github.com/wei-shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 || [⭐ awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-l... |
