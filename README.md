@@ -274,6 +274,10 @@
 || [🖥️ RustDesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop infrastructure and client |
 || [📱 Argent](https://github.com/software-mansion/argent) | ⭐2.9k — Agentic toolkit letting Claude control iPhone/Android apps via the accessibility layer — tap, type, swipe, record flows (from @lumen_arcade post Ddt16ilkRGB) |
 || [📣 marketingskills](https://github.com/coreyhaines31/marketingskills) | ⭐51.8k — 50 marketing skills for AI agents: landing page audits, cold email, welcome sequences, CRO, SEO (from @lumen_arcade post Ddt16ilkRGB) |
+|| [🔌 claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ⭐44.7k — Official Anthropic-managed directory of high-quality Claude Code plugins (GitHub trending monthly #8, Oct 2026) |
+|| [💼 knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | ⭐33.2k — Open-source plugins for knowledge workers to use in Claude Cowork (GitHub trending monthly #9, Oct 2026) |
+|| [🪟 context-mode](https://github.com/mksglu/context-mode) | ⭐32.4k — Context-window optimization for AI coding agents: sandboxes tool output (98% reduction), persists sessions (GitHub trending monthly #5, Oct 2026) |
+|| [🖱️ plugins](https://github.com/cursor/plugins) | ⭐14.2k — Cursor plugin specification and official plugins (GitHub trending monthly #10, Oct 2026) |
 | [📲 LocalSend](https://github.com/localsend/localsend) | Privacy-focused local file sharing across any platform |
 || [📤 AlterSend](https://github.com/denislupookov/altersend) | ⭐1.8k — P2P file transfer between devices, E2E encrypted (Noise protocol), no accounts/cloud/size limits, browser receive (Apache-2.0) |
 || [🚀 Coolify](https://github.com/coollabsio/coolify) | All-in-one self-hosted Platform-as-a-Service (PaaS) solution — replaces Heroku, Netlify, Vercel; push-to-Git deploy, auto SSL, multi-server, DB backups (63.3k★) |
