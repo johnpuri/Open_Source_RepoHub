@@ -444,6 +444,16 @@
 ||| [🌈 shadergradient](https://github.com/ruucm/shadergradient) | ⭐2.9k — Beautiful moving mesh/shader gradients for Framer, Figma and React, customizable at shadergradient.co (from reel Det5xG1iNIN) |
 ||| [💧 liquid-logo](https://github.com/paper-design/liquid-logo) | ⭐1.3k — Turn your logo into flowing liquid metal with Paper Shaders (from reel Det5xG1iNIN) |
 ||| [🎬 FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) | ⭐3.5k — AI video editing agent: describe edits in everyday language, auto-removes filler words and repeated sentences, cuts and rearranges footage (Apache-2.0; from @syntaix.ai carousel DerBr2vCehg) |
+|| [🔍 morphic](https://github.com/miurla/morphic) | ⭐9.2k — AI search engine with cited answers and multiple model providers; fork into a niche research assistant (from @syntaix.ai post DfHtl2MiQg1) |
+|| [🎙️ moonshine](https://github.com/moonshine-ai/moonshine) | ⭐11.3k — On-device speech recognition for desktop, mobile and browsers; build a private voice productivity app (Apache-2.0; from @syntaix.ai post DfHtl2MiQg1) |
+|| [📄 unstract](https://github.com/Zipstack/unstract) | ⭐7.4k — Turn PDFs, scans and images into structured data through an API; AI invoice processing tool (Apache-2.0; from @syntaix.ai post DfHtl2MiQg1) |
+|| [📑 pdfme](https://github.com/pdfme/pdfme) | ⭐4.9k — PDF generator with visual template designer; branded document generator SaaS (MIT; from @syntaix.ai post DfHtl2MiQg1) |
+|| [🔄 docetl](https://github.com/ucbepic/docetl) | ⭐4.2k — AI-powered ETL for unstructured text: classify, extract, summarize at scale; customer feedback analyzer (MIT; from @syntaix.ai post DfHtl2MiQg1) |
+|| [💬 assistant-ui](https://github.com/assistant-ui/assistant-ui) | ⭐12.8k — React toolkit for elegant AI chat interfaces with streaming and file attachments; industry-specific AI assistant (Apache-2.0; from @syntaix.ai post DfHtl2MiQg1) |
+|| [📝 OpnForm](https://github.com/OpnForm/OpnForm) | ⭐3.9k — Open-source form builder with logic, file uploads and webhooks; client onboarding portal (MIT; from @syntaix.ai post DfHtl2MiQg1) |
+|| [⚡ LitServe](https://github.com/Lightning-AI/LitServe) | ⭐4.0k — Turn AI models into production APIs with batching and scaling; hosted AI processing API (Apache-2.0; from @syntaix.ai post DfHtl2MiQg1) |
+|| [🚀 next-forge](https://github.com/vercel/next-forge) | ⭐7.7k — Complete Next.js SaaS starter: auth, Stripe, DB, email, analytics; micro-SaaS foundation (MIT; from @syntaix.ai post DfHtl2MiQg1) |
+|| [🧩 puck](https://github.com/puckeditor/puck) | ⭐13.6k — Visual drag-and-drop editor for React; niche website builder SaaS (MIT; from @syntaix.ai post DfHtl2MiQg1) |
 
 ---
 
