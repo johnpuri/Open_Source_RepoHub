@@ -279,6 +279,7 @@
 || [📣 marketingskills](https://github.com/coreyhaines31/marketingskills) | ⭐51.8k — 50 marketing skills for AI agents: landing page audits, cold email, welcome sequences, CRO, SEO (from @lumen_arcade post Ddt16ilkRGB) |
 || [🔌 claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ⭐44.7k — Official Anthropic-managed directory of high-quality Claude Code plugins (GitHub trending monthly #8, Oct 2026) |
 || [💼 knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | ⭐33.2k — Open-source plugins for knowledge workers to use in Claude Cowork (GitHub trending monthly #9, Oct 2026) |
+|| [🧬 replica-skill](https://github.com/Jakeschincariol/replica-skill) | ⭐6.6k — 11 free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs |
 || [🪟 context-mode](https://github.com/mksglu/context-mode) | ⭐32.4k — Context-window optimization for AI coding agents: sandboxes tool output (98% reduction), persists sessions (GitHub trending monthly #5, Oct 2026) |
 || [🖱️ plugins](https://github.com/cursor/plugins) | ⭐14.2k — Cursor plugin specification and official plugins (GitHub trending monthly #10, Oct 2026) |
 || [💬 prompts.chat](https://github.com/f/prompts.chat) | ⭐174.7k — Share, discover and collect ChatGPT prompts (GitHub #51 all-time, Oct 2026) |
