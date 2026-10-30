@@ -482,7 +482,8 @@
 |||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
 ||| [🌊 Wigolo](https://github.com/KnockOutEZ/wigolo) | ⭐5.2k — Local-first web search, fetch, crawl, extract & deep-research for AI coding agents — no API keys, no per-search fees |
 ||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
-||| [📧 Reacher](https://github.com/reacherhq/check-if-email-exists) | ⭐10k — Verify email existence without sending mail — MX/SMTP reachability, catch-all, disposable, syntax checks; Rust + HTTP backend (via IG reel Ddrmm4pRt7c) |
+||| [🗺️ google-maps-scraper](https://github.com/gosom/google-maps-scraper) | ⭐7.1k — Scrape Google Maps: name, address, phone, website, rating, reviews, email into Excel; Go, Docker, distributed (MIT; from @adovionlabs post DfCtVI9E_p3) |
+||| [📧 Reacher](https://github.com/reacherhq/check-if-email-exists) | ⭐10k→10.4k — Verify email existence without sending mail — MX/SMTP reachability, catch-all, disposable, syntax checks; Rust + HTTP backend (via IG reel Ddrmm4pRt7c) |
 ||| [🛡️ curl-impersonate](https://github.com/lwthiker/curl-impersonate) | Mimic real browser TLS fingerprints to improve compatibility with anti-bot websites |
 
 ---|---
@@ -603,6 +604,7 @@
 || [🤖 Resume AI](https://github.com/resume-llm/resume-ai) | Local privacy-first resume builder using LLMs + Markdown to generate ATS-ready DOCX — no cloud, no tracking |
 | [📝 Cheating Daddy Setup](https://www.notion.so/Set-up-Cheating-Daddy-32366d0bd4f0802ebb2ee4b6dbd88cb1) | Notion workspace setup guide *(private)* |
 | [💸 AiToEarn](https://github.com/yikart/AiToEarn) | Web3-integrated ecosystem for AI-driven monetization and contributions |
+|| [🌍 remote-jobs](https://github.com/remoteintech/remote-jobs) | ⭐41.0k — Community directory of remote-friendly tech companies; filter by skill and pitch freelance services (from @adovionlabs post DfCtVI9E_p3) |
 || [💹 AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | ⭐2.8k — Enterprise-grade autonomous AI hedge fund: swarm intelligence + specialized agents for end-to-end market analysis, risk management, execution; Solana now, Coinbase coming (PyPI: autohedge) |
 || [💹 AI-Trader](https://github.com/HKUDS/AI-Trader) | Quantitative stock trading framework leveraging LLMs and technical analysis |
 | [📈 QuantMuse](https://github.com/0xemmkty/QuantMuse) | Quantitative trading system with AI-powered analysis |
@@ -631,6 +633,7 @@
 || [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | ⭐7.8k — Autonomous AI email client running on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
+|||| [👁️ Huginn](https://github.com/huginn/huginn) | ⭐50.2k — Agents that monitor the web and act on your behalf: social-listening lead gen, alerts (MIT; from @adovionlabs post DfCtVI9E_p3) |
 |||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (159.2k★) |
 |||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (156.4k★) |
 |||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (155.9k★) |
@@ -639,8 +642,8 @@
 |||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (94.7k★) |
 |||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
-||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
-||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
+||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k→24.1k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
+||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k→60.2k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
 |||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
