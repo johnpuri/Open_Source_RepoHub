@@ -378,7 +378,7 @@
 ||| [🎬 Recordly](https://github.com/webadderallorg/Recordly) | ⭐24.5k — Create polished demo videos without editing skills — cursor glide, zoom-on-click, gradient frames, cross-platform |
 || [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
-|| [📥 yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐202.5k — Feature-rich command-line audio/video downloader (GitHub #30 all-time, Oct 2026) |
+|| [📥 yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐203.9k — Feature-rich command-line audio/video downloader (GitHub #30 all-time, Oct 2026) |
 || [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | ⭐70.3k — Open-source agentic video production system: 12 pipelines, 100+ tools, 700+ agent skills turning an AI coding assistant into a full video studio — researcher, writer, designer, voice, sound, editor (from @lumen_arcade reel DeuGsJtBTCC) |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
@@ -403,7 +403,7 @@
 || [🎨 stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) | Stable Diffusion web UI |
 || [🎨 comfyui](https://github.com/comfy-org/comfyui) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 || [💰 MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ⭐124.5k — Automated AI short video generator — create HD videos from topic or keyword with LLM workflow |
-|| [🎨 penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+|| [🎨 penpot](https://github.com/penpot/penpot) | ⭐61.9k — Penpot: The open-source design platform for Product teams that need scalable collaboration. |
 || [🐧 upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
 || [⚛️ react-bits](https://github.com/davidhdev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
 || [⭐ awesome-nano-banana-images](https://github.com/picotrex/awesome-nano-banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-ima... |
@@ -714,6 +714,7 @@
 || [🔍 ghidra](https://github.com/nationalsecurityagency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 || [🕵️ strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 || [🐞 Open-Kritt](https://github.com/kritt-ai/open-kritt) | ⭐2.3k — Self-hosted AI vulnerability research: orchestrates agents to map entrypoints, trace flows and find real exploitable bugs; dedupes/ranks findings, custom rules (AGPL-3.0; from techwith.ram carousel DejgPniCYB-) |
+|| [🔑 bitwarden-server](https://github.com/bitwarden/server) | ⭐20.5k — Self-hosted password manager backend: API, database, Docker; 10M users, replaces 1Password (from @lumen_arcade post DezMk9EjKjT) |
 || [📱 MVT](https://github.com/mvt-project/mvt) | ⭐14.9k — Amnesty's Mobile Verification Toolkit — forensic triage for Android/iOS compromise (Pegasus-era tooling) |
 ||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
 ||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
