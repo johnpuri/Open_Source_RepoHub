@@ -141,7 +141,7 @@
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 ||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
 ||| [🐋 Orca](https://github.com/stablyai/orca) | ⭐87.4k — ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
-|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐181.7k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
+|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐197.0k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
 || [🤖 claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
 || [🤖 cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. ... |
 || [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
@@ -185,7 +185,7 @@
 || [⚡ cyberppt](https://github.com/crazyykhllc-bit/cyberppt) | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 |
 ||| [🤖 Strix](https://github.com/usestrix/strix) | Autonomous AI security engineer — finds, triages, and helps fix vulnerabilities across your codebase | 
 ||| [📊 Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 68 battle-tested product-management frameworks (opportunity-solution trees, PRDs) as agent skills for Claude Code / Cowork | 
-|| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | ⭐36.0k — The ultimate agentic social media scheduling and automation platform — AI-driven content generation, visual calendar, and multi-platform publishing across X, LinkedIn, Instagram, TikTok, YouTube, and Threads |
+|| [📨 Postiz](https://github.com/gitroomhq/postiz-app) | ⭐40.2k — The ultimate agentic social media scheduling and automation platform — AI-driven content generation, visual calendar, and multi-platform publishing across X, LinkedIn, Instagram, TikTok, YouTube, and Threads |
 || [🌐 OmniSocials Agent Skills](https://github.com/OmniSocials/omnisocials-agent-skills) | ⭐26 — Multi-platform social media skills and CLI for AI agents (Claude Code, Cursor, Codex, Gemini CLI) to create, schedule, and publish posts across 11 platforms via OmniSocials API | 
 ||| [🦀 lad](https://github.com/franzvill/lad) | An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer bene... |
 ||| [🤫 pluely](https://github.com/iamsrikanthnani/pluely) | ⭐2.3k — Open-source undetectable AI assistant for meetings & interviews. Tauri-based, 10MB, privacy-first, works with Zoom/Meet/Teams/Discord (TypeScript/Rust) |
@@ -198,10 +198,10 @@
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
 || [🧠 TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐18.6k — Team-level memory hub for AI agents: turns conversations/docs/code into 4 reusable assets (Chat Memory, Skill, LLM-Wiki, Code-Graph); ships as an OpenClaw plugin |
 | [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k→11.3k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
-| [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐14.7k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
-| [⌨️ cline](https://github.com/cline/cline) | ⭐66.8k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
-| [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐65.1k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
-| [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐57.6k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
+| [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐16.9k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
+| [⌨️ cline](https://github.com/cline/cline) | ⭐71.1k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
+| [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐67.8k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
+| [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐60.3k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
 | [🤖 AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐187.8k — Pioneering autonomous AI agent: give it a goal, it plans and executes (GitHub #40 all-time, Oct 2026) |
 | [🦀 claw-code](https://github.com/ultraworkers/claw-code) | ⭐195k — Agent-managed project built in Rust (GitHub #35 all-time, Oct 2026) |
 || [🧠 Letta](https://github.com/letta-ai/letta) | ⭐25.2k — Stateful agents framework with persistent long-term memory across sessions (formerly MemGPT; Apache-2.0; from @citysignal carousel DeeksLymAvI) |
