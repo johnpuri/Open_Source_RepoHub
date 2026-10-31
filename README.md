@@ -127,7 +127,7 @@
 || [📈 TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐107.4k — Multi-agent LLM framework for financial trading with analyst, trader, and risk manager agents |
 | [📡 RuView](https://github.com/ruvnet/RuView) | WiFi sensing platform for real-time spatial intelligence and presence detection |
 | [🛠️ Anthropic Skills](https://github.com/anthropics/skills) | Official public repository of modular, self-contained Claude instruction packages |
-| [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | Opinionated collection of 20+ production engineering skills for agents |
+| [🛠️ Matt Pocock Skills](https://github.com/mattpocock/skills) | ⭐308.2k — Opinionated collection of 20+ production engineering skills for agents |
 | [🧠 agentmemory](https://github.com/rohitg00/agentmemory) | Persistence layer and long-term memory management for AI agents |
 | [💰 Financial Services](https://github.com/anthropics/financial-services) | Modular skills and prompts for AI-driven financial analysis and services |
 | [🎓 Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) | Curated AI skills optimized for scientific writing and academic research |
@@ -147,7 +147,7 @@
 || [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
 || [🦔 ponytail](https://github.com/dietrichgebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 || [🤖 understand-anything](https://github.com/egonex-ai/understand-anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
-|| [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | ⭐96.0k — Production-grade engineering skills library for AI coding agents |
+|| [🔧 agent-skills](https://github.com/addyosmani/agent-skills) | ⭐112.2k — Production-grade engineering skills library for AI coding agents |
 | [🧭 Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Official LangChain deep research graph — planner/researcher/supervisor workflow with citations, MIT |
 || [🔧 hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 || [🧠 mem0](https://github.com/mem0ai/mem0) | ⭐65.5k — The memory layer for AI agents (OpenMemory) — persistent, self-improving memory across sessions with native MCP support |
@@ -155,12 +155,20 @@
 || [🔧 headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Libr... |
 || [🔍 agent-reach](https://github.com/panniantong/agent-reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHon... |
 || [🤖 system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 ... |
-|| [🤖 humanizer](https://github.com/blader/humanizer) | Claude Code skill that removes signs of AI-generated writing from text |
-|| [🔧 codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
+|| [🤖 humanizer](https://github.com/blader/humanizer) | ⭐62.9k — Claude Code skill that removes signs of AI-generated writing from text |
+|| [🔧 codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | ⭐47.9k — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
 || [🧠 cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessi... |
 || [🔧 nature-skills](https://github.com/yuan1z0825/nature-skills) | 符合nature论文学术表达和科研绘图的Skill |
 || [🤖 codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. |
-|| [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | ⭐33.9k — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... (from post DdoRKQUAdeM) |
+|| [🤖 anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | ⭐35.3k — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, ... (from post DdoRKQUAdeM) |
+|| [⚚ oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | ⭐5.0k — Coding harness with Hermes Agent wired into the IDE (from reel DeR3K9LAq97) |
+|| [🍿 defuddle](https://github.com/kepano/defuddle) | ⭐9.8k — Extract the main content of any page as Markdown; reader-mode skill for agents (from reel DeR3K9LAq97) |
+|| [🔁 loopy](https://github.com/Forward-Future/loopy) | ⭐3.2k — Library of practical AI-agent loops plus an installable skill (from reel DeR3K9LAq97) |
+|| [🦀 SkillClaw](https://github.com/AMAP-ML/SkillClaw) | ⭐2.7k — Agent skills that evolve from every real interaction across sessions, agents and devices (from reel DeR3K9LAq97) |
+|| [✨ awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐78.4k — Curated list of Claude Skills, resources and tooling (from reel DeR3K9LAq97 "Composio skills") |
+|| [🕵️ detect-skill](https://github.com/resemble-ai/detect-skill) | ⭐98 — Agent skill for deepfake detection and media safety: AI-generated audio, images, video (from reel DeR3K9LAq97 "Resemble Detect") |
+|| [🐝 minions](https://github.com/agent37-platform/minions) | ⭐652 — Mission Control for Hermes agents: one screen to create, supervise and review autonomous work (from reel DeR3K9LAq97) |
+|| [🎨 make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | ⭐3.9k — Agent skill with design-engineering principles for polished interfaces (from reel DeR3K9LAq97) |
 || [🤖 claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable reference... |
 || [🔧 guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
 || [📊 ppt-master](https://github.com/hugohe3/ppt-master) | ⭐56.6k — AI turns documents or topics into real native PowerPoint decks with native shapes |
