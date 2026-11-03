@@ -758,7 +758,7 @@
 || [arc-task-gen](https://github.com/pathwaycom/arc-task-gen) | ⭐5.5k — Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set. |
 || [TurboOCR](https://github.com/aiptimizer/TurboOCR) | ⭐1k — TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC |
 || [uniface](https://github.com/yakhyo/uniface) | ⭐1.5k — UniFace: A Unified Face Analysis Library for Python - Detection, alignment, landmarks, face-mesh, recognition, parsing, gaze, attributes ... |
-|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐39.4k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills (from reel Ddg3yiFRtMg, post DdoRKQUAdeM). |
+|| [OpenViking](https://github.com/volcengine/OpenViking) | ⭐41.4k — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills (from reel Ddg3yiFRtMg, post DdoRKQUAdeM). |
 || [🧠 Agent-Memory](https://github.com/Threesided-Studios/Agent-Memory) | ⭐6 — Persistent memory for AI coding agents built on the iii engine; no more re-explaining. Works with Claude Code, Cursor, Gemini CLI, Codex CLI, Hermes, OpenClaw, Pi, OpenCode and any MCP client; Apache-2.0 (from post DdoRKQUAdeM) |
 || [🛠️ awesome-harness-engineering](https://github.com/yenanjing/awesome-harness-engineering) | ⭐12 — Auto-updating curated index of 708 harness-engineering repos across 9 categories: tools, patterns, evals, memory, MCP, permissions (from post DdoRKQUAdeM) |
 || [coreai-models](https://github.com/apple/coreai-models) | ⭐2k — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
