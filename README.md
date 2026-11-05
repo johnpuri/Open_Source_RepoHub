@@ -141,7 +141,7 @@
 || [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Open deep research agent for web & local research with citations, multi-agent support, and MCP integration |
 ||| [🏛️ Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 18 AI personas deliberate your hardest decisions across multiple LLM providers — structured multi-round deliberation, confidence-weighted verdicts |
 ||| [🐋 Orca](https://github.com/stablyai/orca) | ⭐87.4k — ADE for working with a fleet of parallel agents — run Claude Code, Codex, OpenCode side-by-side |
-|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐197.0k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
+|| [🔥 firecrawl](https://github.com/firecrawl/firecrawl) | ⭐198.9k — Turn entire websites into LLM-ready markdown or structured data with crawl, scrape, search, and native MCP server integration |
 || [🤖 claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
 || [🤖 cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. ... |
 || [🤖 graphify](https://github.com/graphify-labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL ... |
@@ -490,8 +490,11 @@
 |||| [🕷️ Scrapy](https://github.com/scrapy/scrapy) | Industry-standard Python web scraping framework — fast, extensible, battle-tested at scale |
 ||| [🌊 Wigolo](https://github.com/KnockOutEZ/wigolo) | ⭐5.2k — Local-first web search, fetch, crawl, extract & deep-research for AI coding agents — no API keys, no per-search fees |
 ||| [🎯 AutoScraper](https://github.com/alirezamika/autoscraper) | Learn a scraping pattern once and automatically scrape similar data without writing selectors |
-||| [🗺️ google-maps-scraper](https://github.com/gosom/google-maps-scraper) | ⭐7.1k — Scrape Google Maps: name, address, phone, website, rating, reviews, email into Excel; Go, Docker, distributed (MIT; from @adovionlabs post DfCtVI9E_p3) |
-||| [📧 Reacher](https://github.com/reacherhq/check-if-email-exists) | ⭐10k→10.4k — Verify email existence without sending mail — MX/SMTP reachability, catch-all, disposable, syntax checks; Rust + HTTP backend (via IG reel Ddrmm4pRt7c) |
+||| [🗺️ google-maps-scraper](https://github.com/gosom/google-maps-scraper) | ⭐7.4k — Scrape Google Maps: name, address, phone, website, rating, reviews, email into Excel; Go, Docker, distributed (MIT; from @adovionlabs post DfCtVI9E_p3; refreshed from DfSbambiIOH) |
+||| [🎯 LeadHunt](https://github.com/Guru-Panda/leadhunt) | ⭐7 — Multi-tenant outbound lead-gen: ICP-aware hunting across 12 free sources + LLM-powered source discovery — describe your ideal client, get a scored lead list (Python; from post DfSbambiIOH) |
+||| [🔨 LeadForge](https://github.com/professai/leadforge) | ⭐7 — Autonomous B2B lead gen, enrichment, scoring & cold outreach — turn a company list into ranked sales opportunities (Python; from post DfSbambiIOH) |
+||| [🧩 OpenProspector](https://github.com/clawnify/OpenProspector) | ⭐26 — Open-source Clay alternative: find & enrich B2B leads on your own provider keys, at cost with no per-lead markup — provider fallback chain, email validation, caching (TypeScript; from post DfSbambiIOH) |
+||| [📧 Reacher](https://github.com/reacherhq/check-if-email-exists) | ⭐10.4k — Verify email existence without sending mail — MX/SMTP reachability, catch-all, disposable, syntax checks; Rust + HTTP backend (via IG reel Ddrmm4pRt7c) |
 ||| [🛡️ curl-impersonate](https://github.com/lwthiker/curl-impersonate) | Mimic real browser TLS fingerprints to improve compatibility with anti-bot websites |
 
 ---|---
@@ -508,7 +511,7 @@
 | [🌐 auto-browser](https://github.com/LvcidPsyche/auto-browser) | MCP-native browser control with human-in-the-loop approvals |
 | [🖥️ UI-TARS-Desktop](https://github.com/bytedance/ui-tars-desktop) | Native GUI agent for desktop and browser automation |
 || [🖥️ cua](https://github.com/trycua/cua) | ⭐30.9k — Open-source computer-use 2.0: drivers, cross-OS sandboxes (macOS/Windows/Linux VMs + Cua Spaces cloud computers), benchmarks for training/eval; gives agents their own computer (from reel De0cO32AAzq) |
-| [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | AI-powered LinkedIn automation for lead discovery |
+| [🎣 OpenOutreach](https://github.com/eracle/OpenOutreach) | ⭐3.5k — Open-source AI agent for B2B lead generation — describe your product, it finds matching people, explains why each fits, and emails them from your mailbox; self-hosted CLI (from post DfSbambiIOH) |
 | [🛡️ CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Multi-profile browser for automation with advanced anti-fingerprinting |
 ||| [🌐 browser-use](https://github.com/browser-use/browser-use) | Library to make websites accessible for AI agents via browser automation — autonomous form filling, web nav, ecommerce checkout, JS scraping; replaces UiPath, Zapier (118.8k★) |
 || [🌑 obscura](https://github.com/h4ckf0r0day/obscura) | ⭐29.4k — Headless browser built for AI agents and web scraping |
@@ -650,8 +653,8 @@
 |||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (94.7k★) |
 |||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
-||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐23k→24.1k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
-||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐54k→60.2k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
+||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐24.2k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
+||| [💼 Twenty](https://github.com/twentyhq/twenty) | ⭐60.5k — Open-source CRM (the "Salesforce twin"), designed for modern teams & AI |
 |||| [✍️ DocuSeal](https://github.com/docusealco/docuseal) | ⭐18k — Open-source DocuSign alternative — create, fill & sign digital documents |
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
@@ -682,7 +685,7 @@
 || [💸 Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance) | ⭐2.4k — Local-first AI finance advisor — net worth, positions, fund holdings with chat over your own numbers, data stays on your computer (MIT, Monarch Money killer; from post DeWwPtmDvqV) |
 || [⬇️ cobalt](https://github.com/imputnet/cobalt) | ⭐44.9k — Save what you love — video/audio downloader supporting hundreds of sites, no ads or tracking, self-hostable (AGPL-3.0; from artificialzone post DeT7Qt2DVWW) |
 || [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W) |
-|| [📈 Harvey](https://github.com/ethanplusai/harvey) | ⭐1.1k — Autonomous AI sales agent on your Claude Code/Codex subscription (no API bill) — finds prospects, writes personalized cold email, handles replies, books meetings; human approval gate (MIT, from theromanknox reel DeZiMG0uQQ7; demoed in badarmunir_official reel Deh38mWhGal) |
+|| [📈 Harvey](https://github.com/ethanplusai/harvey) | ⭐4.5k — Autonomous AI sales agent on your Claude Code/Codex subscription (no API bill) — finds prospects, writes personalized cold email, handles replies, books meetings; human approval gate (MIT, from theromanknox reel DeZiMG0uQQ7; demoed in badarmunir_official reel Deh38mWhGal) |
 || [▶️ Invidious](https://github.com/NWY-jkk/invidious) | ⭐25.5k — Alternative privacy-first front-end to YouTube, self-hostable (from lindsay.ai reel DejR-hTDDA8) |
 || [🎵 LastWave](https://github.com/Clash-Projects/LastWave-Native) | ⭐2.0k — Native Android YouTube Music client: ad-free streaming, algorithmic smart playlists, karaoke-synced lyrics, universal Last.fm scrobbler, offline downloads (GPL-3.0; from gittrend.io reel Des22JYgKf4) |
 || [💳 YouPI-PG](https://github.com/youpi-pg/YouPI-PG) | ⭐1.9k — Self-hosted UPI + COD payment gateway with zero per-transaction fees: drop-in script + pay button, bank SMS/email observers auto-verify payments (from reel Del85_MSK8M; formerly under zenux) |
