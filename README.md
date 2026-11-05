@@ -663,6 +663,7 @@
 ||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
+|| [🧹 Burrow (Mole-GUI)](https://github.com/khan-umirzakoff/Mole-GUI) | ⭐64 — Free open-source Mac cleaner: native SwiftUI app over the Mole CLI engine — clean caches, uninstall apps with leftovers, disk map, health score. CleanMyMac alternative ($19 vs free); safety checks/Trash-first deletes inherited from Mole; Touch ID for sudo. **Requires macOS 26+ on Apple silicon**, ad-hoc signed so two Gatekeeper dialogs (or `xattr -dr com.apple.quarantine`); GPL-3.0 (from reel DfNmNrpgNMs) |
 || [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
 || [Sunrise](https://github.com/stanuwu/Sunrise) | ⭐901 — Destiny 2 Offline Exploration Mod |
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
