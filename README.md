@@ -659,6 +659,8 @@
 ||| [📱 Evolution Go](https://github.com/evolution-foundation/evolution-go) | ⭐848 — Free, self-hosted WhatsApp REST API — send messages, media & real-time webhooks via Docker |
 ||| [📧 Mailflare](https://github.com/hieunc229/mailflare) | ⭐2.8k — Custom-domain email routing on Cloudflare — 1-click deploy, auto DNS, free |
 || [📧 Cloud Mail](https://github.com/maillab/cloud-mail) | ⭐14.8k — Self-hosted Gmail-style email on your own domain — free Cloudflare Workers hosting, unlimited mailboxes, attachments, admin panel (MIT; from reel Deqnm-XgY6z) |
+|| [📬 HQBase](https://github.com/HQBase/hqbase) | ⭐354 — AI-native shared email workspace for teams, runs entirely in your own Cloudflare account — one Worker + one D1 database on the free plan, unlimited mailboxes (`support@`, `billing@`, `legal@`…) and shared inboxes with **no per-seat pricing**; AGPL-3.0 (from reel DfYDF2-lI9-) |
+|| [📥 OpenInbox](https://github.com/sums001/OpenInbox) | ⭐132 — Free unlimited business email on your own domains, running entirely in your free Cloudflare account — no per-user fee (MIT) |
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
 ||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
 
@@ -668,6 +670,7 @@
 || [Sunrise](https://github.com/stanuwu/Sunrise) | ⭐901 — Destiny 2 Offline Exploration Mod |
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
+|| [🖼️ Glass Home](https://github.com/victaphu/glass-home-samsung-tv) | ⭐230 — Minimal Apple TV-style home screen for Samsung Tizen TVs: full-screen photos crossfading every 45s, frosted-glass app dock, clock + Open-Meteo weather, screensaver, evening dimming. Runs a small password-protected upload site on the TV itself so you add photos/shortcuts from your phone — plain HTML/CSS/JS, no frameworks or tracking; MIT (from reel DfZO0PbCo4U) |
 || [📺 CleanYourTV](https://github.com/Gathin23/cleanyourtv) | ⭐10.9k — Debloat any Android/Google TV over Wi-Fi (no root, reversible one-script restore) and swap the ad-filled home screen for an Apple TV-style launcher; AI-assisted via PROMPT.md (from @citysignal reel DerXFfpFOKs and gittrend.io reel DetdAB8jwWp; formerly tv-vibehack) |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
 || [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.8k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative); MIT |
