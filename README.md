@@ -14,6 +14,8 @@
 
 ## 📌 Table of Contents
 
+> 📎 Companion lists: **[50 Places to Launch Your Startup](LAUNCH-PLATFORMS.md)** — launch platforms, directories and communities.
+
 - [🤖 AI Agents & Frameworks](#-ai-agents--frameworks)
 - [💻 Coding & AI Development](#-coding--ai-development)
 - [🎨 Front End & Design](#-front-end--design)
@@ -661,6 +663,7 @@
 || [📧 Cloud Mail](https://github.com/maillab/cloud-mail) | ⭐14.8k — Self-hosted Gmail-style email on your own domain — free Cloudflare Workers hosting, unlimited mailboxes, attachments, admin panel (MIT; from reel Deqnm-XgY6z) |
 || [📬 HQBase](https://github.com/HQBase/hqbase) | ⭐354 — AI-native shared email workspace for teams, runs entirely in your own Cloudflare account — one Worker + one D1 database on the free plan, unlimited mailboxes (`support@`, `billing@`, `legal@`…) and shared inboxes with **no per-seat pricing**; AGPL-3.0 (from reel DfYDF2-lI9-) |
 || [📥 OpenInbox](https://github.com/sums001/OpenInbox) | ⭐132 — Free unlimited business email on your own domains, running entirely in your free Cloudflare account — no per-user fee (MIT) |
+|| [📮 IRIS](https://github.com/Urdemonlord/irisproject) | ⭐40 — Self-hosted webmail in **one 13 MB Rust binary** (~12 MB RAM, single process, no Docker, no Cloudflare account): permanent mailboxes with server-side search/compose/attachments/DMARC previews, anonymous 1-hour temp inbox, transactional email API, HTML mail sandboxed on a separate origin behind one-time tokens; Apache-2.0 (from reel DfX1VV0jPyB) |
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
 ||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
 
