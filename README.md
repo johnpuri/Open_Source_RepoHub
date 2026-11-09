@@ -102,7 +102,8 @@
 | [🤖 nanobot](https://github.com/HKUDS/nanobot) | ⭐48k — Free open-source self-hosted personal AI agent: memory, web search, subagents, scheduled automations |
 | [🧠 memanto](https://github.com/moorcheh-ai/memanto) | ⭐2.1k — Permanent memory for coding agents, one pip install, 13 memory types, <90ms recall |
 | [⚙️ gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) | ⭐1.4k — Open-source tool turning any AI model into a local workflow bot, microapps included |
-| [🎮 highball](https://github.com/gauthierpiarrette/highball) | ⭐571 — Run Windows games on Apple Silicon, free and open source with a compatibility database |
+|| [🎮 highball](https://github.com/gauthierpiarrette/highball) | ⭐571 — Run Windows games on Apple Silicon, free and open source with a compatibility database |
+|| [🪟 Win11Debloat](https://github.com/Raphire/Win11Debloat) | ⭐62.2k — PowerShell script that strips Windows 11 of preinstalled apps, telemetry, Copilot/Recall, and the ads Microsoft sprinkles through the OS — take the defaults or pick from the list, fully reversible (MIT; from 🔓 debloat carousel De_70UnCtez) |
 | [⚡ Superpowers](https://github.com/obra/superpowers) | Composable agentic skills framework for formal engineering processes |
 | [🦙 LlamaIndex](https://github.com/run-llama/llama_index) | Leading data framework for building agentic RAG applications |
 | [🖥️ DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | ⭐13.5k — Desktop app for DeepSeek Harness (DSH) — runs plugins locally as native app, no terminal, Win/macOS, 609 forks |
@@ -644,6 +645,8 @@
 ||| [🔧 documentdb](https://github.com/documentdb/documentdb) | MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, an... |
 |||| [☁️ Cloudflare AI](https://github.com/cloudflare/ai) | ⭐1.1k — Ecosystem for AI on Cloudflare — Workers AI + AI Gateway + AI Search + Vectorize — Vercel/TanStack AI SDK providers, chat/image/embeddings/TTS/reranking, gateway caching/fallback |
 || [📧 Cloudflare Agentic Inbox](https://github.com/cloudflare/agentic-inbox) | ⭐7.8k — Autonomous AI email client running on Cloudflare Workers — catch-all receiving, full-text search, AI reply drafting |
+|||| [🕳️ Pi-hole](https://github.com/pi-hole/pi-hole) | ⭐61.7k — The original network-wide DNS ad-blocker: run it on a Raspberry Pi or any old PC and it kills ads + trackers for every phone, TV and laptop on the Wi-Fi — **nothing installed on any device** (from 🔓 debloat carousel De_70UnCtez) |
+|||| [🛡️ AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) | ⭐38.3k — Network-wide DNS ad/tracker blocker, Pi-hole's more polished sibling: per-client rules, DNS-over-HTTPS/TLS upstreams, nicer UI, single Go binary |
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
 |||| [👁️ Huginn](https://github.com/huginn/huginn) | ⭐50.2k — Agents that monitor the web and act on your behalf: social-listening lead gen, alerts (MIT; from @adovionlabs post DfCtVI9E_p3) |
@@ -672,8 +675,12 @@
 || [OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⭐16.3k — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, ... |
 || [Sunrise](https://github.com/stanuwu/Sunrise) | ⭐901 — Destiny 2 Offline Exploration Mod |
 || [curbox-android](https://github.com/curbox-app/curbox-android) | ⭐1.2k — Free Open Source App & Website Blocker  |
+|| [🧹 UAD-ng](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐9.9k — Cross-platform Rust GUI that debloats **non-rooted** Android over ADB: tick the preinstalled apps you never asked for and they're gone, every removal reversible (GPL-3.0). No root, no bootloader unlock (from 🔓 debloat carousel De_70UnCtez) |
+|| [🍬 Canta](https://github.com/samolego/Canta) | ⭐6.9k — Uninstall system apps on a **non-rooted** phone using Shizuku as the privileged bridge — debloat from the app itself or from a browser, with per-app restore |
+|| [💊 ReVanced Manager](https://github.com/ReVanced/revanced-manager) | ⭐30.1k — Patch the apps you already use: tick "hide ads" / "hide sponsored posts" and it builds a clean modified copy of the APK (GPL-3.0, Kotlin). The Android replacement ecosystem for YouTube, Reddit et al. |
 || [TizenTube](https://github.com/reisxd/TizenTube) | ⭐2k — A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. |
 || [🖼️ Glass Home](https://github.com/victaphu/glass-home-samsung-tv) | ⭐230 — Minimal Apple TV-style home screen for Samsung Tizen TVs: full-screen photos crossfading every 45s, frosted-glass app dock, clock + Open-Meteo weather, screensaver, evening dimming. Runs a small password-protected upload site on the TV itself so you add photos/shortcuts from your phone — plain HTML/CSS/JS, no frameworks or tracking; MIT (from reel DfZO0PbCo4U) |
+|| [▶️ SmartTube](https://github.com/yuliskov/SmartTube) | ⭐36.1k — Ad-free YouTube client for Android TV / TV boxes: blocks ads, auto-skips in-video sponsor segments, up to 8K playback (MIT, Java) — the fix for the ad-stuffed stock YouTube app on any set-top box (from 🔓 debloat carousel De_70UnCtez) |
 || [📺 CleanYourTV](https://github.com/Gathin23/cleanyourtv) | ⭐10.9k — Debloat any Android/Google TV over Wi-Fi (no root, reversible one-script restore) and swap the ad-filled home screen for an Apple TV-style launcher; AI-assisted via PROMPT.md (from @citysignal reel DerXFfpFOKs and gittrend.io reel DetdAB8jwWp; formerly tv-vibehack) |
 || [VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | ⭐1.1k — People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks ... |
 || [📅 Mixpost](https://github.com/inovector/mixpost) | ⭐3.8k — Self-hosted social media management software — schedule, publish, and manage content across 10+ platforms on your own server (open-source Buffer alternative); MIT |
@@ -755,7 +762,8 @@
 | Project | Description |
 ------|
 || [🤗 transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, a... |
-||| [🤖 localai](https://github.com/mudler/localai) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU req... |
+||| [🤖 localai](https://github.com/mudler/localai) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU req..
+||| [⚡ gpu-unlock](https://github.com/Zagitta/gpu-unlock) | ⭐18.3k — Removes the artificial FP16/BF16/TF32 tensor-core rate limit NVIDIA ships on consumer GeForce cards (RTX 20/30/40). A **3090 goes 75 → 125 TFLOPS (+65%)**, 3080 65→113, 3060 27→51 (+87%) — the 3090's AI math is otherwise capped at half its pro twin. Kernel-level patch via `gpu_unlock.ko` on Linux, no VBIOS flash; C, no license file. 100+ stable user reports on Ampere (from 🔓 gpu-unlock carousel De_70UnCtez) |. |
 || [🔥 PyTorch](https://github.com/pytorch/pytorch) | ⭐102.2k — Deep learning framework with dynamic computation graphs — the standard for AI research and development |
 || [🧠 TensorFlow](https://github.com/tensorflow/tensorflow) | ⭐196.8k — Machine learning framework for building and training AI models at scale |
 || [🧬 Keras](https://github.com/keras-team/keras) | ⭐64.2k — High-level deep learning framework (Python) — fast experimentation on top of JAX, TensorFlow, or PyTorch |
