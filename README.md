@@ -211,7 +211,7 @@
 | [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k→11.3k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
 | [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐16.9k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
 | [⌨️ cline](https://github.com/cline/cline) | ⭐71.1k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
-| [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐67.8k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
+| [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐68.2k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
 | [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐60.3k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
 | [🤖 AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐187.8k — Pioneering autonomous AI agent: give it a goal, it plans and executes (GitHub #40 all-time, Oct 2026) |
 | [🦀 claw-code](https://github.com/ultraworkers/claw-code) | ⭐195k — Agent-managed project built in Rust (GitHub #35 all-time, Oct 2026) |
@@ -475,7 +475,7 @@
 | Project | Description |
 ------|
 | [🕸️ ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLM and direct graph logic |
-| [🔍 changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest self-hosted tool for website change detection and monitoring (34.5k★, Apache-2.0) |
+| [🔍 changedetection.io](https://github.com/dgtlmoon/changedetection.io) | ⭐35.7k — Best and simplest self-hosted tool for website change detection and monitoring (34.5k★, Apache-2.0) |
 || [🕸️ Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐75.8k — Adaptive web scraping framework that's 774x faster than BeautifulSoup, auto-bypasses Cloudflare/anti-bot defenses, handles JS and tracking iframes, with native MCP server integration |
 || [🕸️ crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly Web Crawler & Scraper — converts JS-heavy sites to clean Markdown/JSON; replaces Firecrawl, Apify (86.0k★) |
 ||| [🕸️ Maxun](https://github.com/getmaxun/maxun) | ⭐18.0k — No-code web data extraction platform — point, click, auto-builds scrapers; turns sites to APIs/spreadsheets; replaces Octoparse, Browse AI (AGPL-3.0) (from post Dd2tZCCDofx) |
@@ -656,7 +656,13 @@
 |||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (155.9k★) |
 |||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (112.9k★) |
 ||||| [🗄️ PocketBase](https://github.com/pocketbase/pocketbase) | ⭐61.5k — Open-source realtime backend in a single Go executable: SQLite DB, auth, file storage, admin dashboard, REST API (from techwith.ram carousel DejgPniCYB-) |
-|||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (94.7k★) |
+|||| [📄 Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐96.3k — 50+ PDF tools offline — merge, split, OCR, sign, redact, convert; replaces Adobe Acrobat Pro, Smallpdf (94.7k★) |
+|||| [📊 Grist](https://github.com/gristlabs/grist-core) | ⭐12.1k — Open-source Airtable alternative: spreadsheet-database hybrid with real formulas, access rules and self-hosting (replaces Airtable) |
+|||| [📝 Formbricks](https://github.com/formbricks/formbricks) | ⭐13.2k — Open-source Typeform alternative: surveys with logic, targeting and in-app/website embeds, self-hosted (replaces Typeform) |
+|||| [📈 Metabase](https://github.com/metabase/metabase) | ⭐50.3k — Open-source BI: point it at your database and build dashboards without SQL (replaces Tableau) |
+|||| [💼 Ghostfolio](https://github.com/ghostfolio/ghostfolio) | ⭐9.7k — Open-source personal wealth tracker: multi-account portfolio, performance and allocation across stocks/crypto (replaces Kubera) |
+|||| [🔎 Vane](https://github.com/ItzCrazyKns/Vane) | ⭐38.2k — Open-source AI answering engine with cited sources, runs on local or cloud models (replaces Perplexity Pro) |
+|||| [🏦 OpenBB](https://github.com/OpenBB-finance/OpenBB) | ⭐75.3k — Open-source investment research platform: equities, options, macro and crypto data in one terminal-style workspace (replaces Bloomberg Terminal) (from reel DfAYTblT-vi) |
 |||| [📅 Cal.com](https://github.com/calcom/cal.diy) | ⭐47k — Open-source scheduling infrastructure (the "Calendly twin"), white-labelable booking engine |
 ||| [📊 Plausible](https://github.com/plausible/analytics) | ⭐28k — Cookie-free, privacy-first web analytics, lightweight & self-hosted (Google Analytics alternative) |
 ||| [📧 Listmonk](https://github.com/knadh/listmonk) | ⭐24.2k — High-performance self-hosted newsletter & mailing-list manager (the "Mailchimp twin"), single binary |
