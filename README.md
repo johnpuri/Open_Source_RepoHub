@@ -74,7 +74,7 @@
 || [gpuix](https://github.com/remorses/gpuix) | ⭐1.1k — Node.js & React bindings for Zed GPUI. |
 || [codiff](https://github.com/nkzw-tech/codiff) | ⭐1.3k — a fast local diff viewer |
 || [nodeterm](https://github.com/eneskirca/nodeterm) | ⭐1.2k — Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pa... |
-|| [plane](https://github.com/makeplane/plane) | ⭐58.2k — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do... |
+|| [plane](https://github.com/makeplane/plane) | ⭐62.4k — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do... |
 || [hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) | ⭐1.4k — Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. |
 || [scriptcat](https://github.com/scriptscat/scriptcat) | ⭐5.2k — ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
 || [backlink_skills](https://github.com/flaqai/backlink_skills) | ⭐556 — Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic. |
@@ -210,7 +210,7 @@
 || [⚡ Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) | ⭐7.9k — Prime Intellect's self-improving AI coding agent: Recursive Language Models (RLMs), spawns sub-agents, persistent self-modifying state, programmatic tool calls (MIT) |
 || [🧠 TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | ⭐18.6k — Team-level memory hub for AI agents: turns conversations/docs/code into 4 reusable assets (Chat Memory, Skill, LLM-Wiki, Code-Graph); ships as an OpenClaw plugin |
 | [🦁 Brigade](https://github.com/spinabot/brigade) | ⭐2.8k→11.3k — Your personal intelligence, built enterprise-grade — crew of AI agents on a real org chart sharing Tideline long-term memory; self-hosted via `npm i -g @spinabot/brigade`, self-improving, 1000+ app integrations |
-| [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐16.9k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
+| [📞 pipecat](https://github.com/pipecat-ai/pipecat) | ⭐17.2k — Open-source framework for voice agents, multimodal apps, and realtime AI — $8K phone agent (Claude as brain: answers, books, calendars) |
 | [⌨️ cline](https://github.com/cline/cline) | ⭐71.1k — Autonomous coding agent as SDK/IDE extension/CLI — $5K website builder (Claude builds file-by-file) |
 | [🧠 anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐68.2k — Own your intelligence: local-first AI for docs, teams & agents — $3.5K AI setup (drop docs, point at Claude) |
 | [👥 crewAI](https://github.com/crewAIInc/crewAI) | ⭐60.3k — Framework for orchestrating role-playing autonomous AI agents — $5K/month retainer (one person covers 3 roles) |
@@ -657,7 +657,7 @@
 |||| [🛡️ esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐591 — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 — 537k domains as 40-bit FNV-1a hashes in flash, binary-searched |
 |||| [⚙️ n8n](https://github.com/n8n-io/n8n) | ⭐199k — Fair-code workflow automation (the "Zapier killer", self-hosted). 400+ integrations + native AI nodes |
 |||| [👁️ Huginn](https://github.com/huginn/huginn) | ⭐50.2k — Agents that monitor the web and act on your behalf: social-listening lead gen, alerts (MIT; from @adovionlabs post DfCtVI9E_p3) |
-|||| [🤖 Dify](https://github.com/langgenius/dify) | Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze (159.2k★) |
+|||| [🤖 Dify](https://github.com/langgenius/dify) | ⭐161.1k — Production-ready LLM app development platform — visual workflow designer, RAG, agents, LLMOps; replaces Voiceflow, Coze. ⚠️ **Modified Apache-2.0** — commercial use OK but a paid licence is required to run it as a **multi-tenant** service (from reel Dd4EKiTtJvn) |
 |||| [🤖 Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface — RAG, multi-model, prompt library, offline with Ollama; replaces ChatGPT Plus, Claude Pro (156.4k★) |
 |||| [🤖 Langflow](https://github.com/langflow-ai/langflow) | Visual AI agent & RAG pipeline builder — drag-drop canvas, custom Python components, one-click API deploy; replaces Flowise (155.9k★) |
 |||| [📊 Supabase](https://github.com/supabase/supabase) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime, Edge Functions; self-hostable via Docker (112.9k★) |
@@ -713,7 +713,7 @@
 || [📻 Meshtastic](https://github.com/meshtastic/firmware) | ⭐8.4k — Off-grid mesh communicator — encrypted text/GPS over LoRa radios with no cell or WiFi, self-hosted; replaces paid satellite messengers (from post DeCpzfAjQeJ) |
 || [💸 Aurelio Finance](https://github.com/LosaLosSantos/aurelio-finance) | ⭐2.4k — Local-first AI finance advisor — net worth, positions, fund holdings with chat over your own numbers, data stays on your computer (MIT, Monarch Money killer; from post DeWwPtmDvqV) |
 || [⬇️ cobalt](https://github.com/imputnet/cobalt) | ⭐44.9k — Save what you love — video/audio downloader supporting hundreds of sites, no ads or tracking, self-hostable (AGPL-3.0; from artificialzone post DeT7Qt2DVWW) |
-|| [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W) |
+|| [📊 NocoDB](https://github.com/nocodb/nocodb) | ⭐65.3k — Open-source Airtable alternative — turn any database into a smart spreadsheet/database app, self-hosted (from lindsay.ai reel Deb3e1_Ai1W). ⚠️ **Sustainable Use License** (open-core, not OSI) — read terms before reselling (from reel Dd4EKiTtJvn) |
 || [📈 Harvey](https://github.com/ethanplusai/harvey) | ⭐4.5k — Autonomous AI sales agent on your Claude Code/Codex subscription (no API bill) — finds prospects, writes personalized cold email, handles replies, books meetings; human approval gate (MIT, from theromanknox reel DeZiMG0uQQ7; demoed in badarmunir_official reel Deh38mWhGal) |
 || [▶️ Invidious](https://github.com/NWY-jkk/invidious) | ⭐25.5k — Alternative privacy-first front-end to YouTube, self-hostable (from lindsay.ai reel DejR-hTDDA8) |
 || [🎵 LastWave](https://github.com/Clash-Projects/LastWave-Native) | ⭐2.0k — Native Android YouTube Music client: ad-free streaming, algorithmic smart playlists, karaoke-synced lyrics, universal Last.fm scrobbler, offline downloads (GPL-3.0; from gittrend.io reel Des22JYgKf4) |
