@@ -9,6 +9,28 @@ ROW_RE = re.compile(
     r"^\|+\s*\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)\s*\|\s*(?P<desc>.*?)\s*\|?\s*$"
 )
 STARS_RE = re.compile(r"⭐\s*([\d.]+)\s*([kKmM]?)")
+LICENCE_RE = re.compile(
+    r"\b(MIT|Apache-2\.0|AGPL-3\.0|GPL-3\.0|GPL-2\.0|LGPL-3\.0|BSD-3-Clause|BSD-2-Clause|"
+    r"ISC|MPL-2\.0|Unlicense|CC0-1\.0|CC-BY-4\.0|Sustainable\s+Use|open-core)\b",
+    re.I,
+)
+LICENCE_CANON = {
+    "mit": "MIT",
+    "apache-2.0": "Apache-2.0",
+    "agpl-3.0": "AGPL-3.0",
+    "gpl-3.0": "GPL-3.0",
+    "gpl-2.0": "GPL-2.0",
+    "lgpl-3.0": "LGPL-3.0",
+    "bsd-3-clause": "BSD-3-Clause",
+    "bsd-2-clause": "BSD-2-Clause",
+    "isc": "ISC",
+    "mpl-2.0": "MPL-2.0",
+    "unlicense": "Unlicense",
+    "cc0-1.0": "CC0-1.0",
+    "cc-by-4.0": "CC-BY-4.0",
+    "sustainable use": "Sustainable Use",
+    "open-core": "open-core",
+}
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 EMOJI_RE = re.compile(
     "[" "\U0001F300-\U0001FAFF" "\U0001F000-\U0001F2FF" "\u2600-\u27BF" "\uFE0F" "\u2B00-\u2BFF" "]"
@@ -27,6 +49,15 @@ def human_stars(text):
     elif suf == "m":
         val *= 1_000_000
     return int(val)
+
+
+def parse_licence(text):
+    """Return a canonical licence id, or None."""
+    m = LICENCE_RE.search(text)
+    if not m:
+        return None
+    key = re.sub(r"\s+", " ", m.group(1).strip().lower())
+    return LICENCE_CANON.get(key, m.group(1))
 
 
 def clean(desc):
@@ -125,6 +156,9 @@ def parse(readme_path):
                 "section": cur["title"],
                 "section_slug": cur["slug"],
                 "kind": "repo" if is_gh else "link",
+                "licence": parse_licence(raw_desc),
+                # ⚠️ rows carry a resale/compliance warning worth surfacing
+                "caveat": ("\u26a0" in raw_desc) or ("\u26a0" in label),
             }
         )
         repo_count += 1

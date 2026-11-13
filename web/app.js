@@ -9,7 +9,31 @@ const state = {
   repos: [],
   activeSection: "all",
   query: "",
+  // Filters
+  starTiers: new Set(),   // "100k" | "50k" | "10k" | "1k" | "under1k" | "unknown"
+  licences: new Set(),    // canonical licence ids, or "none"
+  sort: "default",
 };
+
+/* Star tier definitions: [id, label, min, max] */
+const STAR_TIERS = [
+  ["100k", "100k+", 100000, Infinity],
+  ["50k", "50k–100k", 50000, 100000],
+  ["10k", "10k–50k", 10000, 50000],
+  ["1k", "1k–10k", 1000, 10000],
+  ["under1k", "< 1k", 0, 1000],
+  ["unknown", "No data", null, null],
+];
+
+function tierOf(repo) {
+  const s = repo.stars;
+  if (s == null) return "unknown";
+  for (const [id, , min, max] of STAR_TIERS) {
+    if (min == null) continue;
+    if (s >= min && s < max) return id;
+  }
+  return "unknown";
+}
 
 const $ = (id) => document.getElementById(id);
 const el = {
@@ -28,6 +52,15 @@ const el = {
   themeBtn: $("themeBtn"),
   toTop: $("toTop"),
   footMeta: $("footMeta"),
+  starChips: $("starChips"),
+  licenceChips: $("licenceChips"),
+  sortSelect: $("sortSelect"),
+  resetFilters: $("resetFilters"),
+  activeFilters: $("activeFilters"),
+  filterToggle: $("filterToggle"),
+  filterGroups: $("filterGroups"),
+  filterBadge: $("filterBadge"),
+  emptyReset: $("emptyReset"),
 };
 
 /* ---------- theme ---------- */
@@ -106,16 +139,193 @@ function score(repo, q) {
 function filtered() {
   const q = state.query.trim();
   let pool = state.repos;
+
   if (state.activeSection !== "all") {
     pool = pool.filter((r) => r.section_slug === state.activeSection);
   }
-  if (!q) return pool;
 
-  return pool
-    .map((r) => ({ r, s: score(r, q) }))
-    .filter((x) => x.s > 0)
-    .sort((a, b) => b.s - a.s || (b.r.stars || 0) - (a.r.stars || 0))
-    .map((x) => x.r);
+  // Star tier filter (OR across selected tiers)
+  if (state.starTiers.size) {
+    pool = pool.filter((r) => state.starTiers.has(tierOf(r)));
+  }
+
+  // Licence filter (OR across selected licences)
+  if (state.licences.size) {
+    pool = pool.filter((r) => {
+      const key = r.licence || "none";
+      return state.licences.has(key);
+    });
+  }
+
+  // Search
+  if (q) {
+    pool = pool
+      .map((r) => ({ r, s: score(r, q) }))
+      .filter((x) => x.s > 0)
+      .sort((a, b) => b.s - a.s || (b.r.stars || 0) - (a.r.stars || 0))
+      .map((x) => x.r);
+  }
+
+  // Explicit sort (overrides source order)
+  if (state.sort === "stars-desc") {
+    pool = [...pool].sort((a, b) => (b.stars ?? -1) - (a.stars ?? -1));
+  } else if (state.sort === "stars-asc") {
+    pool = [...pool].sort((a, b) => (a.stars ?? Infinity) - (b.stars ?? Infinity));
+  } else if (state.sort === "name") {
+    pool = [...pool].sort((a, b) =>
+      a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+    );
+  }
+
+  return pool;
+}
+
+const hasFilters = () =>
+  state.starTiers.size > 0 || state.licences.size > 0 || state.sort !== "default";
+
+/* ---------- filter chips ---------- */
+
+function buildChips() {
+  // Star tiers: count how many repos fall in each, over the current section
+  const sectionPool =
+    state.activeSection === "all"
+      ? state.repos
+      : state.repos.filter((r) => r.section_slug === state.activeSection);
+
+  const tierCounts = new Map();
+  for (const r of sectionPool) {
+    const t = tierOf(r);
+    tierCounts.set(t, (tierCounts.get(t) || 0) + 1);
+  }
+
+  el.starChips.innerHTML = "";
+  for (const [id, label] of STAR_TIERS) {
+    const n = tierCounts.get(id) || 0;
+    if (!n) continue; // don't show a chip that can never match
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.type = "button";
+    b.setAttribute("aria-pressed", state.starTiers.has(id) ? "true" : "false");
+    b.dataset.tier = id;
+    b.innerHTML = `${esc(label)}<span class="chip-n">${n}</span>`;
+    b.addEventListener("click", () => {
+      if (state.starTiers.has(id)) state.starTiers.delete(id);
+      else state.starTiers.add(id);
+      syncFilterUI();
+      render();
+    });
+    el.starChips.appendChild(b);
+  }
+
+  // Licences: only ones that actually occur
+  const licCounts = new Map();
+  for (const r of state.repos) {
+    const k = r.licence || "none";
+    licCounts.set(k, (licCounts.get(k) || 0) + 1);
+  }
+  const ordered = [...licCounts.entries()]
+    .filter(([k]) => k !== "none")
+    .sort((a, b) => b[1] - a[1]);
+
+  el.licenceChips.innerHTML = "";
+  if (ordered.length) {
+    for (const [lic, n] of ordered) {
+      const b = document.createElement("button");
+      b.className = "chip";
+      b.type = "button";
+      b.setAttribute("aria-pressed", state.licences.has(lic) ? "true" : "false");
+      b.dataset.licence = lic;
+      b.innerHTML = `${esc(lic)}<span class="chip-n">${n}</span>`;
+      b.addEventListener("click", () => {
+        if (state.licences.has(lic)) state.licences.delete(lic);
+        else state.licences.add(lic);
+        syncFilterUI();
+        render();
+      });
+      el.licenceChips.appendChild(b);
+    }
+    // "Unlisted" only matters if the user is hunting for gaps
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.type = "button";
+    b.setAttribute("aria-pressed", state.licences.has("none") ? "true" : "false");
+    b.dataset.licence = "none";
+    b.innerHTML = `Unlisted<span class="chip-n">${licCounts.get("none") || 0}</span>`;
+    b.addEventListener("click", () => {
+      if (state.licences.has("none")) state.licences.delete("none");
+      else state.licences.add("none");
+      syncFilterUI();
+      render();
+    });
+    el.licenceChips.appendChild(b);
+  } else {
+    el.licenceChips.innerHTML = `<span class="filter-label" style="text-transform:none;letter-spacing:0">No licence data yet</span>`;
+  }
+}
+
+/** Reflect state into chip pressed states, badge, reset button, pills. */
+function syncFilterUI() {
+  for (const b of el.starChips.querySelectorAll(".chip")) {
+    b.setAttribute(
+      "aria-pressed",
+      state.starTiers.has(b.dataset.tier) ? "true" : "false"
+    );
+  }
+  for (const b of el.licenceChips.querySelectorAll(".chip")) {
+    b.setAttribute(
+      "aria-pressed",
+      state.licences.has(b.dataset.licence) ? "true" : "false"
+    );
+  }
+
+  el.sortSelect.value = state.sort;
+  const active = hasFilters();
+  el.resetFilters.hidden = !active;
+
+  const total = state.starTiers.size + state.licences.size;
+  el.filterBadge.hidden = total === 0;
+  el.filterBadge.textContent = total;
+
+  // Explain current filters as removable pills
+  el.activeFilters.innerHTML = "";
+  const addPill = (label, onRemove) => {
+    const p = document.createElement("span");
+    p.className = "af-pill";
+    p.innerHTML = `${esc(label)}<button type="button" aria-label="Remove ${esc(label)}">&times;</button>`;
+    p.querySelector("button").addEventListener("click", onRemove);
+    el.activeFilters.appendChild(p);
+  };
+  for (const id of state.starTiers) {
+    const t = STAR_TIERS.find((x) => x[0] === id);
+    addPill(`★ ${t ? t[1] : id}`, () => {
+      state.starTiers.delete(id);
+      syncFilterUI();
+      render();
+    });
+  }
+  for (const lic of state.licences) {
+    addPill(lic === "none" ? "Licence unlisted" : lic, () => {
+      state.licences.delete(lic);
+      syncFilterUI();
+      render();
+    });
+  }
+  if (state.sort !== "default") {
+    const lbl = el.sortSelect.selectedOptions[0]?.textContent || state.sort;
+    addPill(`Sort: ${lbl}`, () => {
+      state.sort = "default";
+      syncFilterUI();
+      render();
+    });
+  }
+}
+
+function resetAllFilters() {
+  state.starTiers.clear();
+  state.licences.clear();
+  state.sort = "default";
+  syncFilterUI();
+  render();
 }
 
 /* ---------- rendering ---------- */
@@ -151,7 +361,15 @@ function render() {
   el.list.innerHTML = "";
   el.countPill.textContent = items.length;
   el.empty.hidden = items.length > 0;
-  el.emptyTerm.textContent = q;
+  // Say *why* it's empty: a filter still on is the likely cause
+  const filterNote = el.empty.querySelector(".empty-filters");
+  if (items.length === 0 && hasFilters()) {
+    el.emptyTerm.textContent = q || "these filters";
+    if (filterNote) filterNote.hidden = false;
+  } else {
+    el.emptyTerm.textContent = q;
+    if (filterNote) filterNote.hidden = true;
+  }
 
   // Group by section, preserving declared order
   const groups = new Map();
@@ -198,11 +416,13 @@ function renderNav() {
                    <span class="nav-count">${count}</span>`;
     b.addEventListener("click", () => {
       state.activeSection = slug;
+      // Tier counts are section-relative, so rebuild chips on every switch
+      buildChips();
+      syncFilterUI();
       renderNav();
       render();
       closeDrawer();
-      if (slug === "all") window.scrollTo({ top: 0, behavior: "smooth" });
-      else window.scrollTo({ top: 0, behavior: "smooth" });
+      window.scrollTo({ top: 0, behavior: "smooth" });
     });
     li.appendChild(b);
     el.navList.appendChild(li);
@@ -268,6 +488,22 @@ document.addEventListener("keydown", (e) => {
   }
 });
 
+/* ---------- filter wiring ---------- */
+
+el.sortSelect.addEventListener("change", (e) => {
+  state.sort = e.target.value;
+  syncFilterUI();
+  render();
+});
+
+el.resetFilters.addEventListener("click", resetAllFilters);
+el.emptyReset.addEventListener("click", resetAllFilters);
+
+el.filterToggle.addEventListener("click", () => {
+  const open = el.filterGroups.classList.toggle("open");
+  el.filterToggle.setAttribute("aria-expanded", open ? "true" : "false");
+});
+
 /* ---------- search wiring ---------- */
 
 let t = null;
@@ -318,6 +554,8 @@ async function boot() {
     renderNav();
     renderStats();
     updateSearchPlaceholder();
+    buildChips();
+    syncFilterUI();
     render();
   } catch (err) {
     el.list.innerHTML = `<p class="empty">Could not load <code>data.json</code> — ${esc(

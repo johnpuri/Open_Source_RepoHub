@@ -64,8 +64,42 @@
       <p>A curated collection of open-source projects, tools and resources for builders, developers and AI enthusiasts.</p>
       <div class="hero-stats" id="heroStats"></div>
     </div>
+
+    <!-- Filter bar: inline chips on desktop, bottom-sheet trigger on mobile -->
+    <div class="filterbar" id="filterbar">
+      <button class="filter-toggle only-mobile" id="filterToggle" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M7 12h10M11 18h2"/></svg>
+        <span>Filters</span>
+        <span class="filter-badge" id="filterBadge" hidden>0</span>
+      </button>
+
+      <div class="filter-groups" id="filterGroups">
+        <div class="filter-group">
+          <span class="filter-label">Stars</span>
+          <div class="chips" id="starChips"></div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Licence</span>
+          <div class="chips" id="licenceChips"></div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Sort</span>
+          <select id="sortSelect" class="sort-select">
+            <option value="default">Source order</option>
+            <option value="stars-desc">Most stars</option>
+            <option value="stars-asc">Fewest stars</option>
+            <option value="name">Name A–Z</option>
+          </select>
+        </div>
+        <button class="reset-btn" id="resetFilters" hidden>Clear all</button>
+      </div>
+    </div>
+
+    <div class="active-filters" id="activeFilters"></div>
     <div id="list" class="list" role="list"></div>
-    <p class="empty" id="empty" hidden>No projects match “<span id="emptyTerm"></span>”.</p>
+    <p class="empty" id="empty" hidden>No projects match “<span id="emptyTerm"></span>”.
+      <span class="empty-filters" hidden><br><button class="reset-btn" id="emptyReset">Clear all filters</button></span>
+    </p>
     <footer class="site-foot">
       <span id="footMeta"></span>
     </footer>
