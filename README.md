@@ -224,7 +224,9 @@
 || [🏢 Munder Difflin](https://github.com/chaitanyagiri/munder-difflin) | ⭐4.5k — Desktop office of AI clones — wraps Claude Code, Codex, Grok, Copilot, Qwen & more as avatars on a Pixi.js floor; your clone Michael routes work with hive-mind memory (Electron, from reel DcbJE6Tj4vY) |
 | [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
-|| [🐭 OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐5.3k — Open-source Grok Bot alternative: team of AI bots in a chat app on your own machine — own API keys/subs, scheduled tasks, computer use, Gmail/GitHub/Slack integrations (Apache-2.0) |
+|| [🎮 Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐38.9k — Turn Claude Code into a full game dev studio: **49 AI agents** (directors, leads, specialists) plus 72 workflow skills that build a game together (MIT; from reel DffJDq9hen-) |
+|| [🔍 craft-anything](https://github.com/storytold/craft-anything) | ⭐31.1k — Let your AI agent inspect any website, app or game, understand how it works, and rebuild your own improved version. Rust (Apache-2.0; from reel DffJDq9hen-) |
+|| [🐭 OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐22.1k — Open-source Grok Bot alternative: team of AI bots in a chat app on your own machine — own API keys/subs, scheduled tasks, computer use, Gmail/GitHub/Slack integrations (Apache-2.0) |
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
 || [🗺️ Trail-Code](https://github.com/trailhq/Trail-Code) | ⭐10.5k — Self-learning context layer for coding agents (Claude Code, Cursor, Codex): code map of every function + team learnings from conversations (from techwith.ram carousel DejgPniCYB-) |
@@ -387,10 +389,11 @@
 | [✨ supersplat](https://github.com/playcanvas/supersplat) | Web-based 3D Gaussian Splatting editor and visualization tool |
 | [🎨 shadcn/ui](https://github.com/shadcn-ui/ui) | Reusable component library built with Radix UI and Tailwind CSS |
 ||| [🎬 Recordly](https://github.com/webadderallorg/Recordly) | ⭐24.5k — Create polished demo videos without editing skills — cursor glide, zoom-on-click, gradient frames, cross-platform |
+|| [🚫 unslop](https://github.com/heydamir/unslop) | ⭐15.5k — A Claude skill that turns vibecoded, AI-looking UI into a designed interface — strips purple gradients and AI-slop patterns. Also a writing variant (theclaymethod/unslop) for de-AI-ing prose (CC-BY-4.0; from reel DffJDq9hen-) |
 || [🎬 OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source web-based video editor and production tool |
 || [✂️ LosslessCut](https://github.com/mifi/lossless-cut) | ⭐42.4k — The Swiss Army knife of lossless video/audio editing — trim without re-encoding |
 || [📥 yt-dlp](https://github.com/yt-dlp/yt-dlp) | ⭐203.9k — Feature-rich command-line audio/video downloader (GitHub #30 all-time, Oct 2026) |
-|| [🎬 OpenMontage](https://github.com/calesthio/OpenMontage) | ⭐70.3k — Open-source agentic video production system: 12 pipelines, 100+ tools, 700+ agent skills turning an AI coding assistant into a full video studio — researcher, writer, designer, voice, sound, editor (from @lumen_arcade reel DeuGsJtBTCC) |
+|| [🎬 OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | ⭐80.2k — Open-source agentic video production system: 12 pipelines, 100+ tools, 700+ agent skills turning an AI coding assistant into a full video studio — researcher, writer, designer, voice, sound, editor (from @lumen_arcade reel DeuGsJtBTCC) |
 || [🎬 Video Search & Summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | NVIDIA blueprints for building GPU-accelerated vision agents |
 ||| [⚛️ react-strict-dom](https://github.com/react/react-strict-dom) | React Strict DOM (RSD) standardizes development of styled React components for web and native |
 || [⚛️ React](https://github.com/facebook/react) | ⭐251.9k — The library for web and native user interfaces (GitHub #22 all-time, Oct 2026) |
@@ -779,6 +782,7 @@
 || [🧬 Keras](https://github.com/keras-team/keras) | ⭐64.2k — High-level deep learning framework (Python) — fast experimentation on top of JAX, TensorFlow, or PyTorch |
 ||| [📊 scikit-learn](https://github.com/scikit-learn/scikit-learn) | ⭐66.9k — Machine learning library for Python — classification, regression, clustering, and model evaluation |
 || [🐟 MiroFish](https://github.com/666ghj/MiroFish) | ⭐80.8k — Simple universal swarm-intelligence optimization engine: fish-school algorithms for prediction/optimization problems, from logistics routing to medical diagnosis (from @lumen_arcade carousel DeexTgFif7T) |
+||| [🌙 Kimi K3](https://github.com/MoonshotAI/Kimi-K3) | ⭐9.1k — Moonshot's official **2.8T-parameter** open-weight native-multimodal agentic model (Kimi Delta Attention + Attention Residuals), **1,000,000-token context**, native text/image/video. World's first open 3T-class model. Note: the reel calls it "K3.1 Pro" — no such repo exists, this is Kimi K3 (from reel DffJDq9hen-) |
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
