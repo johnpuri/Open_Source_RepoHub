@@ -31,8 +31,8 @@ jobs:
       - name: Generate data.json from README
         run: python3 web/parse_hub.py README.md web/data.json
 
-      - name: Remove dev-only harness
-        run: rm -f web/_harness.html
+      - name: Remove dev-only files
+        run: rm -f web/_harness.html web/meta-cache.json
 
       - uses: actions/configure-pages@v5
 

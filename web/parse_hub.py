@@ -5,6 +5,12 @@ import re
 import sys
 from pathlib import Path
 
+HERE = Path(__file__).resolve().parent
+CACHE = HERE / "meta-cache.json"
+
+sys.path.insert(0, str(HERE))
+from enrich import classify  # noqa: E402  (same-dir helper, single source of type rules)
+
 ROW_RE = re.compile(
     r"^\|+\s*\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)\s*\|\s*(?P<desc>.*?)\s*\|?\s*$"
 )
@@ -168,10 +174,37 @@ def parse(readme_path):
 
 
 def main():
-    src = sys.argv[1] if len(sys.argv) > 1 else "README.md"
-    out = sys.argv[2] if len(sys.argv) > 2 else "web/data.json"
+    src = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE.parent / "README.md"
+    dst = Path(sys.argv[2]) if len(sys.argv) > 2 else HERE / "data.json"
+
+    # GitHub metadata cache (written by enrich.py). Merge it back in so a plain
+    # re-parse does not throw away topics/language/type/licence.
+    cache = {}
+    if CACHE.exists():
+        try:
+            cache = json.loads(CACHE.read_text(encoding="utf-8"))
+        except Exception:
+            cache = {}
 
     sections, total = parse(src)
+
+    # Merge cached GitHub metadata into each row
+    if cache:
+        for s in sections:
+            for r in s["repos"]:
+                m = cache.get(r.get("full_name") or "")
+                if not m or m.get("_missing"):
+                    continue
+                r["topics"] = m.get("topics") or []
+                r["language"] = m.get("language")
+                r["licence_live"] = m.get("license")
+                r["archived"] = m.get("archived", False)
+                r["pushed_at"] = m.get("pushed_at")
+                r["type"], r["type_src"] = classify(
+                    m, r["name"], r.get("desc", "")
+                )
+        merged = sum(1 for s in sections for r in s["repos"] if r.get("type_src") not in (None, "none"))
+        print(f"merged meta: {merged}")
 
     # Global rank by stars for the "top" view
     all_repos = [r for s in sections for r in s["repos"]]
@@ -182,13 +215,13 @@ def main():
         r["global_rank"] = i
 
     payload = {
-        "generated_from": src,
+        "generated_from": str(src),
         "total_repos": total,
         "total_sections": len(sections),
         "sections": sections,
     }
 
-    dest = Path(out)
+    dest = dst
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
 

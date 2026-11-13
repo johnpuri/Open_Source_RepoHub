@@ -10,6 +10,8 @@ const state = {
   activeSection: "all",
   query: "",
   // Filters
+  types: new Set(),       // "Agent" | "Skill" | ...
+  languages: new Set(),   // "Python" | ... | "None"
   starTiers: new Set(),   // "100k" | "50k" | "10k" | "1k" | "under1k" | "unknown"
   licences: new Set(),    // canonical licence ids, or "none"
   sort: "default",
@@ -24,6 +26,14 @@ const STAR_TIERS = [
   ["under1k", "< 1k", 0, 1000],
   ["unknown", "No data", null, null],
 ];
+
+/** Effective licence: live GitHub SPDX id beats README prose. */
+function licenceOf(repo) {
+  const live = repo.licence_live;
+  if (live && live !== "NOASSERTION") return live;
+  if (repo.licence) return repo.licence;
+  return "none";
+}
 
 function tierOf(repo) {
   const s = repo.stars;
@@ -52,6 +62,8 @@ const el = {
   themeBtn: $("themeBtn"),
   toTop: $("toTop"),
   footMeta: $("footMeta"),
+  typeChips: $("typeChips"),
+  langChips: $("langChips"),
   starChips: $("starChips"),
   licenceChips: $("licenceChips"),
   sortSelect: $("sortSelect"),
@@ -144,6 +156,16 @@ function filtered() {
     pool = pool.filter((r) => r.section_slug === state.activeSection);
   }
 
+  // Type filter (OR across selected types)
+  if (state.types.size) {
+    pool = pool.filter((r) => state.types.has(r.type || "Other"));
+  }
+
+  // Language filter (OR across selected languages)
+  if (state.languages.size) {
+    pool = pool.filter((r) => state.languages.has(r.language || "None"));
+  }
+
   // Star tier filter (OR across selected tiers)
   if (state.starTiers.size) {
     pool = pool.filter((r) => state.starTiers.has(tierOf(r)));
@@ -151,10 +173,7 @@ function filtered() {
 
   // Licence filter (OR across selected licences)
   if (state.licences.size) {
-    pool = pool.filter((r) => {
-      const key = r.licence || "none";
-      return state.licences.has(key);
-    });
+    pool = pool.filter((r) => state.licences.has(licenceOf(r)));
   }
 
   // Search
@@ -181,9 +200,79 @@ function filtered() {
 }
 
 const hasFilters = () =>
-  state.starTiers.size > 0 || state.licences.size > 0 || state.sort !== "default";
+  state.types.size > 0 ||
+  state.languages.size > 0 ||
+  state.starTiers.size > 0 ||
+  state.licences.size > 0 ||
+  state.sort !== "default";
 
 /* ---------- filter chips ---------- */
+
+/** Generic multi-select chip group. */
+function renderChipGroup(container, entries, selected, key) {
+  container.innerHTML = "";
+  for (const [value, label, count] of entries) {
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.type = "button";
+    b.dataset[key] = value;
+    b.setAttribute("aria-pressed", selected.has(value) ? "true" : "false");
+    b.innerHTML = `${esc(label)}<span class="chip-n">${count}</span>`;
+    b.addEventListener("click", () => {
+      if (selected.has(value)) selected.delete(value);
+      else selected.add(value);
+      syncFilterUI();
+      render();
+    });
+    container.appendChild(b);
+  }
+}
+
+const TYPE_ORDER = [
+  "Agent", "Skill", "MCP Server", "Framework", "Model", "App",
+  "CLI / TUI", "Desktop App", "Web App", "Runtime / Toolchain",
+  "Infra / Network", "Bot", "Browser Ext", "Docs / Guide", "Awesome List", "Other",
+];
+
+function buildTypeChips(pool) {
+  const counts = new Map();
+  for (const r of pool) {
+    const t = r.type || "Other";
+    counts.set(t, (counts.get(t) || 0) + 1);
+  }
+  // A selected chip must survive a section switch even if this section has none,
+  // otherwise the filter is active but invisible and can't be un-clicked.
+  for (const t of state.types) if (!counts.has(t)) counts.set(t, 0);
+  const entries = [...counts.entries()]
+    .sort((a, b) => {
+      const ia = TYPE_ORDER.indexOf(a[0]);
+      const ib = TYPE_ORDER.indexOf(b[0]);
+      return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+    })
+    .map(([t, n]) => [t, t, n]);
+  renderChipGroup(el.typeChips, entries, state.types, "type");
+}
+
+function buildLangChips(pool) {
+  const counts = new Map();
+  for (const r of pool) {
+    const l = r.language || "None";
+    counts.set(l, (counts.get(l) || 0) + 1);
+  }
+  for (const l of state.languages) if (!counts.has(l)) counts.set(l, 0);
+
+  const entries = [...counts.entries()]
+    .sort((a, b) => {
+      // Always list selected languages first so they stay reachable
+      const sa = state.languages.has(a[0]) ? 1 : 0;
+      const sb = state.languages.has(b[0]) ? 1 : 0;
+      if (sa !== sb) return sb - sa;
+      return b[1] - a[1];
+    })
+    .slice(0, 14)
+    .map(([l, n]) => [l, l, n]);
+  renderChipGroup(el.langChips, entries, state.languages, "language");
+}
 
 function buildChips() {
   // Star tiers: count how many repos fall in each, over the current section
@@ -198,10 +287,15 @@ function buildChips() {
     tierCounts.set(t, (tierCounts.get(t) || 0) + 1);
   }
 
+  buildTypeChips(sectionPool);
+  buildLangChips(sectionPool);
+
   el.starChips.innerHTML = "";
   for (const [id, label] of STAR_TIERS) {
     const n = tierCounts.get(id) || 0;
-    if (!n) continue; // don't show a chip that can never match
+    // Skip chips that can never match — unless the user has it selected, in
+    // which case hiding it would strand an active, invisible filter.
+    if (!n && !state.starTiers.has(id)) continue;
     const b = document.createElement("button");
     b.className = "chip";
     b.type = "button";
@@ -220,7 +314,7 @@ function buildChips() {
   // Licences: only ones that actually occur
   const licCounts = new Map();
   for (const r of state.repos) {
-    const k = r.licence || "none";
+    const k = licenceOf(r);
     licCounts.set(k, (licCounts.get(k) || 0) + 1);
   }
   const ordered = [...licCounts.entries()]
@@ -265,6 +359,12 @@ function buildChips() {
 
 /** Reflect state into chip pressed states, badge, reset button, pills. */
 function syncFilterUI() {
+  for (const b of el.typeChips.querySelectorAll(".chip")) {
+    b.setAttribute("aria-pressed", state.types.has(b.dataset.type) ? "true" : "false");
+  }
+  for (const b of el.langChips.querySelectorAll(".chip")) {
+    b.setAttribute("aria-pressed", state.languages.has(b.dataset.language) ? "true" : "false");
+  }
   for (const b of el.starChips.querySelectorAll(".chip")) {
     b.setAttribute(
       "aria-pressed",
@@ -282,7 +382,7 @@ function syncFilterUI() {
   const active = hasFilters();
   el.resetFilters.hidden = !active;
 
-  const total = state.starTiers.size + state.licences.size;
+  const total = state.types.size + state.languages.size + state.starTiers.size + state.licences.size;
   el.filterBadge.hidden = total === 0;
   el.filterBadge.textContent = total;
 
@@ -295,6 +395,20 @@ function syncFilterUI() {
     p.querySelector("button").addEventListener("click", onRemove);
     el.activeFilters.appendChild(p);
   };
+  for (const t of state.types) {
+    addPill(`Type: ${t}`, () => {
+      state.types.delete(t);
+      syncFilterUI();
+      render();
+    });
+  }
+  for (const l of state.languages) {
+    addPill(l === "None" ? "Lang: none" : l, () => {
+      state.languages.delete(l);
+      syncFilterUI();
+      render();
+    });
+  }
   for (const id of state.starTiers) {
     const t = STAR_TIERS.find((x) => x[0] === id);
     addPill(`★ ${t ? t[1] : id}`, () => {
@@ -321,6 +435,8 @@ function syncFilterUI() {
 }
 
 function resetAllFilters() {
+  state.types.clear();
+  state.languages.clear();
   state.starTiers.clear();
   state.licences.clear();
   state.sort = "default";

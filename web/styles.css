@@ -533,12 +533,19 @@ html[data-theme="dark"] .sort-select option { background: var(--surface); color:
     top: var(--topbar-h);
     z-index: 20;
     margin: 0 -32px 16px;
-    padding: 10px 32px;
+    padding: 8px 32px;
     background: color-mix(in srgb, var(--bg) 92%, transparent);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--border);
   }
+  /* Five chip groups + sort is a lot of width: allow two tidy rows */
+  .filter-groups {
+    gap: 8px 16px;
+  }
+  .filter-group { gap: 6px; }
+  .chip { padding: 4px 9px; font-size: .76rem; }
+  .filter-label { font-size: .68rem; }
 }
 
 /* ---------------- Repo list: mobile = cards ---------------- */
