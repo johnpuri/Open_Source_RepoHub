@@ -110,7 +110,8 @@
 | [🧩 FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | ⭐4.3k — Apodex agent framework (from reel DdjRMHHhhUx): native CLI TUI, ReAct + Agent Team modes, up to 150 parallel agents for deep research, Apache-2.0 |
 | [🧠 RAG-Anything](https://github.com/HKUDS/RAG-Anything) | All-in-One multimodal RAG framework for complex retrieval |
 | [🦌 DeerFlow](https://github.com/bytedance/deer-flow) | Deep Exploration and Efficient Research Flow for long-horizon tasks |
-| [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | Self-improving agent with cross-session memory and skill creation |
+| [🧬 Hermes Agent](https://github.com/NousResearch/hermes-agent) | ⭐263.2k — The agent that grows with you: self-improving agent with cross-session memory, skill creation, 185+ on-demand tools, cron/scheduling, multi-platform (Telegram/Discord), plugin system. MIT, Python (GitHub top-30 all-time; from reel DfE2G9jxqFH) |
+|| [📚 awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | ⭐6.0k — Independent curated directory of Hermes Agent skills, plugins, memory providers and tools — the place to browse before writing your own (from reel DfE2G9jxqFH) |
 | [🦞 OpenClaw](https://github.com/openclaw/openclaw) | ⭐393.1k — The AI that really does things. Any OS, any platform (GitHub #6 all-time, Oct 2026) |
 | [🚢 rowboat](https://github.com/rowboatlabs/rowboat) | Local-first AI coworker that builds a personal knowledge graph |
 | [🧠 claude-mem](https://github.com/thedotmack/claude-mem) | Persistent memory plugin for Claude Code sessions |
