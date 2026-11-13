@@ -373,6 +373,7 @@
 | Project | Description |
 ------|
 | [🎬 Maestro](https://github.com/Blizaine/Maestro) | ⭐569 — Local AI video, image, and music studio. Director Mode plans scenes, shots, and visuals end-to-end from a prompt or track (via Pinokio) |
+| [🎨 ai-design-skills](https://github.com/elayadesign/ai-design-skills) | ⭐15.5k — Design skills for AI coding tools (Claude Code, Cursor, Codex, Windsurf): **landing-page-design** (intake questions, page structure, conversion copy + full visual system for type/spacing/radius/motion) and **figma-designer** (real Figma structure — variables, named text styles, auto layout, components with every state). Install via `npx skills add elayadesign/ai-design-skills`. MIT; sibling repo `redesign-skill` for upgrading existing sites (from reel DfYJGHxKsL2) |
 | [🎨 Open Design](https://github.com/nexu-io/open-design) | Local-first design workflow for creating prototypes with AI |
 | [🎨 Portfolio Website](https://github.com/MoncyDev/Portfolio-Website) | Clean and modern developer portfolio template |
 | [🎨 design-extract](https://github.com/Manavarya09/design-extract) | Tool for extracting design assets and data from UI mockups |
