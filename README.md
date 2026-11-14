@@ -571,6 +571,11 @@
 | [💬 Lobe Chat](https://github.com/lobehub/lobe-chat) | ⭐82k — Modern AI chat framework — supports multi-model (OpenAI, Claude, Ollama), plugins, knowledge base, self-hosted |
 || [💬 LibreChat](https://github.com/danny-avila/LibreChat) | ⭐44.3k — Enhanced ChatGPT clone supporting agents, MCP, multi-model switching, artifacts, secure auth, and full self-hosting |
 || [🦾 Herald OS](https://github.com/iamlukethedev/Herald-OS) | ⭐238 — Agent-native operating system with Hermes Agent as the interface: opens with "Good morning" + your day, talk to it out loud like Jarvis, hand it missions it plans step by step, every state-changing action goes through a permission system you control; independent project (not Nous Research), MIT, alpha 0.1 — Hermes needs a model provider (from reel DeOjGD5jApL) |
+| [🔊 hermes-voice](https://github.com/majorminorlabs/hermes-voice) | ⭐698 — Talk to a Hermes Agent profile through Home Assistant Assist — turn an old Amazon Echo into a Hermes speaker (MIT, Python) (from post DfZxxYxFRcn) |
+| [📱 HermiVoiceApp](https://github.com/virse/HermiVoiceApp) | ⭐3 — Native Kotlin Android app (sideload) for voice-controlling Hermes and OpenAI-compatible cloud models: hold, speak, on-device STT, then send (Apache-2.0) (from post DfZxxYxFRcn) |
+| [🖥️ cindl](https://github.com/FlintSH/cindl) | ⭐2 — Cross-device home (web, desktop, Android) for a self-hosted Hermes agent — chat and tap approve when it asks to do something (MIT, TypeScript) (from post DfZxxYxFRcn) |
+| [👨‍👩‍👧 household-tiers](https://github.com/chevlume/household-tiers) | ⭐3 — Per-user tool tiers for Hermes Agent households: one shared bot, different permissions per family member, plus curfews and limits for kids (MIT, Python) (from post DfZxxYxFRcn) |
+| [🖨️ printwatch](https://github.com/clawsyndicate/printwatch) | ⭐3 — Hermes Agent plugin: control 3D printers over LAN — Anycubic Kobra (stock LAN Mode, clean-room protocol) + Klipper/Moonraker, no cloud or rooting (Python) (from post DfZxxYxFRcn) |
 
 ---
 
