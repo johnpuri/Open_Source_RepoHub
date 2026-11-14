@@ -250,6 +250,7 @@
 || [🔍 REA](https://github.com/morluto/rea) | ⭐390.4k — Reverse engineer anything with agents, from app behavior down to native binaries (from syntaix.ai post DehfepDkqmj + typeshokk carousel De4tylLE-ky) |
 || [🛠️ skills](https://github.com/VictorMccormick/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
 || [💻 OpenClaude](https://github.com/sutrambe/openclaude) | ⭐33.9k — Claude Code-style agentic workflow on any model, including local ones — runs anywhere, uses anything (from lindsay.ai reel DejR-hTDDA8) |
+||| [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) | ⭐1.2k — A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval (MIT) |
 
 ---
 
@@ -363,6 +364,8 @@
 || [📑 Tabby](https://github.com/TabbyML/tabby) | ⭐33.9k — Self-hosted AI coding assistant (from carousel DeCkVcSCbrH) |
 || [🔩 chisel](https://github.com/HikmetBisen/chisel) | Text-to-CAD — describe a part in one sentence, Claude writes CADQuery and the OpenCascade kernel verifies it; printable/CNC/sheet-metal files (MIT, from post DeWwPtmDvqV) |
 || [🎓 ECC](https://github.com/hayden-ECC) | ⭐280.2k — Agent harness performance optimization system: skills, instincts, memory, security (billed as complete CS curriculum in syntaix.ai post DehfepDkqmj; live description differs) |
+||| [t3code](https://github.com/pingdotgg/t3code) | ⭐60.0k — The best way to control Claude Code, Codex and more from any computer or phone (MIT) |
+||| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | ⭐12.2k — Keep your coding agent up to date with the latest web best practices (Apache-2.0) |
 
 ---
 
@@ -535,6 +538,7 @@
 | [⚡ jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | ⭐11.1k — Browser agent with dynamic, indexed action space driven by TypeSafe Jev; sub-second decisions without screenshots or coordinate clicks (from reel DdgnSJECUE3) |
 | [🏰 fortress](https://github.com/tiliondev/fortress) | Stealth Chromium engine — fingerprint fixes in C++ so scrapers/agents read as human, one-line CDP switch from Playwright/Puppeteer (from reel DdMgKczjl3g) |
 | [🧠 laya](https://github.com/NandhaKishorM/laya) | ⭐5.0k — Open-source local System 1 decision model (421M params, ~1GB RAM, 86.5 decisions/sec, P50 ~9ms, Apache-2.0) — typed agent decisions in one forward pass, no network (from reel Ddh509zOSrT) |
+||| [FluentRead](https://github.com/FluentRead/FluentRead) | ⭐10.8k — Open-source browser extension for bilingual translation (English/Chinese) — 开源浏览器双语翻译插件 (GPL-3.0) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -576,6 +580,7 @@
 | [🖥️ cindl](https://github.com/FlintSH/cindl) | ⭐2 — Cross-device home (web, desktop, Android) for a self-hosted Hermes agent — chat and tap approve when it asks to do something (MIT, TypeScript) (from post DfZxxYxFRcn) |
 | [👨‍👩‍👧 household-tiers](https://github.com/chevlume/household-tiers) | ⭐3 — Per-user tool tiers for Hermes Agent households: one shared bot, different permissions per family member, plus curfews and limits for kids (MIT, Python) (from post DfZxxYxFRcn) |
 | [🖨️ printwatch](https://github.com/clawsyndicate/printwatch) | ⭐3 — Hermes Agent plugin: control 3D printers over LAN — Anycubic Kobra (stock LAN Mode, clean-room protocol) + Klipper/Moonraker, no cloud or rooting (Python) (from post DfZxxYxFRcn) |
+||| [hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | ⭐707 — Official plugin set for Hermes Agent from Nous Research (MIT) |
 
 ---
 
@@ -686,7 +691,8 @@
 || [📥 OpenInbox](https://github.com/sums001/OpenInbox) | ⭐132 — Free unlimited business email on your own domains, running entirely in your free Cloudflare account — no per-user fee (MIT) |
 || [📮 IRIS](https://github.com/Urdemonlord/irisproject) | ⭐40 — Self-hosted webmail in **one 13 MB Rust binary** (~12 MB RAM, single process, no Docker, no Cloudflare account): permanent mailboxes with server-side search/compose/attachments/DMARC previews, anonymous 1-hour temp inbox, transactional email API, HTML mail sandboxed on a separate origin behind one-time tokens; Apache-2.0 (from reel DfX1VV0jPyB) |
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
-||| [📥 omniget](https://github.com/igect/omniget) | Free open-source desktop downloader for courses, YouTube, music & 1,800+ sites, no terminal (GPL-3.0) |
+||| [📥 libreget](https://github.com/OpenSelena/libreget) | ⭐6.1k — Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Tauri 2.0 + Rust + Svelte (GPL-3.0). *Renamed from `igect/omniget`* |
+||| [HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐1.8k — Enable Hermès Watch Faces on any Apple Watch device — unrelated to Nous Hermes Agent (MIT) |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
 || [🧹 Burrow (Mole-GUI)](https://github.com/khan-umirzakoff/Mole-GUI) | ⭐64 — Free open-source Mac cleaner: native SwiftUI app over the Mole CLI engine — clean caches, uninstall apps with leftovers, disk map, health score. CleanMyMac alternative ($19 vs free); safety checks/Trash-first deletes inherited from Mole; Touch ID for sudo. **Requires macOS 26+ on Apple silicon**, ad-hoc signed so two Gatekeeper dialogs (or `xattr -dr com.apple.quarantine`); GPL-3.0 (from reel DfNmNrpgNMs) |
@@ -742,6 +748,7 @@
 || [🔧 coraza](https://github.com/corazawaf/coraza) | OWASP Coraza WAF is a golang modsecurity compatible web application firewall library |
 ||| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
 |||| [🔐 authentik](https://github.com/goauthentik/authentik) | ⭐23.8k — Self-hosted identity provider: one account for all apps, SAML/OAuth2/LDAP, Okta alternative; free core + enterprise add-ons (MPL-2.0) |
+||| [aws-emulator](https://github.com/aws/aws-emulator) | ⭐7.6k — AWS Emulator — local emulator of the AWS APIs, run your AWS workflows offline (CC0-1.0) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
@@ -791,6 +798,8 @@
 || [🐟 MiroFish](https://github.com/666ghj/MiroFish) | ⭐80.8k — Simple universal swarm-intelligence optimization engine: fish-school algorithms for prediction/optimization problems, from logistics routing to medical diagnosis (from @lumen_arcade carousel DeexTgFif7T) |
 ||| [🌙 Kimi K3](https://github.com/MoonshotAI/Kimi-K3) | ⭐9.1k — Moonshot's official **2.8T-parameter** open-weight native-multimodal agentic model (Kimi Delta Attention + Attention Residuals), **1,000,000-token context**, native text/image/video. World's first open 3T-class model. Note: the reel calls it "K3.1 Pro" — no such repo exists, this is Kimi K3 (from reel DffJDq9hen-) |
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
+||| [kokon](https://github.com/GabrieleLozupone/kokon) | ⭐401 — Edit photos by describing the change, on your own GPU — free open-source alternative to Nano Banana and ChatGPT image editing, no daily limits, photos never leave your machine (AGPL-3.0) |
+||| [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | ⭐1.8k — Advanced Windows video player and capture enhancement tool with real-time preview for videos, images and capture-card sources (GPL-3.0) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
