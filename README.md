@@ -251,6 +251,7 @@
 || [🛠️ skills](https://github.com/VictorMccormick/skills) | ⭐292.6k — Skills for Real Engineers, straight from the author's .agents directory (from syntaix.ai post DehfepDkqmj) |
 || [💻 OpenClaude](https://github.com/sutrambe/openclaude) | ⭐33.9k — Claude Code-style agentic workflow on any model, including local ones — runs anywhere, uses anything (from lindsay.ai reel DejR-hTDDA8) |
 ||| [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) | ⭐1.2k — A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval (MIT) |
+||| [jev-seo](https://github.com/AgriciDaniel/jev-seo) | ⭐841 — Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. (MIT) |
 
 ---
 
@@ -473,6 +474,8 @@
 || [⚡ LitServe](https://github.com/Lightning-AI/LitServe) | ⭐4.0k — Turn AI models into production APIs with batching and scaling; hosted AI processing API (Apache-2.0; from @syntaix.ai post DfHtl2MiQg1) |
 || [🚀 next-forge](https://github.com/vercel/next-forge) | ⭐7.7k — Complete Next.js SaaS starter: auth, Stripe, DB, email, analytics; micro-SaaS foundation (MIT; from @syntaix.ai post DfHtl2MiQg1) |
 || [🧩 puck](https://github.com/puckeditor/puck) | ⭐13.6k — Visual drag-and-drop editor for React; niche website builder SaaS (MIT; from @syntaix.ai post DfHtl2MiQg1) |
+||| [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐5.2k — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. (MIT) |
+||| [misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | ⭐10.0k — misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux (GPL-3.0) |
 
 ---
 
@@ -802,6 +805,7 @@
 ||| [⚡ Kimi K3 in C](https://github.com/FareedKhan-dev/kimi-k3-in-c) | ⭐2.4k — 2.78T-param Kimi K3 inference in portable C99, no BLAS/GPU — disk-streams 4-bit MoE experts from NVMe, runs in 8.24 GB RAM (Apache-2.0). Builds clean + weightless oracle tests pass |
 ||| [kokon](https://github.com/GabrieleLozupone/kokon) | ⭐401 — Edit photos by describing the change, on your own GPU — free open-source alternative to Nano Banana and ChatGPT image editing, no daily limits, photos never leave your machine (AGPL-3.0) |
 ||| [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | ⭐1.8k — Advanced Windows video player and capture enhancement tool with real-time preview for videos, images and capture-card sources (GPL-3.0) |
+||| [Infradeck](https://github.com/karlo-ks/Infradeck) | ⭐79 — Self-hosted monitoring for homelabs: host and container metrics and uptime checks from all your machines in one dashboard, with an optional AI agent that diagnoses incidents and suggests fixes. (AGPL-3.0) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
