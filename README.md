@@ -544,6 +544,8 @@
 | [🏰 fortress](https://github.com/tiliondev/fortress) | Stealth Chromium engine — fingerprint fixes in C++ so scrapers/agents read as human, one-line CDP switch from Playwright/Puppeteer (from reel DdMgKczjl3g) |
 | [🧠 laya](https://github.com/NandhaKishorM/laya) | ⭐5.0k — Open-source local System 1 decision model (421M params, ~1GB RAM, 86.5 decisions/sec, P50 ~9ms, Apache-2.0) — typed agent decisions in one forward pass, no network (from reel Ddh509zOSrT) |
 ||| [FluentRead](https://github.com/FluentRead/FluentRead) | ⭐10.8k — Open-source browser extension for bilingual translation (English/Chinese) — 开源浏览器双语翻译插件 (GPL-3.0) |
+||| [agentes-chat](https://github.com/agentes-chat/agentes-chat) | ⭐1.6k — Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and  (AGPL-3.0) |
+||| [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | ⭐454 — Can AI agents rebuild websites through browser exploration? (Apache-2.0) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -806,6 +808,8 @@
 ||| [kokon](https://github.com/GabrieleLozupone/kokon) | ⭐401 — Edit photos by describing the change, on your own GPU — free open-source alternative to Nano Banana and ChatGPT image editing, no daily limits, photos never leave your machine (AGPL-3.0) |
 ||| [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | ⭐1.8k — Advanced Windows video player and capture enhancement tool with real-time preview for videos, images and capture-card sources (GPL-3.0) |
 ||| [Infradeck](https://github.com/karlo-ks/Infradeck) | ⭐79 — Self-hosted monitoring for homelabs: host and container metrics and uptime checks from all your machines in one dashboard, with an optional AI agent that diagnoses incidents and suggests fixes. (AGPL-3.0) |
+||| [textfold](https://github.com/chenxiachan/textfold) | ⭐1.2k — Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text. (Apache-2.0) |
+||| [trnrt](https://github.com/RunanywhereAI/trnrt) | ⭐1.6k — The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. (Apache-2.0) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
