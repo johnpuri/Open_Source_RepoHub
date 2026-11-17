@@ -591,6 +591,7 @@
 | [👨‍👩‍👧 household-tiers](https://github.com/chevlume/household-tiers) | ⭐3 — Per-user tool tiers for Hermes Agent households: one shared bot, different permissions per family member, plus curfews and limits for kids (MIT, Python) (from post DfZxxYxFRcn) |
 | [🖨️ printwatch](https://github.com/clawsyndicate/printwatch) | ⭐3 — Hermes Agent plugin: control 3D printers over LAN — Anycubic Kobra (stock LAN Mode, clean-room protocol) + Klipper/Moonraker, no cloud or rooting (Python) (from post DfZxxYxFRcn) |
 ||| [hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | ⭐707 — Official plugin set for Hermes Agent from Nous Research (MIT) |
+||| [📞 agentring](https://github.com/mutonby/agentring) | ⭐449 — Let your AI agents **call your phone** over VoIP and call them back: rings like a real call even locked/Doze, a voice AI explains what happened, you talk it through, the agent gets the transcript and carries on. Missed call becomes a message. Self-hosted, **no phone numbers and no Twilio** (VoIP to their app, Android 8+); hosted free tier = 1 phone / 10 voice minutes a month. Works via MCP with Claude Code, Codex, opencode, OpenClaw, Hermes. Apache-2.0, Python (from reel DfUqZ1ChjH1) |
 
 ---
 
