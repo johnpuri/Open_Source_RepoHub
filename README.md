@@ -252,6 +252,8 @@
 || [💻 OpenClaude](https://github.com/sutrambe/openclaude) | ⭐33.9k — Claude Code-style agentic workflow on any model, including local ones — runs anywhere, uses anything (from lindsay.ai reel DejR-hTDDA8) |
 ||| [SAG-Wiki](https://github.com/Zleap-AI/SAG-Wiki) | ⭐1.2k — A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval (MIT) |
 ||| [jev-seo](https://github.com/AgriciDaniel/jev-seo) | ⭐841 — Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. (MIT) |
+||| [GestaltX](https://github.com/huamidev/GestaltX) | ⭐8.0k — An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. (GPL-3.0) |
+||| [youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) | ⭐2.4k — Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload (MIT) |
 
 ---
 
@@ -476,6 +478,7 @@
 || [🧩 puck](https://github.com/puckeditor/puck) | ⭐13.6k — Visual drag-and-drop editor for React; niche website builder SaaS (MIT; from @syntaix.ai post DfHtl2MiQg1) |
 ||| [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐5.2k — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. (MIT) |
 ||| [misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | ⭐10.0k — misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux (GPL-3.0) |
+||| [exact](https://github.com/expo/exact) | ⭐4.5k — Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them. (MIT) |
 
 ---
 
@@ -756,6 +759,7 @@
 ||| [🐧 dory](https://github.com/augani/dory) | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Un... |
 |||| [🔐 authentik](https://github.com/goauthentik/authentik) | ⭐23.8k — Self-hosted identity provider: one account for all apps, SAML/OAuth2/LDAP, Okta alternative; free core + enterprise add-ons (MPL-2.0) |
 ||| [aws-emulator](https://github.com/aws/aws-emulator) | ⭐7.6k — AWS Emulator — local emulator of the AWS APIs, run your AWS workflows offline (CC0-1.0) |
+||| [kiri](https://github.com/libracoder/kiri) | ⭐9.7k — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (Apache-2.0) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
