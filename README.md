@@ -254,6 +254,7 @@
 ||| [jev-seo](https://github.com/AgriciDaniel/jev-seo) | ⭐841 — Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. (MIT) |
 ||| [GestaltX](https://github.com/huamidev/GestaltX) | ⭐8.0k — An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. (GPL-3.0) |
 ||| [youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) | ⭐2.4k — Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload (MIT) |
+||| [sherlock](https://github.com/sherlock-project/sherlock) | ⭐114.0k — Hunt down social media accounts by username across social networks (MIT) |
 
 ---
 
@@ -549,6 +550,7 @@
 ||| [FluentRead](https://github.com/FluentRead/FluentRead) | ⭐10.8k — Open-source browser extension for bilingual translation (English/Chinese) — 开源浏览器双语翻译插件 (GPL-3.0) |
 ||| [agentes-chat](https://github.com/agentes-chat/agentes-chat) | ⭐1.6k — Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and  (AGPL-3.0) |
 ||| [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | ⭐454 — Can AI agents rebuild websites through browser exploration? (Apache-2.0) |
+||| [rescript](https://github.com/wassgha/rescript) | ⭐1.1k — 🎬 Open source, transcript-based video/audio editor that lives in the browser. |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -761,6 +763,7 @@
 |||| [🔐 authentik](https://github.com/goauthentik/authentik) | ⭐23.8k — Self-hosted identity provider: one account for all apps, SAML/OAuth2/LDAP, Okta alternative; free core + enterprise add-ons (MPL-2.0) |
 ||| [aws-emulator](https://github.com/aws/aws-emulator) | ⭐7.6k — AWS Emulator — local emulator of the AWS APIs, run your AWS workflows offline (CC0-1.0) |
 ||| [kiri](https://github.com/libracoder/kiri) | ⭐9.7k — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (Apache-2.0) |
+||| [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | ⭐10.5k — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi (MIT) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
@@ -815,6 +818,7 @@
 ||| [Infradeck](https://github.com/karlo-ks/Infradeck) | ⭐79 — Self-hosted monitoring for homelabs: host and container metrics and uptime checks from all your machines in one dashboard, with an optional AI agent that diagnoses incidents and suggests fixes. (AGPL-3.0) |
 ||| [textfold](https://github.com/chenxiachan/textfold) | ⭐1.2k — Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text. (Apache-2.0) |
 ||| [trnrt](https://github.com/RunanywhereAI/trnrt) | ⭐1.6k — The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. (Apache-2.0) |
+||| [bla](https://github.com/qybaihe/bla) | ⭐6.1k — 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI rev (MIT) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
