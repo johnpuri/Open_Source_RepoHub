@@ -255,6 +255,7 @@
 ||| [GestaltX](https://github.com/huamidev/GestaltX) | ⭐8.0k — An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. (GPL-3.0) |
 ||| [youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) | ⭐2.4k — Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload (MIT) |
 ||| [sherlock](https://github.com/sherlock-project/sherlock) | ⭐114.0k — Hunt down social media accounts by username across social networks (MIT) |
+||| [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | ⭐8.4k — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) / Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes (GPL-3.0) |
 
 ---
 
@@ -480,6 +481,8 @@
 ||| [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | ⭐5.2k — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. (MIT) |
 ||| [misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | ⭐10.0k — misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux (GPL-3.0) |
 ||| [exact](https://github.com/expo/exact) | ⭐4.5k — Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them. (MIT) |
+||| [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐20.6k — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (MIT) |
+||| [Camlo](https://github.com/Kianuni/Camlo) | ⭐219 — Camlo · 开幕 — Bring your iPhone Lock Screen to life: 1-tap slide-to-unlock morphs, 3D depth & motion wallpapers, no PC/jailbreak (iOS / iPhone Duo 26–27)｜让锁屏活起来：免电脑一键直写上滑变身、裸眼 3D 与动态锁屏 (GPL-3.0) |
 
 ---
 
@@ -551,6 +554,8 @@
 ||| [agentes-chat](https://github.com/agentes-chat/agentes-chat) | ⭐1.6k — Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and  (AGPL-3.0) |
 ||| [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | ⭐454 — Can AI agents rebuild websites through browser exploration? (Apache-2.0) |
 ||| [rescript](https://github.com/wassgha/rescript) | ⭐1.1k — 🎬 Open source, transcript-based video/audio editor that lives in the browser. |
+||| [qr-snip](https://github.com/IsaacJoel06/qr-snip) | ⭐92 — A fast, lightweight, privacy-focused browser Extension (Manifest V3) that scans any QR code visible on your screen or inside images, with built-in security screening and zero external network calls. W (MIT) |
+||| [antigravity-plugin-context-mode](https://github.com/Domush/antigravity-plugin-context-mode) | ⭐77 — Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
