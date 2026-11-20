@@ -258,6 +258,7 @@
 ||| [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | ⭐8.4k — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) / Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes (GPL-3.0) |
 ||| [gtavi-claudecode](https://github.com/Vivian1987/gtavi-claudecode) | ⭐24 —  (MIT) |
 ||| [Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ⭐5.0k — Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa (GPL-3.0) |
+||| [🐘 elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐21.6k — Google plugin for collaborating with AI agents on software design and code reviews from the earliest stages (Apache-2.0) (from carousel Df934_WH2mt)
 
 ---
 
@@ -371,8 +372,8 @@
 || [📑 Tabby](https://github.com/TabbyML/tabby) | ⭐33.9k — Self-hosted AI coding assistant (from carousel DeCkVcSCbrH) |
 || [🔩 chisel](https://github.com/HikmetBisen/chisel) | Text-to-CAD — describe a part in one sentence, Claude writes CADQuery and the OpenCascade kernel verifies it; printable/CNC/sheet-metal files (MIT, from post DeWwPtmDvqV) |
 || [🎓 ECC](https://github.com/hayden-ECC) | ⭐280.2k — Agent harness performance optimization system: skills, instincts, memory, security (billed as complete CS curriculum in syntaix.ai post DehfepDkqmj; live description differs) |
-||| [t3code](https://github.com/pingdotgg/t3code) | ⭐60.0k — The best way to control Claude Code, Codex and more from any computer or phone (MIT) |
-||| [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | ⭐12.2k — Keep your coding agent up to date with the latest web best practices (Apache-2.0) |
+||| [t3code](https://github.com/pingdotgg/t3code) | ⭐67.4k — The best way to control Claude Code, Codex and more from any computer or phone (MIT) (from carousel Df934_WH2mt) |
+||| [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | ⭐9.5k — Keep your coding agent up to date with the latest web best practices; renamed from modern-web-guidance (⭐23.8k) (Apache-2.0) |
 
 ---
 
@@ -413,7 +414,7 @@
 || [💙 Flutter](https://github.com/flutter/flutter) | ⭐180.4k — Build beautiful native-compiled apps for mobile, web, desktop from one codebase (GitHub #47 all-time, Oct 2026) |
 || [🅱️ Bootstrap](https://github.com/twbs/bootstrap) | ⭐175k — The classic HTML/CSS/JS framework for responsive sites (GitHub #50 all-time, Oct 2026) |
 || [🎬 Remotion](https://github.com/remotion-dev/remotion) | Make videos programmatically with React — perfect for AI-generated video content |
-|| [🎨 Astryx](https://github.com/facebook/astryx) | Meta's internal design system open-sourced — 150+ customizable components for agent-ready UIs |
+|| [🎨 Astryx](https://github.com/meta/astryx) | ⭐31.3k — Meta's open-source, agent-ready design system — 150+ customizable components (MIT) (from carousel Df934_WH2mt) |
 || [🏗️ system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
 || [📚 free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐400.2k — Freely available programming books (GitHub #5 all-time, Oct 2026) |
 || [🗺️ developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ⭐370.5k — Interactive roadmaps, guides and educational content for developers (GitHub #9 all-time, Oct 2026) |
@@ -557,7 +558,9 @@
 ||| [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | ⭐454 — Can AI agents rebuild websites through browser exploration? (Apache-2.0) |
 ||| [rescript](https://github.com/wassgha/rescript) | ⭐1.1k — 🎬 Open source, transcript-based video/audio editor that lives in the browser. |
 ||| [qr-snip](https://github.com/IsaacJoel06/qr-snip) | ⭐92 — A fast, lightweight, privacy-focused browser Extension (Manifest V3) that scans any QR code visible on your screen or inside images, with built-in security screening and zero external network calls. W (MIT) |
-||| [antigravity-plugin-context-mode](https://github.com/Domush/antigravity-plugin-context-mode) | ⭐77 — Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
+||| [antigravity-plugin-context-mode](https://github.com/Domush/antigravity-plugin-context-mode) | ⭐77 — Reduce context size by 90%+ *and* make your agent smart
+||| [🖥️ agent-desktop](https://github.com/vercel-labs/agent-desktop) | ⭐25.7k — Computer-use CLI letting AI agents control desktop apps by clicking, typing and interacting (Apache-2.0) (from carousel Df934_WH2mt)
+||| [🌐 agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐53.0k — Browser automation CLI for AI agents — navigate sites, interact with pages, fill forms (Apache-2.0) (from carousel Df934_WH2mt)er. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -663,7 +666,7 @@
 | [🛸 antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Collection of creative AI skills and prompts |
 || [📈 Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Your personal AI-powered trading agent for automated market analysis and decision support |
 || [🤖 andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pi... |
-|| [🔧 daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source m... |
+|| [🔧 daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | ⭐73.5k — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source m... |
 || [🔧 generals-mac-ios-ipad](https://github.com/ammaarreshi/generals-mac-ios-ipad) | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via G... |
 || [🔧 simqn](https://github.com/qnlab-ustc/simqn) | A network-layer simulator for the quantum network investigation |
 
@@ -804,7 +807,7 @@
 || [MailAccess](https://github.com/KatrielMoses/MailAccess) | ⭐677 — Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess |
 || [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | ⭐2.2k — OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more. |
 || [🕵️ flowsint](https://github.com/reconurge/flowsint) | ⭐8.8k — Modern visual graph-based OSINT investigation, reconnaissance, and intelligence analysis platform |
-| [🛡️ security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⭐22k — Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (MIT, from bestapps.ai post Ddtin7OjDg_) |
+| [🛡️ security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⭐76.2k — Cloudflare's coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (MIT, from bestapps.ai post Ddtin7OjDg_) | (from carousel Df934_WH2mt)
 ---
 
 ## 🧠 ML Models & Training
@@ -849,6 +852,7 @@
 || [🧠 MiniMind](https://github.com/jingyaogong/minimind) | ⭐62.8k — Train a 64M-parameter LLM from scratch in 2h — lightweight learn-how-LLMs-are-built project (from @lindsay.ai reel Dd1XUPNDlgO) |
 || [⚡ Laya MLX](https://github.com/mizorewww/laya-mlx) | ⭐6.6k — Open-weight decision model for Apple Silicon — routes requests like refunds to billing in ~13ms, one pip install, no cloud (from reel Dd1F7meCvdk) |
 || [🔬 LangWatch](https://github.com/langwatch/langwatch) | ⭐4.9k — Open-source LLM agent observability & evals — trace, test, and evaluate agents; Apache-2.0 (from reel/p Dd7ykrhDr9b) |
+| [🔗 auto-ontology](https://github.com/NVIDIA/auto-ontology) | ⭐14.0k — NVIDIA Python framework that auto-infers semantic, graph-based relationships across datasets (Apache-2.0) (from carousel Df934_WH2mt)
 ---
 
 
