@@ -256,6 +256,8 @@
 ||| [youtube-shorts-pipeline](https://github.com/rushindrasinha/youtube-shorts-pipeline) | ⭐2.4k — Automated YouTube Shorts pipeline: news → script → AI visuals → voiceover → captions → upload (MIT) |
 ||| [sherlock](https://github.com/sherlock-project/sherlock) | ⭐114.0k — Hunt down social media accounts by username across social networks (MIT) |
 ||| [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | ⭐8.4k — 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) / Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes (GPL-3.0) |
+||| [gtavi-claudecode](https://github.com/Vivian1987/gtavi-claudecode) | ⭐24 —  (MIT) |
+||| [Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ⭐5.0k — Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa (GPL-3.0) |
 
 ---
 
@@ -599,6 +601,7 @@
 | [🖨️ printwatch](https://github.com/clawsyndicate/printwatch) | ⭐3 — Hermes Agent plugin: control 3D printers over LAN — Anycubic Kobra (stock LAN Mode, clean-room protocol) + Klipper/Moonraker, no cloud or rooting (Python) (from post DfZxxYxFRcn) |
 ||| [hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | ⭐707 — Official plugin set for Hermes Agent from Nous Research (MIT) |
 ||| [📞 agentring](https://github.com/mutonby/agentring) | ⭐449 — Let your AI agents **call your phone** over VoIP and call them back: rings like a real call even locked/Doze, a voice AI explains what happened, you talk it through, the agent gets the transcript and carries on. Missed call becomes a message. Self-hosted, **no phone numbers and no Twilio** (VoIP to their app, Android 8+); hosted free tier = 1 phone / 10 voice minutes a month. Works via MCP with Claude Code, Codex, opencode, OpenClaw, Hermes. Apache-2.0, Python (from reel DfUqZ1ChjH1) |
+||| [rust-anything](https://github.com/erkamyaman/rust-anything) | ⭐6.0k — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (MIT) |
 
 ---
 
@@ -770,6 +773,7 @@
 ||| [aws-emulator](https://github.com/aws/aws-emulator) | ⭐7.6k — AWS Emulator — local emulator of the AWS APIs, run your AWS workflows offline (CC0-1.0) |
 ||| [kiri](https://github.com/libracoder/kiri) | ⭐9.7k — A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative (Apache-2.0) |
 ||| [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | ⭐10.5k — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi (MIT) |
+||| [apkstart](https://github.com/RoutineMiku/apkstart) | ⭐8.6k — Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时 (MIT) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
@@ -825,6 +829,7 @@
 ||| [textfold](https://github.com/chenxiachan/textfold) | ⭐1.2k — Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text. (Apache-2.0) |
 ||| [trnrt](https://github.com/RunanywhereAI/trnrt) | ⭐1.6k — The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere. (Apache-2.0) |
 ||| [bla](https://github.com/qybaihe/bla) | ⭐6.1k — 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI rev (MIT) |
+||| [marimba-api](https://github.com/Charcot-AI/marimba-api) | ⭐13 — Marimba: typed, calibrated decisions about streaming audio. Inference package, demo, integrations and benchmark. (Apache-2.0) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
