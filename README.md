@@ -488,6 +488,8 @@
 ||| [exact](https://github.com/expo/exact) | ⭐4.5k — Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them. (MIT) |
 ||| [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | ⭐20.6k — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (MIT) |
 ||| [Camlo](https://github.com/Kianuni/Camlo) | ⭐219 — Camlo · 开幕 — Bring your iPhone Lock Screen to life: 1-tap slide-to-unlock morphs, 3D depth & motion wallpapers, no PC/jailbreak (iOS / iPhone Duo 26–27)｜让锁屏活起来：免电脑一键直写上滑变身、裸眼 3D 与动态锁屏 (GPL-3.0) |
+||| [openmotion](https://github.com/nexu-io/openmotion) | ⭐15.0k — The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A fu (Apache-2.0) |
+||| [YouDash](https://github.com/sa4hnd/YouDash) | ⭐450 — YouDash brings native YouTube to Apple CarPlay with YouMod ad blocking, responsive layouts, and an on-screen keyboard. Open-source iOS integration. Formerly YouTube Car. (GPL-3.0) |
 
 ---
 
@@ -564,6 +566,7 @@
 ||| [antigravity-plugin-context-mode](https://github.com/Domush/antigravity-plugin-context-mode) | ⭐77 — Reduce context size by 90%+ *and* make your agent smart
 ||| [🖥️ agent-desktop](https://github.com/vercel-labs/agent-desktop) | ⭐25.7k — Computer-use CLI letting AI agents control desktop apps by clicking, typing and interacting (Apache-2.0) (from carousel Df934_WH2mt)
 ||| [🌐 agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐53.0k — Browser automation CLI for AI agents — navigate sites, interact with pages, fill forms (Apache-2.0) (from carousel Df934_WH2mt)er. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
+||| [prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) | ⭐1.0k — The fast, beautiful, open-source download manager for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, crash-safe resume. (MIT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -842,6 +845,7 @@
 ||| [marimba-api](https://github.com/Charcot-AI/marimba-api) | ⭐13 — Marimba: typed, calibrated decisions about streaming audio. Inference package, demo, integrations and benchmark. (Apache-2.0) |
 ||| [LoopForge](https://github.com/Tencent/LoopForge) | ⭐5.4k — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
 ||| [linger](https://github.com/simplexai-labs/linger) | ⭐3.2k — Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design |
+||| [blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ⭐2.7k — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti (MIT) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
