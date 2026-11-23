@@ -567,6 +567,7 @@
 ||| [🖥️ agent-desktop](https://github.com/vercel-labs/agent-desktop) | ⭐25.7k — Computer-use CLI letting AI agents control desktop apps by clicking, typing and interacting (Apache-2.0) (from carousel Df934_WH2mt)
 ||| [🌐 agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐53.0k — Browser automation CLI for AI agents — navigate sites, interact with pages, fill forms (Apache-2.0) (from carousel Df934_WH2mt)er. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
 ||| [prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) | ⭐1.0k — The fast, beautiful, open-source download manager for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, crash-safe resume. (MIT) |
+||| [posewear](https://github.com/atuizz/posewear) | ⭐1.9k — 姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on (MIT) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -613,6 +614,7 @@
 ||| [📞 agentring](https://github.com/mutonby/agentring) | ⭐449 — Let your AI agents **call your phone** over VoIP and call them back: rings like a real call even locked/Doze, a voice AI explains what happened, you talk it through, the agent gets the transcript and carries on. Missed call becomes a message. Self-hosted, **no phone numbers and no Twilio** (VoIP to their app, Android 8+); hosted free tier = 1 phone / 10 voice minutes a month. Works via MCP with Claude Code, Codex, opencode, OpenClaw, Hermes. Apache-2.0, Python (from reel DfUqZ1ChjH1) |
 ||| [rust-anything](https://github.com/erkamyaman/rust-anything) | ⭐6.0k — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (MIT) |
 ||| [SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | ⭐4.3k — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation (Apache-2.0) |
+||| [AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | ⭐633 — AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge. (MIT) |
 
 ---
 
@@ -787,6 +789,7 @@
 ||| [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | ⭐10.5k — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi (MIT) |
 ||| [apkstart](https://github.com/RoutineMiku/apkstart) | ⭐8.6k — Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时 (MIT) |
 ||| [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) | ⭐625 — iCloud, set free: Apple Notes, Reminders, Calendar, Contacts, iCloud Drive and Photos as native apps on Windows, Linux and Android. Works offline. Open source, Rust. (GPL-3.0) |
+||| [flowplan](https://github.com/yannicschuller/flowplan) | ⭐184 — Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal. (AGPL-3.0) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
@@ -846,6 +849,8 @@
 ||| [LoopForge](https://github.com/Tencent/LoopForge) | ⭐5.4k — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
 ||| [linger](https://github.com/simplexai-labs/linger) | ⭐3.2k — Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design |
 ||| [blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ⭐2.7k — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti (MIT) |
+||| [MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | ⭐1.0k — Fast, accurate OCR with correctness assessment. (Apache-2.0) |
+||| [neonclipping](https://github.com/iamajmeena/neonclipping) | ⭐2.2k — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM). (MIT) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
