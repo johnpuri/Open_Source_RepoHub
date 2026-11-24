@@ -816,6 +816,7 @@
 || [📱 MVT](https://github.com/mvt-project/mvt) | ⭐14.9k — Amnesty's Mobile Verification Toolkit — forensic triage for Android/iOS compromise (Pegasus-era tooling) |
 ||| [🔧 backend-cheats](https://github.com/cheatsnake/backend-cheats) | 📃 White paper for Backend developers |
 ||| [🐬 Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware) | ⭐21.9k — Stable custom firmware for Flipper Zero unlocking extra radio, NFC, Sub-GHz, and bad USB features |
+||| [🦈 Bruce](https://github.com/BruceDevices/firmware) | ⭐7.4k — The Flipper Zero substitute you can actually buy: offensive-security firmware for a **$5–15 ESP32** (the chip in smart plugs and doorbells), not a banned device. Wi-Fi/Bluetooth scanning, router tests, IR/TV remotes, NFC/RFID, Sub-GHz and 2.4 GHz with an add-on radio. Flash straight from the browser at bruce.computer/flasher — no toolchain. Runs on M5Stack Cardputer/StickC, LILYGO T-Deck/T-Embed, M5Core and Elecrow boards. AGPL-3.0, C++ (from reel DgHCAD4ktqQ) |
 
 || [FreeToken](https://github.com/FlashML-org/FreeToken) | ⭐7k — A lightweight Python toolkit for creating, validating, and managing token-based authentication, supporting JWT, opaque tokens, and config... |
 || [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | ⭐29.2k — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain boots... |
