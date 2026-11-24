@@ -14,7 +14,7 @@
 
 ## 📌 Table of Contents
 
-> 📎 Companion lists: **[50 Places to Launch Your Startup](LAUNCH-PLATFORMS.md)** — launch platforms, directories and communities.
+> 📎 Companion lists: **[50 Places to Launch Your Startup](LAUNCH-PLATFORMS.md)** — launch platforms, directories and communities. · **[SEO & Growth Playbooks](SEO-AND-PLAYBOOKS.md)** — tactics from reels that aren't repos (`.gov` backlinks, skill-section rules, research notes).
 
 - [🧩 Agent Skills & Plugins](#-agent-skills--plugins)
 - [🤖 AI Agents & Frameworks](#-ai-agents--frameworks)
