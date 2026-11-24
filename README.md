@@ -261,6 +261,7 @@
 ||| [Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | ⭐5.0k — Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa (GPL-3.0) |
 ||| [🐘 elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐21.6k — Google plugin for collaborating with AI agents on software design and code reviews from the earliest stages (Apache-2.0) (from carousel Df934_WH2mt)
 ||| [anymachine](https://github.com/apekshik/anymachine) | ⭐928 — Working mechanical rigs from a generated mesh: hinges, legs, and soft goods, every control a 0-1 parameter (MIT) |
+||| [splat](https://github.com/sventmueller/splat) | ⭐91 — Native macOS Markdown editor with a live, editable preview: write in the source or straight in the preview. LaTeX, Mermaid, Graphviz and PlantUML offline, export to PDF, HTML and Word. Rust on AppKit, (Apache-2.0) |
 
 ---
 
@@ -490,6 +491,8 @@
 ||| [Camlo](https://github.com/Kianuni/Camlo) | ⭐219 — Camlo · 开幕 — Bring your iPhone Lock Screen to life: 1-tap slide-to-unlock morphs, 3D depth & motion wallpapers, no PC/jailbreak (iOS / iPhone Duo 26–27)｜让锁屏活起来：免电脑一键直写上滑变身、裸眼 3D 与动态锁屏 (GPL-3.0) |
 ||| [openmotion](https://github.com/nexu-io/openmotion) | ⭐15.0k — The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A fu (Apache-2.0) |
 ||| [YouDash](https://github.com/sa4hnd/YouDash) | ⭐450 — YouDash brings native YouTube to Apple CarPlay with YouMod ad blocking, responsive layouts, and an on-screen keyboard. Open-source iOS integration. Formerly YouTube Car. (GPL-3.0) |
+||| [doory](https://github.com/shaongitbd/doory) | ⭐2.9k — Open source canva alternative |
+||| [rune](https://github.com/anomalyco/rune) | ⭐7.9k — Rune: Native UI framework (MIT) |
 
 ---
 
@@ -568,6 +571,7 @@
 ||| [🌐 agent-browser](https://github.com/vercel-labs/agent-browser) | ⭐53.0k — Browser automation CLI for AI agents — navigate sites, interact with pages, fill forms (Apache-2.0) (from carousel Df934_WH2mt)er. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build logs (MIT) |
 ||| [prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) | ⭐1.0k — The fast, beautiful, open-source download manager for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, crash-safe resume. (MIT) |
 ||| [posewear](https://github.com/atuizz/posewear) | ⭐1.9k — 姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on (MIT) |
+||| [MROffice](https://github.com/XinaTian/MROffice) | ⭐3.6k — MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Ex (AGPL-3.0) |
 
 |---|
 ## 📊 Token Usage & Cost Management
@@ -790,6 +794,7 @@
 ||| [apkstart](https://github.com/RoutineMiku/apkstart) | ⭐8.6k — Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时 (MIT) |
 ||| [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) | ⭐625 — iCloud, set free: Apple Notes, Reminders, Calendar, Contacts, iCloud Drive and Photos as native apps on Windows, Linux and Android. Works offline. Open source, Rust. (GPL-3.0) |
 ||| [flowplan](https://github.com/yannicschuller/flowplan) | ⭐184 — Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal. (AGPL-3.0) |
+||| [Lichii](https://github.com/zortos293/Lichii) | ⭐10.2k — VERY experimental Nintendo Switch 2 emulator (GPL-3.0) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
