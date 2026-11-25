@@ -516,6 +516,8 @@
 ||| [YouDash](https://github.com/sa4hnd/YouDash) | ⭐450 — YouDash brings native YouTube to Apple CarPlay with YouMod ad blocking, responsive layouts, and an on-screen keyboard. Open-source iOS integration. Formerly YouTube Car. (GPL-3.0) |
 ||| [doory](https://github.com/shaongitbd/doory) | ⭐2.9k — Open source canva alternative |
 ||| [rune](https://github.com/anomalyco/rune) | ⭐7.9k — Rune: Native UI framework (MIT) |
+||| [age-of-decomp](https://github.com/iCosiSenpai/age-of-decomp) | ⭐31 — Native Windows/Linux build of your own Hyrule Warriors: Age of Imprisonment (Switch 2): static recompilation, step-by-step setup, full settings, native controllers, RecompLauncher-ready. No game files (GPL-3.0) |
+||| [quiet-md](https://github.com/s1dashu/quiet-md) | ⭐2.8k — Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed. (MIT) |
 
 ---
 
@@ -639,6 +641,7 @@
 ||| [📞 agentring](https://github.com/mutonby/agentring) | ⭐449 — Let your AI agents **call your phone** over VoIP and call them back: rings like a real call even locked/Doze, a voice AI explains what happened, you talk it through, the agent gets the transcript and carries on. Missed call becomes a message. Self-hosted, **no phone numbers and no Twilio** (VoIP to their app, Android 8+); hosted free tier = 1 phone / 10 voice minutes a month. Works via MCP with Claude Code, Codex, opencode, OpenClaw, Hermes. Apache-2.0, Python (from reel DfUqZ1ChjH1) |
 ||| [rust-anything](https://github.com/erkamyaman/rust-anything) | ⭐6.0k — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (MIT) |
 ||| [AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | ⭐633 — AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge. (MIT) |
+||| [rea-video](https://github.com/JuneYaooo/rea-video) | ⭐13.2k — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (Apache-2.0) |
 
 ---
 
