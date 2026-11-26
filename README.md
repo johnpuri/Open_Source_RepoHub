@@ -297,6 +297,9 @@
 ||| [🐘 elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | ⭐21.6k — Google plugin for collaborating with AI agents on software design and code reviews from the earliest stages (Apache-2.0) (from carousel Df934_WH2mt)
 ||| [anymachine](https://github.com/apekshik/anymachine) | ⭐928 — Working mechanical rigs from a generated mesh: hinges, legs, and soft goods, every control a 0-1 parameter (MIT) |
 ||| [splat](https://github.com/sventmueller/splat) | ⭐91 — Native macOS Markdown editor with a live, editable preview: write in the source or straight in the preview. LaTeX, Mermaid, Graphviz and PlantUML offline, export to PDF, HTML and Word. Rust on AppKit, (Apache-2.0) |
+||| [xcl](https://github.com/xcl-dev/xcl) | ⭐8.4k — Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL (GPL-2.0) |
+||| [Motion-Capture-By-Shubham](https://github.com/shubhamgtm/Motion-Capture-By-Shubham) | ⭐54 — A clean, simple screen recorder for Windows. Record your full screen or a single window to MP4. Written in C with the Win32 API and FFmpeg. |
+||| [VIctory](https://github.com/Marvisak/VIctory) | ⭐13.0k — An attempt at running GTA VI on PC (GPL-3.0) |
 
 ---
 
@@ -642,6 +645,7 @@
 ||| [rust-anything](https://github.com/erkamyaman/rust-anything) | ⭐6.0k — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (MIT) |
 ||| [AI-Video-Factory](https://github.com/ersinkoc/AI-Video-Factory) | ⭐633 — AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps the human in charge. (MIT) |
 ||| [rea-video](https://github.com/JuneYaooo/rea-video) | ⭐13.2k — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (Apache-2.0) |
+||| [InteraOne](https://github.com/InteraOne/InteraOne) | ⭐150 — ⚡ Open source, agentic alternative to Intercom & Zendesk |
 
 ---
 
@@ -873,6 +877,7 @@
 ||| [blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | ⭐2.7k — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti (MIT) |
 ||| [MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | ⭐1.0k — Fast, accurate OCR with correctness assessment. (Apache-2.0) |
 ||| [neonclipping](https://github.com/iamajmeena/neonclipping) | ⭐2.2k — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM). (MIT) |
+||| [offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | ⭐1.1k — Free offline file converter for Windows – convert PDF, documents, images, audio and video privately. (MIT) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
