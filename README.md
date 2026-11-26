@@ -139,6 +139,7 @@
 || [plane](https://github.com/makeplane/plane) | ⭐62.4k — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do... |
 || [hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) | ⭐1.4k — Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. |
 || [scriptcat](https://github.com/scriptscat/scriptcat) | ⭐5.2k — ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
+|| [🎨 hallmark](https://github.com/Nutlope/hallmark) | ⭐61.5k — Anti-AI-slop design skill for Claude Code, Cursor, and Codex (from sansser.ai reel DgNJdLjB5Mq) |
 ---
 
 ## 🤖 AI Agents & Frameworks
@@ -612,6 +613,7 @@
 ||| [🧠 GPTCache](https://github.com/zilliztech/GPTCache) | ⭐8.1k — Semantic cache for LLM responses, reducing API costs by serving cached results
 || [🦀 rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 || [🔧 pxpipe](https://github.com/teamchong/pxpipe) | cut Fable 5 token usage by rendering text context as images |
+|| [🆓 dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | ⭐88.1k — DSH plugin that unlocks free DeepSeek V4.1 Flash and other models with no login, signup or API key (from sansser.ai reel DgNJdLjB5Mq) |
 
 ---
 
