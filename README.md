@@ -301,6 +301,8 @@
 ||| [xcl](https://github.com/xcl-dev/xcl) | ⭐8.4k — Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL (GPL-2.0) |
 ||| [Motion-Capture-By-Shubham](https://github.com/shubhamgtm/Motion-Capture-By-Shubham) | ⭐54 — A clean, simple screen recorder for Windows. Record your full screen or a single window to MP4. Written in C with the Win32 API and FFmpeg. |
 ||| [VIctory](https://github.com/Marvisak/VIctory) | ⭐13.0k — An attempt at running GTA VI on PC (GPL-3.0) |
+||| [LazaScope](https://github.com/kimineechan/LazaScope) | ⭐10 — Portable Windows utility that shows what a PC is doing (start-up items, running programs, connections, protections) and explains anything worth a second look in plain English. Read-only. (MIT) |
+||| [portwatch-vi](https://github.com/4lwayz/portwatch-vi) | ⭐6.3k — Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily. |
 
 ---
 
@@ -523,6 +525,7 @@
 ||| [age-of-decomp](https://github.com/iCosiSenpai/age-of-decomp) | ⭐31 — Native Windows/Linux build of your own Hyrule Warriors: Age of Imprisonment (Switch 2): static recompilation, step-by-step setup, full settings, native controllers, RecompLauncher-ready. No game files (GPL-3.0) |
 ||| [quiet-md](https://github.com/s1dashu/quiet-md) | ⭐2.8k — Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed. (MIT) |
 ||| [🎨 ArtCraft](https://github.com/storytold/artcraft) | ⭐42.5k — The IDE for artists: compose AI image/video in 2D, stage scenes in 3D, pick your own models; desktop app, Rust (Apache-2.0) |
+||| [unslop-anything](https://github.com/erkamyaman/unslop-anything) | ⭐420 — Your app looks AI-generated. Vincent Van Gogh noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. (MIT) |
 
 ---
 
@@ -820,6 +823,7 @@
 ||| [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) | ⭐625 — iCloud, set free: Apple Notes, Reminders, Calendar, Contacts, iCloud Drive and Photos as native apps on Windows, Linux and Android. Works offline. Open source, Rust. (GPL-3.0) |
 ||| [flowplan](https://github.com/yannicschuller/flowplan) | ⭐184 — Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal. (AGPL-3.0) |
 ||| [Lichii](https://github.com/zortos293/Lichii) | ⭐10.2k — VERY experimental Nintendo Switch 2 emulator (GPL-3.0) |
+||| [alma-relay](https://github.com/yetone/alma-relay) | ⭐606 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers. (MIT) |
 
 || [omarchy](https://github.com/basecamp/omarchy) | ⭐30.8k — Beautiful, Modern & Opinionated Linux |
 || [xyops](https://github.com/pixlcore/xyops) | ⭐5.7k — A complete workflow automation and server monitoring system. |
@@ -881,6 +885,7 @@
 ||| [MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | ⭐1.0k — Fast, accurate OCR with correctness assessment. (Apache-2.0) |
 ||| [neonclipping](https://github.com/iamajmeena/neonclipping) | ⭐2.2k — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM). (MIT) |
 ||| [offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | ⭐1.1k — Free offline file converter for Windows – convert PDF, documents, images, audio and video privately. (MIT) |
+||| [OXR](https://github.com/SoMarkAI/OXR) | ⭐3.9k — An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training. |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
