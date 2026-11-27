@@ -522,6 +522,7 @@
 ||| [rune](https://github.com/anomalyco/rune) | ⭐7.9k — Rune: Native UI framework (MIT) |
 ||| [age-of-decomp](https://github.com/iCosiSenpai/age-of-decomp) | ⭐31 — Native Windows/Linux build of your own Hyrule Warriors: Age of Imprisonment (Switch 2): static recompilation, step-by-step setup, full settings, native controllers, RecompLauncher-ready. No game files (GPL-3.0) |
 ||| [quiet-md](https://github.com/s1dashu/quiet-md) | ⭐2.8k — Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed. (MIT) |
+||| [🎨 ArtCraft](https://github.com/storytold/artcraft) | ⭐42.5k — The IDE for artists: compose AI image/video in 2D, stage scenes in 3D, pick your own models; desktop app, Rust (Apache-2.0) |
 
 ---
 
