@@ -267,7 +267,7 @@
 | [🔧 OpenWork](https://github.com/different-ai/openwork) | ⭐23k — Open-source alternative to Claude Cowork (powered by opencode) — multi-agent workspace for dev workflows |
 | [OpenBot](https://github.com/CopilotKit/openbot) | 3.1k stars - Open-source Grok Bot alternative - each bot gets its own computer (browser, files, logins), watch live and take over (from reel DcY0yX1R-9O) |
 || [🎮 Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐38.9k — Turn Claude Code into a full game dev studio: **49 AI agents** (directors, leads, specialists) plus 72 workflow skills that build a game together (MIT; from reel DffJDq9hen-) |
-|| [🔍 craft-anything](https://github.com/storytold/craft-anything) | ⭐31.1k — Let your AI agent inspect any website, app or game, understand how it works, and rebuild your own improved version. Rust (Apache-2.0; from reel DffJDq9hen-) |
+|| [🔍 craft-anything](https://github.com/storytold/craft-anything) | ⭐44.3k — See how any website, app or game works with evidence-backed answers, then have AI build your own; desktop app + CLI + MCP server, 100% Rust (MIT OR Apache-2.0; from reel DffJDq9hen-) |
 || [🐭 OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ⭐22.1k — Open-source Grok Bot alternative: team of AI bots in a chat app on your own machine — own API keys/subs, scheduled tasks, computer use, Gmail/GitHub/Slack integrations (Apache-2.0) |
 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 14.7k stars - Secure, fast, extensible sandbox runtime for AI agents (from reel DcY0yX1R-9O) |
 | [Graft](https://github.com/trailhq/Graft) | 4.9k stars - Maps your codebase once into linked markdown files - up to 4x fewer tokens (from reel DcY0yX1R-9O) |
