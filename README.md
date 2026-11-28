@@ -303,6 +303,7 @@
 ||| [VIctory](https://github.com/Marvisak/VIctory) | ⭐13.0k — An attempt at running GTA VI on PC (GPL-3.0) |
 ||| [LazaScope](https://github.com/kimineechan/LazaScope) | ⭐10 — Portable Windows utility that shows what a PC is doing (start-up items, running programs, connections, protections) and explains anything worth a second look in plain English. Read-only. (MIT) |
 ||| [portwatch-vi](https://github.com/4lwayz/portwatch-vi) | ⭐6.3k — Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily. |
+||| [WinePS4](https://github.com/iHaiDeeZ/WinePS4) | ⭐152 — Wine 11 on the PS4: Windows programs and games on a jailbroken PS4, as a native app (LGPL-2.1) |
 
 ---
 
@@ -526,6 +527,7 @@
 ||| [quiet-md](https://github.com/s1dashu/quiet-md) | ⭐2.8k — Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed. (MIT) |
 ||| [🎨 ArtCraft](https://github.com/storytold/artcraft) | ⭐42.5k — The IDE for artists: compose AI image/video in 2D, stage scenes in 3D, pick your own models; desktop app, Rust (Apache-2.0) |
 ||| [unslop-anything](https://github.com/erkamyaman/unslop-anything) | ⭐420 — Your app looks AI-generated. Vincent Van Gogh noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites. (MIT) |
+||| [opengame](https://github.com/nexu-io/opengame) | ⭐2.7k — The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish (Apache-2.0) |
 
 ---
 
@@ -886,6 +888,8 @@
 ||| [neonclipping](https://github.com/iamajmeena/neonclipping) | ⭐2.2k — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM). (MIT) |
 ||| [offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | ⭐1.1k — Free offline file converter for Windows – convert PDF, documents, images, audio and video privately. (MIT) |
 ||| [OXR](https://github.com/SoMarkAI/OXR) | ⭐3.9k — An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training. |
+||| [hob](https://github.com/FrigadeHQ/hob) | ⭐578 — An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and  (MIT) |
+||| [openset-llm](https://github.com/opensetlabs/openset-llm) | ⭐2.3k — Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server. (MIT) |
 
 || [openGym](https://github.com/arvids-unavailable/openGym) | ⭐4.8k — https://github.com/DuarteSantos8/openGym |
 || [🧠 MiniMind](https://github.com/PSMWVVVNSG/minimind) | ⭐63.8k — Train a 64M-parameter LLM from scratch in ~2h; learn how small language models work (from lindsay.ai reel DejR-hTDDA8) |
