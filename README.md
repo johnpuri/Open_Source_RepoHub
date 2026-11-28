@@ -762,6 +762,9 @@
 ||| [🍿 K7](https://github.com/kaybi-gh/K7) | ⭐222 — Self-hosted private media server for family & close friends with synchronized playback (watch together) |
 ||| [📥 libreget](https://github.com/OpenSelena/libreget) | ⭐6.1k — Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Tauri 2.0 + Rust + Svelte (GPL-3.0). *Renamed from `igect/omniget`* |
 ||| [HermesEnabler](https://github.com/pookjw/HermesEnabler) | ⭐1.8k — Enable Hermès Watch Faces on any Apple Watch device — unrelated to Nous Hermes Agent (MIT) |
+| [💬 Chatwoot](https://github.com/chatwoot/chatwoot) | ⭐41k — Open-source omni-channel support desk — live chat, email, WhatsApp, Instagram in one inbox; the "Intercom/Zendesk twin" (MIT core, enterprise/ dir commercially licensed) |
+| [⚡ Activepieces](https://github.com/activepieces/activepieces) | ⭐26k — Open-source AI-first workflow automation with ~400 MCP servers; the "Zapier twin" (MIT core, ee/ dirs commercially licensed) |
+| [✍️ Documenso](https://github.com/documenso/documenso) | ⭐16k — Open-source DocuSign alternative — self-hosted e-signatures, templates, audit trail (AGPL-3.0) |
 
 || [vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | ⭐10.9k — Free and open-source macOS menu bar toolkit. |
 || [🧹 Burrow (Mole-GUI)](https://github.com/khan-umirzakoff/Mole-GUI) | ⭐64 — Free open-source Mac cleaner: native SwiftUI app over the Mole CLI engine — clean caches, uninstall apps with leftovers, disk map, health score. CleanMyMac alternative ($19 vs free); safety checks/Trash-first deletes inherited from Mole; Touch ID for sudo. **Requires macOS 26+ on Apple silicon**, ad-hoc signed so two Gatekeeper dialogs (or `xattr -dr com.apple.quarantine`); GPL-3.0 (from reel DfNmNrpgNMs) |
