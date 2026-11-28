@@ -725,6 +725,7 @@
 || Project | Description |
 |------|
 ||| [👥 KiroCrew](https://github.com/kirodotdev/KiroCrew) | ⭐1.8k — Persistent, self-improving AI dev workspace — runs locally/remotely on your hardware, remembers across sessions, keeps working unattended via desktop app, web dashboard, CLI, Slack/Discord (Apache-2.0) |
+||| [📱 Homedroid](https://github.com/sudiptacmd/homedroid) | ⭐208 — Turn a spare Android phone into a **no-root home server from one APK** (no Termux): Jellyfin with on-chip hardware transcoding, NAS on USB/microSD, Immich photo backup, qBittorrent, Home Assistant, local llama.cpp AI, DNS ad-blocking and web hosting, plus SSH on :8022 and a web dashboard. Tailscale/Cloudflare Tunnel for remote access; 0.9.6 beta adds standby clock, MacroPads button deck and phone-as-webcam. **Android 10+, ARM64 for Immich/llama.cpp; beta** — keep it ventilated and use a charge limit, the battery is the UPS (GPL-3.0, Kotlin; from reel DgJddp8SGYD) |
 ||| [📸 immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 ||| [⚡ open-compute](https://github.com/elliothux/open-compute) | ⭐1.2k — Self-hosted Cloudflare Workers-compatible platform (KV, D1, R2, Durable Objects, Queues) in one binary — Workers on your own server (Apache-2.0) |
 ||| [💾 9drive](https://github.com/zenhosta/9drive) | ⭐2.1k — Storage gateway pooling multiple Google Drive accounts into one virtual dashboard (Apache-2.0) |
